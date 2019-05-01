@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Named Entity Processing for Digital Humanities
 
-You can use the [editor on GitHub](https://github.com/impresso/named-entity-tutorial-dh2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Objective
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The objective of the tutorial is to provide the participants with essential knowledge with respect to a) NE processing in general and in DH, and b) how to apply NE recognition approaches. To this end, the session will be organized in two parts (theory and hands-on), as detailed in the synopsis below. Throughout the sessions, the audience will learn about the origins of named entity processing, the resources needed for their processing, the evaluation protocols, and the tools and algorithms used for their recognition, classification and disambiguation. Participants will also learn how to run an existing NER system and, more interestingly, how to build or adapt a system, by training it on historical materials.
 
-### Markdown
+## Material
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the hands-on session we will make use of two datasets consisting of historical texts: 1. Quaero Dataset (French historical newspapers of the end of the XIX c.)  and 2. impresso dataset (Swiss and Luxembourgish historical newspapers in French and German). Additionally, we will provide a list of alternative datasets, both historical and contemporary, that participants can decide to work with, in full respect of copyrights. Finally, participants are welcome to bring to the workshop their own datasets in order to apply the code and tools we will present to them.
 
-```markdown
-Syntax highlighted code block
+## Technical set-up
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/impresso/named-entity-tutorial-dh2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hands-on material will be shared on GitHub and will include:
+- Jupyter notebooks with explanations and code examples; if relevant, we will set up a multi user environment (Jupyter Hub) in order to reduce system setup time during the tutorial;
+- a bibliography on the topic;
+- a list of of available open source academic and industrial tools;
+slides of the tutorial.
