@@ -8,7 +8,7 @@ De facto, NE processing tools are increasingly being used in the context of hist
 
 ## Objective
 
-The objective of the tutorial is to provide the participants with essential knowledge with respect to a) NE processing in general and in DH, and b) how to apply NE recognition approaches. To this end, the session will be organized in two parts (theory and hands-on).
+The objective of the tutorial is to provide the participants with essential knowledge with respect to a) NE processing in general and in DH, and b) how to apply NE recognition approaches. To this end, the session will be organized in two parts, theory and hands-on.
 
 Throughout the sessions, the audience will learn about:
 - the origins of named entity processing
@@ -44,20 +44,22 @@ Hands-on material will be shared on GitHub and will include:
 
 ## References
 
-[1] R. Grishman and B. Sundheim. 1996. Message Understanding Conference - 6: A brief history. In Proceedings of the 16th Conference on Computational Linguistics - Volume 1, COLING ’96, pages 466–471, Stroudsburg, PA, USA. Association for Computational Linguistics.
+[1] R. Grishman and B. Sundheim. 1996. [*Message Understanding Conference - 6: A brief history*](https://www.aclweb.org/anthology/C96-1079). In Proceedings of the 16th Conference on Computational Linguistics - Volume 1, COLING ’96, pages 466–471, Stroudsburg, PA, USA. Association for Computational Linguistics.
 
-[2] D. Nadeau and S. Sekine. 2007. A survey of named entity recognition and classification. Lingvisticae Investigationes, 30(1):3–26.
+[2] D. Nadeau and S. Sekine. 2007. [*A survey of named entity recognition and classification*](https://www.jbe-platform.com/content/journals/10.1075/li.30.1.03nad). Lingvisticae Investigationes, 30(1):3–26.
 
-[3] D. Rao, P. McNamee, and M. Dredze, 2013. Multisource, Multilingual Information Extraction and Summarization, chapter Entity Linking: Finding Extracted Entities in a Knowledge Base. Pages 93–115. Springer Berlin Heidelberg, Berlin, Heidelberg.
+[3] D. Rao, P. McNamee, and M. Dredze, 2013. Multisource, Multilingual Information Extraction and Summarization, chapter *Entity Linking: Finding Extracted Entities in a Knowledge Base*. Pages 93–115. Springer Berlin Heidelberg, Berlin, Heidelberg.
 
-[4] D. Nouvel, M. Ehrmann, S. and Rosset. 2015. Les Entités Nommées pour le Traitement Automatique des Langues, ISTE edition.
+[4] D. Nouvel, M. Ehrmann, S. and Rosset. 2015. *Les Entités Nommées pour le Traitement Automatique des Langues*, ISTE edition.
 
-[5] M. Ehrmann, D. Nouvel, and S. Rosset. 2016. Named Entities Resources - Overview and Outlook. In N. Calzolari Conference Chair, K. Choukri, T. Declerck, M. Grobelnik, B. Maegaard, J. Mariani, A. Moreno, J. Odijk, and S. Piperidis, editors, Proceedings of the 10th International Conference on Language Resources and Evaluation, Portoro, Slovenia, May 2016.
+[5] M. Ehrmann, D. Nouvel, and S. Rosset. 2016. [*Named Entities Resources - Overview and Outlook*](https://infoscience.epfl.ch/record/218493). In N. Calzolari Conference Chair, K. Choukri, T. Declerck, M. Grobelnik, B. Maegaard, J. Mariani, A. Moreno, J. Odijk, and S. Piperidis, editors, Proceedings of the 10th International Conference on Language Resources and Evaluation, Portoro, Slovenia, May 2016.
 
-[6] J.D. Kim, T. Ohta, Y. Tateisi, and J. Tsujii. 2003. Genia corpus, a semantically annotated corpus for bio-text mining. Bioinformatics, 19(suppl 1):180–182.
+[6] J.D. Kim, T. Ohta, Y. Tateisi, and J. Tsujii. 2003. *Genia corpus, a semantically annotated corpus for bio-text mining*. Bioinformatics, 19(suppl 1):180–182.
 
-[7] O. Galibert, J. Leixa, G. Adda, K. Choukri, and G. Gravier. 2014. The ETAPE speech processing evaluation. In Proc. of the 9th International Conference on Language Resources and Evaluation (LREC’09), Reykjavik, Iceland.
+[7] O. Galibert, J. Leixa, G. Adda, K. Choukri, and G. Gravier. 2014. *The ETAPE speech processing evaluation*. In Proc. of the 9th International Conference on Language Resources and Evaluation (LREC’09), Reykjavik, Iceland.
 
-[8] A. Ritter, S. Clark, M. Etzioni, and O. Etzioni. 2011. Named Entity Recognition in Tweets: An Experimental Study. In Proceedings of the Conference on Empirical Methods in Natural Language Processing, EMNLP ’11, pages 1524–1534, Stroudsburg, PA, USA. Association for Computational Linguistics.
+[8] A. Ritter, S. Clark, M. Etzioni, and O. Etzioni. 2011. *Named Entity Recognition in Tweets: An Experimental Study*. In Proceedings of the Conference on Empirical Methods in Natural Language Processing, EMNLP ’11, pages 1524–1534, Stroudsburg, PA, USA. Association for Computational Linguistics.
 
-[9] M. Ehrmann, G. Colavizza, Y. Rochat, Y. and F. Kaplan. 2016. Diachronic evaluation of NER systems on old newspapers. In Proceedings of the 13th Conference on Natural Language Processing (KONVENS 2016) (No. EPFL-CONF-221391, pp. 97-107). Bochumer Linguistische Arbeitsberichte.
+[9] M. Ehrmann, G. Colavizza, Y. Rochat, Y. and F. Kaplan. 2016. [*Diachronic evaluation of NER systems on old newspapers*](https://infoscience.epfl.ch/record/221391). In Proceedings of the 13th Conference on Natural Language Processing (KONVENS 2016) (No. EPFL-CONF-221391, pp. 97-107). Bochumer Linguistische Arbeitsberichte.
+
+[10] O. Galibert, S. Rosset, C. Grouin, P. Zweigenbaum and L. Quintard. 2012. [*Extended Named Entity Annotation on OCRed Documents: From Corpus Constitution to Evaluation Campaign*](http://www.lrec-conf.org/proceedings/lrec2012/summaries/343.html). In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12), Istanbul, Turkey.
