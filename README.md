@@ -1,4 +1,6 @@
-# Named Entity Processing for Digital Humanities
+# Named Entity Processing for Digital Humanities 
+       
+DH2019 Tutorial
 
 ## Context
 
