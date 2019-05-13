@@ -30,6 +30,10 @@ In the hands-on session we will make use of two datasets consisting of historica
 
 Additionally, we will provide a list of alternative datasets, both historical and contemporary, that participants can decide to work with, in full respect of copyrights. Finally, participants are welcome to bring to the workshop their own datasets in order to apply the code and tools we will present to them.
 
+## Detailed program
+
+*to come soon!*
+
 ## Technical set-up
 
 Hands-on material will be shared on GitHub and will include:
