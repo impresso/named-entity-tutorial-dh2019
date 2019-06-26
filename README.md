@@ -1,5 +1,7 @@
 # Named Entity Processing for Digital Humanities 
        
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/impresso/named-entity-tutorial-dh2019/notebooks-draft)
+
 **DH2019 Tutorial**
 
 ## Context
