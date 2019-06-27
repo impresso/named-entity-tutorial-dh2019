@@ -22,9 +22,11 @@ Participants will also learn how to run an existing NER system and, more interes
 - rule-based
 - deep-learning
 
-## Date and venue
+## Logistics
 
-The tutorial will take place on **Tuesday 9 July from 9am to 4pm** in the [TivoliVredenburg](https://www.tivolivredenburg.nl/english/) building, **in room 'Hertz'**.
+- Date: Tuesday 9 July from 9am to 4pm
+- Venue: [TivoliVredenburg](https://www.tivolivredenburg.nl/english/) building, **room 'Hertz'**
+- Important: please come with a fully charged laptop
 
 ## General schedule
 
