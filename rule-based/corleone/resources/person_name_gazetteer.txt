@@ -1,0 +1,186 @@
+
+John| GTYPE>gaz_given_name | SURFACE>John
+Philip| GTYPE>gaz_given_name | SURFACE>Philip
+Edward| GTYPE>gaz_given_name | SURFACE>Edward
+
+A | GTYPE>gaz_initial | SURFACE>A
+B | GTYPE>gaz_initial | SURFACE>B
+C | GTYPE>gaz_initial | SURFACE>C
+D | GTYPE>gaz_initial | SURFACE>D
+E | GTYPE>gaz_initial | SURFACE>E
+F | GTYPE>gaz_initial | SURFACE>F
+G | GTYPE>gaz_initial | SURFACE>G
+H | GTYPE>gaz_initial | SURFACE>H
+I | GTYPE>gaz_initial | SURFACE>I
+J | GTYPE>gaz_initial | SURFACE>J
+K | GTYPE>gaz_initial | SURFACE>K
+L | GTYPE>gaz_initial | SURFACE>L
+M | GTYPE>gaz_initial | SURFACE>M
+N | GTYPE>gaz_initial | SURFACE>N
+O | GTYPE>gaz_initial | SURFACE>O
+Q | GTYPE>gaz_initial | SURFACE>Q
+P | GTYPE>gaz_initial | SURFACE>P
+R | GTYPE>gaz_initial | SURFACE>R
+S | GTYPE>gaz_initial | SURFACE>S
+T | GTYPE>gaz_initial | SURFACE>T
+U | GTYPE>gaz_initial | SURFACE>U
+W | GTYPE>gaz_initial | SURFACE>W
+X | GTYPE>gaz_initial | SURFACE>X
+Y | GTYPE>gaz_initial | SURFACE>Y
+Z | GTYPE>gaz_initial | SURFACE>Z
+
+
+de | GTYPE>gaz_name_infix | SURFACE>de
+de la | GTYPE>gaz_name_infix | SURFACE>de la
+De | GTYPE>gaz_name_infix | SURFACE>De
+v. d. | GTYPE>gaz_name_infix | SURFACE>v. d.
+v. | GTYPE>gaz_name_infix | SURFACE>v.
+van de | GTYPE>gaz_name_infix | SURFACE>van de
+van den | GTYPE>gaz_name_infix | SURFACE>van den
+van der | GTYPE>gaz_name_infix | SURFACE>van der
+van | GTYPE>gaz_name_infix | SURFACE>van
+von d. | GTYPE>gaz_name_infix | SURFACE>von d.
+von de | GTYPE>gaz_name_infix | SURFACE>von de
+von den | GTYPE>gaz_name_infix | SURFACE>von den
+von der | GTYPE>gaz_name_infix | SURFACE>von der
+von | GTYPE>gaz_name_infix | SURFACE>von
+
+
+journalist | GTYPE>gaz_title | GNUMBER>sg | SURFACE>journalist
+journalists | GTYPE>gaz_title | GNUMBER>pl | SURFACE>journalists
+businessman |  GTYPE>gaz_title | GNUMBER>sg  | SURFACE> businessman
+businessmen |  GTYPE>gaz_title | GNUMBER>pl  | SURFACE> businessmen
+Governor |  GTYPE>gaz_title | GNUMBER>sg  | SURFACE> Governor
+robber |  GTYPE>gaz_title | GNUMBER>sg  | SURFACE> robber
+robbers |  GTYPE>gaz_title | GNUMBER>pl  | SURFACE> robbers
+offender |  GTYPE>gaz_title | GNUMBER>sg  | SURFACE> offender
+offenders |  GTYPE>gaz_title | GNUMBER>sg  | SURFACE> offenders
+Dipl.-Ing. | GTYPE>gaz_title | SURFACE>Dipl.-Ing.
+Dipl.-ing. | GTYPE>gaz_title | SURFACE>Dipl.-ing.
+Doktor | GTYPE>gaz_title | SURFACE>Doktor
+Dr | GTYPE>gaz_title | SURFACE>Dr
+Dr. hab. | GTYPE>gaz_title | SURFACE>Dr. hab.
+Dr. jur. | GTYPE>gaz_title | SURFACE>Dr. jur.
+Dr. med | GTYPE>gaz_title | SURFACE>Dr. med
+Dr. med. | GTYPE>gaz_title | SURFACE>Dr. med.
+Dr. phil. | GTYPE>gaz_title | SURFACE>Dr. phil.
+Dr. rer. nat. | GTYPE>gaz_title | SURFACE>Dr. rer. nat.
+Dr. rer. pol. | GTYPE>gaz_title | SURFACE>Dr. rer. pol.
+Dr. theol. | GTYPE>gaz_title | SURFACE>Dr. theol.
+Dr. | GTYPE>gaz_title | SURFACE>Dr.
+Dr.-Ing. | GTYPE>gaz_title | SURFACE>Dr.-Ing.
+Dr.-ing. | GTYPE>gaz_title | SURFACE>Dr.-ing.
+M. Sc. | GTYPE>gaz_title | SURFACE>M. Sc.
+M. sc. | GTYPE>gaz_title | SURFACE>M. sc.
+Mgr inż | GTYPE>gaz_title | SURFACE>Mgr inż
+Mgr inż. | GTYPE>gaz_title | SURFACE>Mgr inż.
+Mgr | GTYPE>gaz_title | SURFACE>Mgr
+Mgr. inż. | GTYPE>gaz_title | SURFACE>Mgr. inż.
+Mgr. | GTYPE>gaz_title | SURFACE>Mgr
+Miss | GTYPE>gaz_title | SURFACE>Miss
+Mr | GTYPE>gaz_title | SURFACE>Mr
+Mrs | GTYPE>gaz_title | SURFACE>Mrs
+Ms | GTYPE>gaz_title | SURFACE>Ms
+Prof. Dr. hab. | GTYPE>gaz_title | SURFACE>Prof. Dr. hab.
+Prof. Dr. | GTYPE>gaz_title | SURFACE>Prof. Dr.
+Prof. dr. hab. | GTYPE>gaz_title | SURFACE>Prof. dr. hab.
+Prof. dr. | GTYPE>gaz_title | SURFACE>Prof. dr.
+Prof. | GTYPE>gaz_title | SURFACE>Prof.
+Professor | GTYPE>gaz_title | SURFACE>Professor
+a. o. Prof. | GTYPE>gaz_title | SURFACE>a. o. Prof.
+a. o. prof. | GTYPE>gaz_title | SURFACE>a. o. prof.
+dipl.-ing. | GTYPE>gaz_title | SURFACE>dipl.-ing.
+dr | GTYPE>gaz_title | SURFACE>dr
+dr. jur. | GTYPE>gaz_title | SURFACE>dr. jur.
+dr. med | GTYPE>gaz_title | SURFACE>dr. med
+dr. med. | GTYPE>gaz_title | SURFACE>dr. med.
+dr. phil. | GTYPE>gaz_title | SURFACE>dr. phil.
+dr. rer. nat. | GTYPE>gaz_title | SURFACE>dr. rer. nat.
+dr. rer. pol. | GTYPE>gaz_title | SURFACE>dr. rer. pol.
+dr. theol. | GTYPE>gaz_title | SURFACE>dr. theol.
+dr. | GTYPE>gaz_title | SURFACE>dr.
+dr.-ing. | GTYPE>gaz_title | SURFACE>dr.-ing.
+m. sc. | GTYPE>gaz_title | SURFACE>m. sc.
+mgr inż | GTYPE>gaz_title | SURFACE>mgr inż
+mgr inż. | GTYPE>gaz_title | SURFACE>mgr inż.
+mgr | GTYPE>gaz_title | SURFACE>mgr
+mgr. inż. | GTYPE>gaz_title | SURFACE>mgr. inż.
+mgr. | GTYPE>gaz_title | SURFACE>mgr.
+miss | GTYPE>gaz_title | SURFACE>miss
+mr | GTYPE>gaz_title | SURFACE>mr
+mrs | GTYPE>gaz_title | SURFACE>mrs
+ms | GTYPE>gaz_title | SURFACE>ms
+prof | GTYPE>gaz_title | SURFACE>prof
+prof. dr. hab. | GTYPE>gaz_title | SURFACE>prof. dr. hab.
+prof. dr. | GTYPE>gaz_title | SURFACE>prof. dr.
+prof. | GTYPE>gaz_title | SURFACE>prof.
+sir | GTYPE>gaz_title | SURFACE>sir
+Sir | GTYPE>gaz_title | SURFACE>Sir
+sr | GTYPE>gaz_title | SURFACE>sr
+sr. | GTYPE>gaz_title | SURFACE>sr.
+madame | GTYPE>gaz_title | SURFACE>madame
+Madame | GTYPE>gaz_title | SURFACE>Madame
+Dame | GTYPE>gaz_title | SURFACE>Dame
+Mrs. | GTYPE>gaz_title | SURFACE>Mrs.
+Miss. | GTYPE>gaz_title | SURFACE>Miss.
+mrs | GTYPE>gaz_title | SURFACE>mrs
+miss | GTYPE>gaz_title | SURFACE>miss
+Ms | GTYPE>gaz_title | SURFACE>Ms
+Mister | GTYPE>gaz_title | SURFACE>Mister
+mr. | GTYPE>gaz_title | SURFACE>mr.
+Mrg | GTYPE>gaz_title | SURFACE>Mrg
+Mrg. | GTYPE>gaz_title | SURFACE>Mrg.
+pr | GTYPE>gaz_title | SURFACE>pr
+pr. | GTYPE>gaz_title | SURFACE>pr.
+professor | GTYPE>gaz_title | SURFACE>professor
+ddr | GTYPE>gaz_title | SURFACE>ddr
+mag. | GTYPE>gaz_title | SURFACE>mag.
+Mag. | GTYPE>gaz_title | SURFACE>Mag.
+dkfm | GTYPE>gaz_title | SURFACE>dkfm
+hon. | GTYPE>gaz_title | SURFACE>hon.
+Hon. | GTYPE>gaz_title | SURFACE>Hon.
+Hon'ble | GTYPE>gaz_title | SURFACE>Hon'ble
+monseigneur | GTYPE>gaz_title | SURFACE>monseigneur
+Monseigneur | GTYPE>gaz_title | SURFACE>Monseigneur
+jd | GTYPE>gaz_title | SURFACE>jd
+jd. | GTYPE>gaz_title | SURFACE>jd.
+Sen. | GTYPE>gaz_title | SURFACE>Sen.
+Sen | GTYPE>gaz_title | SURFACE>Sen
+emir | GTYPE>gaz_title | SURFACE>emir
+Emir | GTYPE>gaz_title | SURFACE>Emir
+rep. | GTYPE>gaz_title | SURFACE>rep.
+Rep. | GTYPE>gaz_title | SURFACE>Rep.
+His Holiness | GTYPE>gaz_title | SURFACE>His Holiness
+His Excellency | GTYPE>gaz_title | SURFACE>His Excellency
+His Highness | GTYPE>gaz_title | SURFACE>His Highness
+His Majesty | GTYPE>gaz_title | SURFACE>His Majesty
+His Royal Holiness | GTYPE>gaz_title | SURFACE>His Royal Holiness
+His Royal Excellency | GTYPE>gaz_title | SURFACE>His Royal Excellency
+His Royal Highness | GTYPE>gaz_title | SURFACE>His Royal Highness
+His Royal Majesty | GTYPE>gaz_title | SURFACE>His Royal Majesty
+phd | GTYPE>gaz_title | SURFACE>phd
+PHD | GTYPE>gaz_title | SURFACE>PHD
+Phd | GTYPE>gaz_title | SURFACE>Phd
+CGA | GTYPE>gaz_title | SURFACE>CGA
+CPC | GTYPE>gaz_title | SURFACE>CPC
+CPA | GTYPE>gaz_title | SURFACE>CPA
+CA | GTYPE>gaz_title | SURFACE>CA
+D.O. | GTYPE>gaz_title | SURFACE>D.O.
+DDS | GTYPE>gaz_title | SURFACE>DDS
+DMD | GTYPE>gaz_title | SURFACE>DMD
+Doctor | GTYPE>gaz_title | SURFACE>Doctor
+EurChem | GTYPE>gaz_title | SURFACE>EurChem
+Eur Ing | GTYPE>gaz_title | SURFACE>Eur Ing
+Judge | GTYPE>gaz_title | SURFACE>Judge
+MBA | GTYPE>gaz_title | SURFACE>MBA
+M.D. | GTYPE>gaz_title | SURFACE>M.D.
+MLIS | GTYPE>gaz_title | SURFACE>MLIS
+MSN | GTYPE>gaz_title | SURFACE>MSN
+PA | GTYPE>gaz_title | SURFACE>PA
+RPA | GTYPE>gaz_title | SURFACE>RPA
+PA-C | GTYPE>gaz_title | SURFACE>PA-C
+RPA-C | GTYPE>gaz_title | SURFACE>RPA-C
+P.Eng. | GTYPE>gaz_title | SURFACE>P.Eng.
+Professor Emeritus | GTYPE>gaz_title | SURFACE>Professor Emeritus
+Ph.D. | GTYPE>gaz_title | SURFACE>Ph.D.
+RN | GTYPE>gaz_title | SURFACE>RN
