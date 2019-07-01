@@ -1,0 +1,244 @@
+2019-06-29 17:14:55,283: INFO main it.jrc.lt.core.component.Component - Create an instance of: %1
+2019-06-29 17:14:55,291: INFO main it.jrc.lt.core.component.Component - No such component is available: %1
+2019-06-29 17:14:55,292: INFO main it.jrc.lt.core.component.Component - Read configuration from file: %2
+2019-06-29 17:14:55,293: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:14:55,294: INFO main it.jrc.lt.core.component.Component - Empty configuration object.
+2019-06-29 17:14:55,294: ERROR main it.jrc.lt.core.component.Component - Invalid configuration.
+2019-06-29 17:14:55,294: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: 
+2019-06-29 17:14:55,294: ERROR main it.jrc.lt.core.component.Component - Trying to save an uninitialized component.
+2019-06-29 17:14:55,294: INFO main it.jrc.lt.core.component.Component - Compilation aborted.
+2019-06-29 17:15:40,479: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:15:40,490: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_nameGazetteer.cfg
+2019-06-29 17:15:40,491: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:15:40,493: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-06-29 17:15:40,493: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../../Assignments/1.Gazetteer/PersonNameAttributes.txt
+2019-06-29 17:15:40,496: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../../Assignments/1.Gazetteer/person_name_gazetteer.txt
+2019-06-29 17:15:40,497: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-06-29 17:15:40,497: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-06-29 17:15:40,497: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-06-29 17:15:40,497: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-06-29 17:15:40,498: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-06-29 17:15:40,499: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-06-29 17:15:40,499: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-06-29 17:15:40,499: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-06-29 17:15:40,499: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-06-29 17:15:40,499: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-06-29 17:15:40,502: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-06-29 17:15:40,502: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-06-29 17:15:40,507: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-06-29 17:15:40,507: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-06-29 17:15:40,534: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-06-29 17:15:40,545: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-06-29 17:15:40,545: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-06-29 17:15:40,545: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-06-29 17:15:40,545: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-06-29 17:15:40,545: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-06-29 17:15:40,547: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-06-29 17:15:40,548: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-06-29 17:15:40,548: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: /compiled-resources/person_name.gaz
+2019-06-29 17:15:40,549: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-06-29 17:15:40,549: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.058 secs
+2019-06-29 17:22:10,106: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:22:10,120: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_nameGazetteer.cfg
+2019-06-29 17:22:10,122: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:22:10,123: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-06-29 17:22:10,124: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../../Assignments/1.Gazetteer/PersonNameAttributes.txt
+2019-06-29 17:22:10,126: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../../Assignments/1.Gazetteer/person_name_gazetteer.txt
+2019-06-29 17:22:10,127: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-06-29 17:22:10,127: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-06-29 17:22:10,127: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-06-29 17:22:10,127: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-06-29 17:22:10,127: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-06-29 17:22:10,128: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-06-29 17:22:10,128: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-06-29 17:22:10,128: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-06-29 17:22:10,128: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-06-29 17:22:10,129: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-06-29 17:22:10,132: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-06-29 17:22:10,132: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-06-29 17:22:10,137: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-06-29 17:22:10,137: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-06-29 17:22:10,162: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-06-29 17:22:10,172: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-06-29 17:22:10,172: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-06-29 17:22:10,173: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-06-29 17:22:10,173: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-06-29 17:22:10,173: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-06-29 17:22:10,175: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-06-29 17:22:10,175: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-06-29 17:22:10,175: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/rule-based-hands-on/Utrecht-2019/Software/1.Corleone/compiled-resources/person_names.gaz
+2019-06-29 17:22:10,176: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-06-29 17:22:10,176: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.054 secs
+2019-06-29 17:23:14,071: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:23:14,084: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_nameGazetteer.cfg
+2019-06-29 17:23:14,086: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:23:14,087: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-06-29 17:23:14,087: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../../Assignments/1.Gazetteer/PersonNameAttributes.txt
+2019-06-29 17:23:14,089: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../../Assignments/1.Gazetteer/person_name_gazetteer.txt
+2019-06-29 17:23:14,090: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-06-29 17:23:14,090: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-06-29 17:23:14,090: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-06-29 17:23:14,090: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-06-29 17:23:14,090: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-06-29 17:23:14,091: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-06-29 17:23:14,091: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-06-29 17:23:14,091: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-06-29 17:23:14,091: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-06-29 17:23:14,091: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-06-29 17:23:14,094: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-06-29 17:23:14,094: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-06-29 17:23:14,099: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-06-29 17:23:14,099: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-06-29 17:23:14,127: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-06-29 17:23:14,137: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-06-29 17:23:14,138: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-06-29 17:23:14,138: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-06-29 17:23:14,138: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-06-29 17:23:14,138: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-06-29 17:23:14,139: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-06-29 17:23:14,139: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-06-29 17:23:14,139: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: compiled-resources/person_names_2.gaz
+2019-06-29 17:23:14,140: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-06-29 17:23:14,141: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.054 secs
+2019-06-29 17:28:01,630: INFO main it.jrc.lt.core.component.Component - Create an instance of: %1
+2019-06-29 17:28:01,638: INFO main it.jrc.lt.core.component.Component - No such component is available: %1
+2019-06-29 17:28:01,639: INFO main it.jrc.lt.core.component.Component - Read configuration from file: %2
+2019-06-29 17:28:01,640: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:28:01,640: INFO main it.jrc.lt.core.component.Component - Empty configuration object.
+2019-06-29 17:28:01,640: ERROR main it.jrc.lt.core.component.Component - Invalid configuration.
+2019-06-29 17:28:01,641: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: 
+2019-06-29 17:28:01,641: ERROR main it.jrc.lt.core.component.Component - Trying to save an uninitialized component.
+2019-06-29 17:28:01,641: INFO main it.jrc.lt.core.component.Component - Compilation aborted.
+2019-06-29 17:28:14,207: INFO main it.jrc.lt.core.component.Component - Create an instance of: %1
+2019-06-29 17:28:14,212: INFO main it.jrc.lt.core.component.Component - No such component is available: %1
+2019-06-29 17:28:14,212: INFO main it.jrc.lt.core.component.Component - Read configuration from file: %2
+2019-06-29 17:28:14,213: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:28:14,213: INFO main it.jrc.lt.core.component.Component - Empty configuration object.
+2019-06-29 17:28:14,214: ERROR main it.jrc.lt.core.component.Component - Invalid configuration.
+2019-06-29 17:28:14,214: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: 
+2019-06-29 17:28:14,214: ERROR main it.jrc.lt.core.component.Component - Trying to save an uninitialized component.
+2019-06-29 17:28:14,214: INFO main it.jrc.lt.core.component.Component - Compilation aborted.
+2019-06-29 17:28:43,427: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:28:43,437: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_nameGazetteer.cfg
+2019-06-29 17:28:43,438: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-06-29 17:28:43,440: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-06-29 17:28:43,441: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../../Assignments/1.Gazetteer/PersonNameAttributes.txt
+2019-06-29 17:28:43,443: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../../Assignments/1.Gazetteer/person_name_gazetteer.txt
+2019-06-29 17:28:43,444: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-06-29 17:28:43,444: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-06-29 17:28:43,444: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-06-29 17:28:43,444: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-06-29 17:28:43,445: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-06-29 17:28:43,445: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-06-29 17:28:43,445: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-06-29 17:28:43,445: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-06-29 17:28:43,446: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-06-29 17:28:43,446: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-06-29 17:28:43,448: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-06-29 17:28:43,448: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-06-29 17:28:43,452: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-06-29 17:28:43,452: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-06-29 17:28:43,479: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-06-29 17:28:43,489: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-06-29 17:28:43,489: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-06-29 17:28:43,489: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-06-29 17:28:43,489: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-06-29 17:28:43,489: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-06-29 17:28:43,490: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-06-29 17:28:43,491: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-06-29 17:28:43,491: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: compiled-resources/person_names.gaz
+2019-06-29 17:28:43,492: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-06-29 17:28:43,492: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.053 secs
+2019-06-29 17:33:27,764: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetter
+2019-06-29 17:33:27,770: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:33:27,773: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetter
+2019-06-29 17:33:27,773: INFO main it.jrc.lt.core.component.Component - Application named: 'basicGazetter could not be launched.
+2019-06-29 17:33:37,979: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:33:37,988: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:33:37,990: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetteer
+2019-06-29 17:33:38,003: INFO main it.jrc.lt.core.component.Component - test/input/gazetteerInput2.txt is not a file/directory.
+2019-06-29 17:33:38,003: INFO main it.jrc.lt.core.component.Component - Input data is not specified properly!
+2019-06-29 17:34:10,974: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:34:10,982: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:34:10,983: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetteer
+2019-06-29 17:34:10,994: INFO main it.jrc.lt.core.component.Component - test/input/GazetteerInput2.txt is not a file/directory.
+2019-06-29 17:34:10,994: INFO main it.jrc.lt.core.component.Component - Input data is not specified properly!
+2019-06-29 17:34:49,536: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:34:49,544: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:34:49,545: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetteer
+2019-06-29 17:34:49,557: INFO main it.jrc.lt.core.component.Component - Current Characterset is: UTF-8
+2019-06-29 17:34:49,557: INFO main it.jrc.lt.core.component.Component - /test/output is not a directory
+2019-06-29 17:35:47,929: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:35:47,937: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:35:47,938: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetteer
+2019-06-29 17:35:47,949: INFO main it.jrc.lt.core.component.Component - Current Characterset is: UTF-8
+2019-06-29 17:35:47,950: INFO main it.jrc.lt.core.component.Component - Processing file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/rule-based-hands-on/Utrecht-2019/Software/1.Corleone/test/gazetteerInput2.txt
+2019-06-29 17:35:47,957: INFO main it.jrc.lt.core.component.Component - Writing result to the file: test/output\gazetteerInput2.txt.out
+2019-06-29 17:36:42,239: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-06-29 17:36:42,247: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../../Assignments/1.Gazetteer/person_name_gaz_application.cfg
+2019-06-29 17:36:42,248: INFO main it.jrc.lt.core.component.Component - Initialize the instance of: basicGazetteer
+2019-06-29 17:36:42,258: INFO main it.jrc.lt.core.component.Component - Current Characterset is: UTF-8
+2019-06-29 17:36:42,259: INFO main it.jrc.lt.core.component.Component - Processing file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/rule-based-hands-on/Utrecht-2019/Software/1.Corleone/test/gazetteerInput2.txt
+2019-06-29 17:36:42,266: INFO main it.jrc.lt.core.component.Component - Writing result to the file: test/output/\gazetteerInput2.txt.out
+2019-07-01 17:02:57,085: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-07-01 17:02:57,100: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../resources/person_nameGazetteer.cfg
+2019-07-01 17:02:57,102: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-07-01 17:02:57,103: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-07-01 17:02:57,103: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../resources/PersonNameAttributes.txt
+2019-07-01 17:02:57,106: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../resources/person_name_gazetteer.txt
+2019-07-01 17:02:57,107: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-07-01 17:02:57,107: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-07-01 17:02:57,107: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-07-01 17:02:57,107: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-07-01 17:02:57,107: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-07-01 17:02:57,108: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-07-01 17:02:57,108: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-07-01 17:02:57,108: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-07-01 17:02:57,108: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-07-01 17:02:57,108: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-07-01 17:02:57,111: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-07-01 17:02:57,111: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-07-01 17:02:57,115: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-07-01 17:02:57,115: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-07-01 17:02:57,139: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-07-01 17:02:57,150: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-07-01 17:02:57,150: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-07-01 17:02:57,150: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-07-01 17:02:57,150: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-07-01 17:02:57,150: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-07-01 17:02:57,151: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-07-01 17:02:57,151: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-07-01 17:02:57,151: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: compiled-resources/person_names.gaz
+2019-07-01 17:02:57,152: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-07-01 17:02:57,152: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.05 secs
+2019-07-01 17:03:27,593: INFO main it.jrc.lt.core.component.Component - Create an instance of: basicGazetteer
+2019-07-01 17:03:27,610: INFO main it.jrc.lt.core.component.Component - Read configuration from file: ../resources/person_nameGazetteer.cfg
+2019-07-01 17:03:27,612: INFO main it.jrc.lt.core.component.Component - Compile resources
+2019-07-01 17:03:27,614: INFO main it.jrc.lt.core.component.Component - Read gazetteer resources from file
+2019-07-01 17:03:27,614: INFO main it.jrc.lt.core.component.Component - Reading attributes from: ../resources/PersonNameAttributes.txt
+2019-07-01 17:03:27,617: INFO main it.jrc.lt.core.component.Component - Reading entries from: ../resources/person_name_gazetteer.txt
+2019-07-01 17:03:27,618: INFO main it.jrc.lt.core.component.Component - Building the gazetteer
+2019-07-01 17:03:27,618: INFO main it.jrc.lt.core.component.Component - Constructing the gazetteer
+2019-07-01 17:03:27,618: INFO main it.jrc.lt.core.component.Component - Analyzing the entries
+2019-07-01 17:03:27,618: INFO main it.jrc.lt.core.component.Component - Trimming entries started
+2019-07-01 17:03:27,618: INFO main it.jrc.lt.core.component.Component - Sort the entries
+2019-07-01 17:03:27,619: INFO main it.jrc.lt.core.component.Component - Checking if the type definition file exists and analyzing it
+2019-07-01 17:03:27,620: INFO main it.jrc.lt.core.component.Component - No type definition file provided
+2019-07-01 17:03:27,620: INFO main it.jrc.lt.core.component.Component - Analyzing and setting the attributes
+2019-07-01 17:03:27,620: INFO main it.jrc.lt.core.component.Component - Analyze attributes and create mappings
+2019-07-01 17:03:27,620: INFO main it.jrc.lt.core.component.Component - Create mapping: Number -> Attribute value
+2019-07-01 17:03:27,623: INFO main it.jrc.lt.core.component.Component - Compressing the entries
+2019-07-01 17:03:27,623: INFO main it.jrc.lt.core.component.Component - Create new representation for Gazetteer entries.
+2019-07-01 17:03:27,628: INFO main it.jrc.lt.core.component.Component - Constructing the automaton
+2019-07-01 17:03:27,628: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton construction
+2019-07-01 17:03:27,655: INFO main it.jrc.lt.core.component.Component - Gazetteer automaton compression
+2019-07-01 17:03:27,664: INFO main it.jrc.lt.core.component.Component - Some Initializations
+2019-07-01 17:03:27,664: INFO main it.jrc.lt.core.component.Component - Gazetteer Information
+2019-07-01 17:03:27,665: INFO main it.jrc.lt.core.component.Component - Number of Entries: 180
+2019-07-01 17:03:27,665: INFO main it.jrc.lt.core.component.Component - Number of Attributes: 3
+2019-07-01 17:03:27,665: INFO main it.jrc.lt.core.component.Component - Average Line length in gazetteer sources: 40
+2019-07-01 17:03:27,668: INFO main it.jrc.lt.core.component.Component - Formation pattern applicability: 1.0
+2019-07-01 17:03:27,668: INFO main it.jrc.lt.core.component.Component - #String-valued Attributes: 2
+2019-07-01 17:03:27,668: INFO main it.jrc.lt.core.component.Component - Write compiled resources to file: ../compiled-resources/person_names.gaz
+2019-07-01 17:03:27,669: INFO main it.jrc.lt.core.component.Component - Compilation successfull.
+2019-07-01 17:03:27,669: INFO main it.jrc.lt.core.component.Component - Compilation time: 0.057 secs
