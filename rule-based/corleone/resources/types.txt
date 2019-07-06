@@ -4,5 +4,3 @@ gaz_given_name	SURFACE
 gaz_initial	SURFACE
 gaz_name_infix	SURFACE
 gaz_title	GNUMBER	SURFACE
-
-event_pattern	SLOTTYPE	POSITIONAL	SURFACE
