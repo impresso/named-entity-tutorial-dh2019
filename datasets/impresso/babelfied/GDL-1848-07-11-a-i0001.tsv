@@ -1,0 +1,1895 @@
+token	lemma	pos	onset	offset	entity	bablefy_id (iob)	link	TP_MERGE	FP_MERGE	FN_MERGE	OCR_MERGE
+CONFÉDÉRATION	confédération	NOUN	0	12	CONFÉDÉRATION	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=FR&langTrans=EN	1			
+SUISSE	suisse	NOUN	14	19	SUISSE	I-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	20	20							
+DIÈTE	diète	NOUN	22	26	DIÈTE	B-bn:03105516n	https://babelnet.org/synset?word=bn:03105516n&lang=FR&langTrans=EN	1			
+FÉDÉRALE	fédéral	PUNCT	28	35	FÉDÉRALE	I-bn:03105516n	https://babelnet.org/synset?word=bn:03105516n&lang=FR&langTrans=EN	1			
+..	..	PUNCT	37	38							
+Séance	Séance	PROPN	40	45	Séance	B-bn:00070034n	https://babelnet.org/synset?word=bn:00070034n&lang=FR&langTrans=EN		1	1	
+du	du	DET	47	48							
+6	6	NUM	50	50							
+juillet	juillet	NOUN	52	58	juillet	B-bn:00048548n	https://babelnet.org/synset?word=bn:00048548n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	59	59							
+Kt	kt	ADV	61	62						1	1
+,	,	PUNCT	63	63							
+(	(	PUNCT	65	65							
+i	i	NOUN	66	66							
+,	,	PUNCT	67	67							
+t	t	NOUN	69	69							
+de	de	ADP	71	72							
+situation	situation	NOUN	74	82	situation	B-bn:00071869n	https://babelnet.org/synset?word=bn:00071869n&lang=FR&langTrans=EN	1			
+du	du	DET	84	85							
+personnel	personnel	NOUN	87	95	personnel	B-bn:00073801n	https://babelnet.org/synset?word=bn:00073801n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	97	98							
+du	du	DET	100	101							
+matériel	matériel	NOUN	103	110	matériel	B-bn:00031321n	https://babelnet.org/synset?word=bn:00031321n&lang=FR&langTrans=EN	1			
+de	de	ADP	112	113							
+l'	le	DET	115	116							
+armée	armée	NOUN	117	121	armée	B-bn:00005803n	https://babelnet.org/synset?word=bn:00005803n&lang=FR&langTrans=EN	1			
+Le	le	DET	123	124							
+conseil	conseil	NOUN	126	132	conseil	B-bn:00023134n	https://babelnet.org/synset?word=bn:00023134n&lang=FR&langTrans=EN	1	1	1	
+fédéral	fédéral	ADJ	134	140	fédéral	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+de	de	ADP	142	143							
+la	le	DET	145	146							
+guerre	guerre	NOUN	148	153	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+fait	faire	VERB	155	158	fait	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+connaître	connaître	VERB	160	168	connaître	B-bn:00082272v	https://babelnet.org/synset?word=bn:00082272v&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	169	169							
+dans	dan	ADP	171	174							
+un	un	DET	176	177							
+rapport	rapport	NOUN	179	185	rapport	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=FR&langTrans=EN	1			
+en	en	ADP	187	188							
+date	date	NOUN	190	193	date	B-bn:00025336n	https://babelnet.org/synset?word=bn:00025336n&lang=FR&langTrans=EN	1			
+du	du	DET	195	196							
+10	10	NUM	198	199							
+mai	mai	NOUN	201	203						1	
+,	,	PUNCT	204	204							
+ce	ce	PRON	206	207							
+qui	qui	PRON	209	211							
+manque	manquer	VERB	213	218	manque	B-bn:00090161v	https://babelnet.org/synset?word=bn:00090161v&lang=FR&langTrans=EN	1			
+soit	être	CCONJ	220	223						1	
+		PUNCT	225	225							
+dans	dan	ADP	226	229							
+le	le	DET	231	232							
+personnel	personnel	NOUN	234	242	personnel	B-bn:00073801n	https://babelnet.org/synset?word=bn:00073801n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	243	243							
+soit	être	CCONJ	245	248						1	
+dans	dan	ADP	250	253							
+le	le	DET	255	256							
+matériel	matériel	NOUN	258	265	matériel	B-bn:00031321n	https://babelnet.org/synset?word=bn:00031321n&lang=FR&langTrans=EN	1			
+de	de	ADP	267	268							
+l'	le	DET	270	271							
+année	année	NOUN	272	276	année	B-bn:00006662n	https://babelnet.org/synset?word=bn:00006662n&lang=FR&langTrans=EN	1			
+fédérale	fédéral	ADJ	278	285	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	286	286							
+Chaque	chaque	DET	288	293							
+Etat	etat	NOUN	295	298	Etat	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+donne	donner	VERB	300	304	donne	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=FR&langTrans=EN	1			
+des	un	DET	306	308							
+explications	explication	NOUN	310	321	explications	B-bn:00000741n	https://babelnet.org/synset?word=bn:00000741n&lang=FR&langTrans=EN	1			
+sur	sur	ADP	323	325							
+les	le	DET	327	329							
+objets	objet	NOUN	331	336	objets	B-bn:00058442n	https://babelnet.org/synset?word=bn:00058442n&lang=FR&langTrans=EN	1			
+qui	qui	PRON	338	340							
+lui	luire	PRON	342	344							
+manquent	manquer	VERB	346	353	manquent	B-bn:00090161v	https://babelnet.org/synset?word=bn:00090161v&lang=FR&langTrans=EN	1			
+.	.	PUNCT	354	354							
+—	--	PUNCT	356	356							
+Genève	Genève	PROPN	358	363						1	
+se	se	PRON	365	366							
+trouve	trouver	AUX	368	373	trouve	B-bn:00084231v	https://babelnet.org/synset?word=bn:00084231v&lang=FR&langTrans=EN	1			
+embarrassé	embarrasser	VERB	375	384	embarrassé	B-bn:00083622v	https://babelnet.org/synset?word=bn:00083622v&lang=FR&langTrans=EN		1	1	
+de	de	ADP	386	387							
+sa	son	DET	389	390							
+compagnie	compagnie	NOUN	392	400	compagnie	B-bn:00021287n	https://babelnet.org/synset?word=bn:00021287n&lang=FR&langTrans=EN	1			
+de	de	ADP	402	403							
+cavalerie	cavalerie	NOUN	405	413	cavalerie	B-bn:00016873n	https://babelnet.org/synset?word=bn:00016873n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	414	414							
+car	car	CCONJ	416	418							
+on	on	PRON	420	421							
+n'	ne	ADV	423	424							
+aime	aimer	ADV	425	428	aime	B-bn:00090504v	https://babelnet.org/synset?word=bn:00090504v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	430	432							
+monter	monter	VERB	434	439	monter	B-bn:00083708v	https://babelnet.org/synset?word=bn:00083708v&lang=FR&langTrans=EN	1			
+à	à	ADP	441	441							
+cheval	cheval	NOUN	443	448	cheval	B-bn:00031345n	https://babelnet.org/synset?word=bn:00031345n&lang=FR&langTrans=EN	1			
+dans	dan	ADP	450	453							
+le	le	DET	455	456							
+canton	canton	NOUN	458	463	canton	B-bn:02290478n	https://babelnet.org/synset?word=bn:02290478n&lang=FR&langTrans=EN	1			
+de	de	ADP	465	466	de	I-bn:02290478n	https://babelnet.org/synset?word=bn:02290478n&lang=FR&langTrans=EN	1			
+Genève	Genève	PROPN	468	473	Genève	I-bn:02290478n	https://babelnet.org/synset?word=bn:02290478n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	474	474							
+Le	le	DET	476	477							
+député	député	NOUN	479	484	député	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+voudrait	vouloir	AUX	486	493	voudrait	B-bn:00086682v	https://babelnet.org/synset?word=bn:00086682v&lang=FR&langTrans=EN	1			
+inviter	inviter	VERB	495	501	inviter	B-bn:00084416v	https://babelnet.org/synset?word=bn:00084416v&lang=FR&langTrans=EN	1			
+l'	le	DET	503	504							
+assemblée	assemblée	NOUN	505	513	assemblée	B-bn:00216949n	https://babelnet.org/synset?word=bn:00216949n&lang=FR&langTrans=EN		1	1	
+à	à	ADP	515	515							
+échanger	échanger	VERB	517	524	échanger	B-bn:00087802v	https://babelnet.org/synset?word=bn:00087802v&lang=FR&langTrans=EN	1			
+celte	celte	NOUN	526	530						1	
+compagnie	compagnie	NOUN	532	540	compagnie	B-bn:00021287n	https://babelnet.org/synset?word=bn:00021287n&lang=FR&langTrans=EN	1			
+de	de	ADP	542	543							
+cavalerie	cavalerie	NOUN	545	553	cavalerie	B-bn:00016873n	https://babelnet.org/synset?word=bn:00016873n&lang=FR&langTrans=EN	1			
+contre	contrer	ADP	555	560							
+une	un	DET	562	564							
+compagnie	compagnie	NOUN	566	574	compagnie	B-bn:00021287n	https://babelnet.org/synset?word=bn:00021287n&lang=FR&langTrans=EN	1			
+de	de	ADP	576	577							
+carabiniers	carabinier	NOUN	579	589	carabiniers	B-bn:00015808n	https://babelnet.org/synset?word=bn:00015808n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	591	592							
+deux	deux	NUM	594	597							
+pièces	pièce	NOUN	599	604	pièces	B-bn:00020497n	https://babelnet.org/synset?word=bn:00020497n&lang=FR&langTrans=EN		1	1	
+du	du	DET	606	607							
+contingent	contingent	NOUN	609	618	contingent	B-bn:01444232n	https://babelnet.org/synset?word=bn:01444232n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	619	619							
+Il	il	PRON	621	622							
+est	être	AUX	624	626	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+décidé	décider	VERB	628	633	décidé	B-bn:00086370v	https://babelnet.org/synset?word=bn:00086370v&lang=FR&langTrans=EN	1			
+que	que	SCONJ	635	637							
+les	le	DET	639	641							
+Etats	etat	NOUN	643	647	Etats	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+en	en	ADP	649	650							
+relard	relard	ADV	652	657						1	1
+seront	être	AUX	659	664						1	
+invités	inviter	VERB	666	672							
+à	à	ADP	674	674							
+se	se	PRON	676	677							
+procurer	procurer	VERB	679	686	procurer	B-bn:00091124v	https://babelnet.org/synset?word=bn:00091124v&lang=FR&langTrans=EN	1			
+,	,	PUNCT	687	687							
+dans	dan	ADP	689	692							
+le	le	DET	694	695							
+plus	plus	ADV	697	700	plus	B-bn:00115880r	https://babelnet.org/synset?word=bn:00115880r&lang=FR&langTrans=EN			1	
+bref	bref	ADV	702	705	bref	B-bn:00110561a	https://babelnet.org/synset?word=bn:00110561a&lang=FR&langTrans=EN	1			
+délai	délai	NOUN	707	711	délai	B-bn:00077289n	https://babelnet.org/synset?word=bn:00077289n&lang=FR&langTrans=EN	1			
+possible	possible	ADJ	713	720	possible	B-bn:00108829a	https://babelnet.org/synset?word=bn:00108829a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	721	721							
+les	le	DET	723	725							
+objets	objet	NOUN	727	732	objets	B-bn:00058442n	https://babelnet.org/synset?word=bn:00058442n&lang=FR&langTrans=EN	1			
+qui	qui	PRON	734	736							
+leur	lui	PRON	738	741							
+manquent	manquer	VERB	743	750	manquent	B-bn:00090161v	https://babelnet.org/synset?word=bn:00090161v&lang=FR&langTrans=EN	1			
+pour	pour	ADP	752	755							
+compléter	compléter	VERB	757	765	compléter	B-bn:00094607v	https://babelnet.org/synset?word=bn:00094607v&lang=FR&langTrans=EN	1			
+leurs	leur	DET	767	771							
+conlingens	conlingen	NOUN	773	782						1	1
+respectifs	respectif	ADJ	784	793	respectifs	B-bn:00109740a	https://babelnet.org/synset?word=bn:00109740a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	794	794							
+Ensuite	ensuite	ADV	796	802						1	
+de	de	ADP	804	805							
+l'	le	DET	807	808							
+arrêté	arrêté	NOUN	809	814	arrêté	B-bn:00084710v	https://babelnet.org/synset?word=bn:00084710v&lang=FR&langTrans=EN		1	1	
+de	de	ADP	816	817							
+la	le	DET	819	820							
+Diète	diète	NOUN	822	826	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	827	827							
+le	le	DET	829	830							
+conseil	conseil	NOUN	832	838	conseil	B-bn:00023134n	https://babelnet.org/synset?word=bn:00023134n&lang=FR&langTrans=EN		1	1	
+fédéral	fédéral	ADJ	840	846	fédéral	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+de	de	ADP	848	849							
+la	le	DET	851	852							
+guerre	guerre	NOUN	854	859	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+a	avoir	AUX	861	861							
+ordonné	ordonner	VERB	863	869	ordonné	B-bn:00086778v	https://babelnet.org/synset?word=bn:00086778v&lang=FR&langTrans=EN	1			
+une	un	DET	871	873							
+nouvelle	nouveau	ADJ	875	882	nouvelle	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=FR&langTrans=EN	1			
+inspection	inspection	NOUN	884	893	inspection	B-bn:00046920n	https://babelnet.org/synset?word=bn:00046920n&lang=FR&langTrans=EN	1			
+du	du	DET	895	896							
+contingent	contingent	NOUN	898	907	contingent	B-bn:01444232n	https://babelnet.org/synset?word=bn:01444232n&lang=FR&langTrans=EN		1	1	
+d	d	NOUN	909	909							
+'	'	PUNCT	910	911							
+Appenzell	Appenzell	PROPN	913	921						1	
+-	-	PUNCT	922	922							
+inlérieur	inlérieur	NOUN	923	931						1	1
+,	,	PUNCT	932	932							
+mission	mission	NOUN	934	940	mission	B-bn:00055325n	https://babelnet.org/synset?word=bn:00055325n&lang=FR&langTrans=EN		1	1	
+qui	qui	PRON	942	944							
+a	avoir	AUX	946	946							
+été	être	AUX	948	950	été	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+confiée	confier	VERB	952	958						1	
+à	à	ADP	960	960							
+M.	monsieur	NOUN	962	963	M.	B-bn:00055346n	https://babelnet.org/synset?word=bn:00055346n&lang=FR&langTrans=EN	1			
+le	le	DET	965	966							
+colonel	colonel	NOUN	968	974	colonel	B-bn:00020706n	https://babelnet.org/synset?word=bn:00020706n&lang=FR&langTrans=EN		1	1	
+fédéral	fédéral	ADJ	976	982	fédéral	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+Egloff	Egloff	PROPN	984	989	Egloff	B-bn:17235888n	https://babelnet.org/synset?word=bn:17235888n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	990	990							
+Quant	quant	ADV	992	996							
+aux	aux	DET	998	1000							
+réclamations	réclamater	VERB	1002	1013	réclamations	B-bn:00019403n	https://babelnet.org/synset?word=bn:00019403n&lang=FR&langTrans=EN	1			
+que	que	SCONJ	1015	1017							
+les	le	DET	1019	1021							
+Etals	etal	NOUN	1023	1027						1	1
+des	un	ADP	1029	1031							
+Grisons	grison	NOUN	1033	1039	Grisons	B-bn:00938653n	https://babelnet.org/synset?word=bn:00938653n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	1041	1042							
+du	du	DET	1044	1045							
+Tessin	Tessin	PROPN	1047	1052	Tessin	B-bn:00076646n	https://babelnet.org/synset?word=bn:00076646n&lang=FR&langTrans=EN	1			
+ont	avoir	AUX	1054	1056	ont	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+élevées	élevé	ADJ	1058	1064						1	
+contre	contrer	ADP	1066	1071							
+la	le	DET	1073	1074							
+surveillance	surveillance	NOUN	1076	1087	surveillance	B-bn:00075427n	https://babelnet.org/synset?word=bn:00075427n&lang=FR&langTrans=EN	1			
+de	de	ADP	1089	1090							
+leurs	leur	DET	1092	1096							
+conlingens	conlingen	NOUN	1098	1107						1	1
+,	,	PUNCT	1108	1108							
+la	le	DET	1110	1111							
+Diète	diète	NOUN	1113	1117	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+attend	attendre	VERB	1119	1124	attend	B-bn:00089401v	https://babelnet.org/synset?word=bn:00089401v&lang=FR&langTrans=EN	1			
+de	de	ADP	1126	1127							
+la	le	DET	1129	1130							
+part	part	NOUN	1132	1135	part	B-bn:00060766n	https://babelnet.org/synset?word=bn:00060766n&lang=FR&langTrans=EN	1			
+du	du	DET	1137	1138							
+conseil	conseil	NOUN	1140	1146	conseil	B-bn:00023134n	https://babelnet.org/synset?word=bn:00023134n&lang=FR&langTrans=EN		1	1	
+fédéral	fédéral	ADJ	1148	1154	fédéral	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+de	de	ADP	1156	1157							
+la	le	DET	1159	1160							
+guerre	guerre	NOUN	1162	1167	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+un	un	DET	1169	1170							
+rapport	rapport	NOUN	1172	1178	rapport	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=FR&langTrans=EN	1			
+qui	qui	PRON	1180	1182							
+n'	ne	ADV	1184	1185							
+a	avoir	AUX	1186	1186							
+pas	pas	ADV	1188	1190	pas	B-bn:13692440r	https://babelnet.org/synset?word=bn:13692440r&lang=FR&langTrans=EN	1			
+encore	encore	ADV	1192	1197	encore	I-bn:13692440r	https://babelnet.org/synset?word=bn:13692440r&lang=FR&langTrans=EN	1			
+paru	paraître	VERB	1199	1202						1	
+.	.	PUNCT	1203	1203							
+Fusées	fusée	NOUN	1205	1210	Fusées	B-bn:00012163n	https://babelnet.org/synset?word=bn:00012163n&lang=FR&langTrans=EN	1			
+de	de	ADP	1212	1213							
+guerre	guerre	NOUN	1215	1220	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	1221	1221							
+—	--	PUNCT	1223	1223							
+Le	le	DET	1225	1226							
+conseil	conseil	NOUN	1228	1234	conseil	B-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	1236	1237	de	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+la	le	DET	1239	1240	la	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+guerre	guerre	NOUN	1242	1247	guerre	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+ne	ne	ADV	1249	1250							
+peut	pouvoir	AUX	1252	1255	peut	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+encore	encore	ADV	1257	1262	encore	B-bn:00114171r	https://babelnet.org/synset?word=bn:00114171r&lang=FR&langTrans=EN	1			
+présenter	présenter	VERB	1264	1272	présenter	B-bn:00090234v	https://babelnet.org/synset?word=bn:00090234v&lang=FR&langTrans=EN	1			
+un	un	DET	1274	1275							
+rapport	rapport	NOUN	1277	1283	rapport	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=FR&langTrans=EN	1			
+sur	sur	ADP	1285	1287							
+cet	ce	DET	1289	1291							
+objet	objet	NOUN	1293	1297	objet	B-bn:00058442n	https://babelnet.org/synset?word=bn:00058442n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	1298	1298							
+attendu	attendre	VERB	1300	1306	attendu	B-bn:00089401v	https://babelnet.org/synset?word=bn:00089401v&lang=FR&langTrans=EN	1			
+que	que	SCONJ	1308	1310							
+M.	monsieur	NOUN	1312	1313						1	
+Pictet	Pictet	PROPN	1315	1320						1	
+est	être	AUX	1322	1324	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+retenu	retenir	VERB	1326	1331	retenu	B-bn:00089400v	https://babelnet.org/synset?word=bn:00089400v&lang=FR&langTrans=EN	1			
+en	en	ADP	1333	1334							
+Italie	Italie	PROPN	1336	1341	Italie	B-bn:00047705n	https://babelnet.org/synset?word=bn:00047705n&lang=FR&langTrans=EN	1			
+par	par	ADP	1343	1345							
+les	le	DET	1347	1349							
+.	.	PUNCT	1350	1350							
+éyénemens	éyénemen	NOUN	1352	1360						1	1
+qui	qui	PRON	1362	1364							
+se	se	PRON	1366	1367							
+passent	passer	VERB	1369	1375	passent	B-bn:00091458v	https://babelnet.org/synset?word=bn:00091458v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	1377	1380							
+ce	ce	DET	1382	1383							
+pays	pays	NOUN	1385	1388	pays	B-bn:00023235n	https://babelnet.org/synset?word=bn:00023235n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	1389	1389							
+Quant	quant	ADV	1391	1395							
+aux	aux	ADP	1397	1399							
+frais	frais	NOUN	1401	1405	frais	B-bn:00074577n	https://babelnet.org/synset?word=bn:00074577n&lang=FR&langTrans=EN		1	1	
+nécessaires	nécessaire	ADJ	1407	1417	nécessaires	B-bn:00107182a	https://babelnet.org/synset?word=bn:00107182a&lang=FR&langTrans=EN	1			
+pour	pour	ADP	1419	1422							
+l'	le	DET	1424	1425							
+acquisition	acquisition	NOUN	1426	1436	acquisition	B-bn:00001005n	https://babelnet.org/synset?word=bn:00001005n&lang=FR&langTrans=EN	1			
+de	de	ADP	1438	1439							
+		PUNCT	1440	1440							
+machines	machine	NOUN	1442	1449	machines	B-bn:00052556n	https://babelnet.org/synset?word=bn:00052556n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	1451	1452							
+d'	de	ADP	1454	1455							
+oulds	ould	NOUN	1456	1460						1	1
+,	,	PUNCT	1461	1461							
+on	on	PRON	1463	1464							
+s'	si	PRON	1466	1467							
+en	en	PRON	1468	1469							
+occupera	occuper	VERB	1471	1478	occupera	B-bn:00090437v	https://babelnet.org/synset?word=bn:00090437v&lang=FR&langTrans=EN		1	1	
+lors	lors	ADV	1480	1483	lors	B-bn:00117250r	https://babelnet.org/synset?word=bn:00117250r&lang=FR&langTrans=EN	1			
+de	de	ADP	1485	1486							
+la	le	DET	1488	1489							
+discussion	discussion	NOUN	1491	1500	discussion	B-bn:00027544n	https://babelnet.org/synset?word=bn:00027544n&lang=FR&langTrans=EN	1			
+du	du	DET	1502	1503							
+budget	budget	NOUN	1505	1510	budget	B-bn:00013640n	https://babelnet.org/synset?word=bn:00013640n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	1511	1511							
+Système	système	NOUN	1513	1519	Système	B-bn:00075760n	https://babelnet.org/synset?word=bn:00075760n&lang=FR&langTrans=EN		1	1	
+à	à	ADP	1521	1521							
+percussion	percussion	NOUN	1523	1532	percussion	B-bn:00061531n	https://babelnet.org/synset?word=bn:00061531n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	1533	1533							
+—	--	PUNCT	1535	1535							
+Le	le	DET	1537	1538							
+Directoire	directoire	NOUN	1540	1549						1	
+estime	estimer	VERB	1551	1556	estime	B-bn:00082743v	https://babelnet.org/synset?word=bn:00082743v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	1558	1560							
+il	il	PRON	1561	1562							
+est	être	AUX	1564	1566	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+de	de	ADP	1568	1569							
+son	son	DET	1571	1573							
+devoir	devoir	AUX	1575	1580	devoir	B-bn:00029239n	https://babelnet.org/synset?word=bn:00029239n&lang=FR&langTrans=EN	1			
+d'	de	ADP	1582	1583							
+inviter	inviter	VERB	1584	1590	inviter	B-bn:00084416v	https://babelnet.org/synset?word=bn:00084416v&lang=FR&langTrans=EN	1			
+les	le	DET	1592	1594							
+cantons	canton	NOUN	1596	1602	cantons	B-bn:00077775n	https://babelnet.org/synset?word=bn:00077775n&lang=FR&langTrans=EN		1	1	
+en	en	ADP	1604	1605							
+retard	retard	NOUN	1607	1612	retard	B-bn:00050129n	https://babelnet.org/synset?word=bn:00050129n&lang=FR&langTrans=EN	1			
+à	à	ADP	1614	1614							
+accélérer	accélérer	VERB	1616	1624	accélérer	B-bn:00082193v	https://babelnet.org/synset?word=bn:00082193v&lang=FR&langTrans=EN	1			
+autant	autant	ADV	1626	1631	autant	B-bn:00114358r	https://babelnet.org/synset?word=bn:00114358r&lang=FR&langTrans=EN	1			
+que	que	SCONJ	1633	1635	que	I-bn:00114358r	https://babelnet.org/synset?word=bn:00114358r&lang=FR&langTrans=EN	1			
+possible	possible	ADJ	1637	1644	possible	I-bn:00114358r	https://babelnet.org/synset?word=bn:00114358r&lang=FR&langTrans=EN	1			
+la	le	DET	1646	1647							
+transformation	transformation	NOUN	1649	1662	transformation	B-bn:00077991n	https://babelnet.org/synset?word=bn:00077991n&lang=FR&langTrans=EN		1	1	
+prescrite	prescrit	ADJ	1664	1672							
+des	un	DET	1674	1676							
+armes	arme	NOUN	1678	1682	armes	B-bn:00005704n	https://babelnet.org/synset?word=bn:00005704n&lang=FR&langTrans=EN	1			
+à	à	ADP	1684	1684							
+silex	silex	NOUN	1686	1690	silex	B-bn:00035240n	https://babelnet.org/synset?word=bn:00035240n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	1691	1691							
+Celte	celte	NOUN	1693	1697	Celte	B-bn:00017070n	https://babelnet.org/synset?word=bn:00017070n&lang=FR&langTrans=EN		1	1	1
+invitation	invitation	NOUN	1699	1708	invitation	B-bn:00047375n	https://babelnet.org/synset?word=bn:00047375n&lang=FR&langTrans=EN	1			
+est	être	AUX	1710	1712	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+votée	voter	VERB	1714	1718						1	
+à	à	ADP	1720	1720							
+l'	le	DET	1722	1723							
+unanimité	unanimité	NOUN	1724	1732	unanimité	B-bn:00078939n	https://babelnet.org/synset?word=bn:00078939n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	1733	1733							
+Un	un	DET	1735	1736							
+aperçu	aperçu	NOUN	1738	1743	aperçu	B-bn:03727451n	https://babelnet.org/synset?word=bn:03727451n&lang=FR&langTrans=EN		1	1	
+du	du	DET	1745	1746							
+conseil	conseil	NOUN	1748	1754	conseil	B-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	1756	1757	de	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+la	le	DET	1759	1760	la	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+guerre	guerre	NOUN	1762	1767	guerre	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+sur	sur	ADP	1769	1771							
+l'	le	DET	1773	1774							
+emploi	emploi	NOUN	1775	1780	emploi	B-bn:00030616n	https://babelnet.org/synset?word=bn:00030616n&lang=FR&langTrans=EN	1			
+des	un	DET	1782	1784							
+fonds	fonds	NOUN	1786	1790	fonds	B-bn:00012365n	https://babelnet.org/synset?word=bn:00012365n&lang=FR&langTrans=EN		1	1	
+qui	qui	PRON	1792	1794							
+lui	luire	PRON	1796	1798							
+ont	avoir	AUX	1800	1802	ont	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+été	être	AUX	1804	1806	été	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+alloués	allouer	VERB	1808	1814						1	
+pour	pour	ADP	1816	1819							
+l'	le	DET	1821	1822							
+introduction	introduction	NOUN	1823	1834	introduction	B-bn:00050344n	https://babelnet.org/synset?word=bn:00050344n&lang=FR&langTrans=EN		1	1	
+du	du	DET	1836	1837							
+système	système	NOUN	1839	1845	système	B-bn:00075760n	https://babelnet.org/synset?word=bn:00075760n&lang=FR&langTrans=EN		1	1	
+à	à	ADP	1847	1847							
+percussion	percussion	NOUN	1849	1858	percussion	B-bn:00061531n	https://babelnet.org/synset?word=bn:00061531n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	1859	1859							
+est	être	AUX	1861	1863	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+renvoyé	renvoyer	VERB	1865	1871	renvoyé	B-bn:00088506v	https://babelnet.org/synset?word=bn:00088506v&lang=FR&langTrans=EN	1			
+a	avoir	AUX	1873	1873						1	
+la	le	DET	1875	1876							
+cpinmissipn	cpinmissipn	NOUN	1878	1888						1	1
+chargée	charger	VERB	1890	1896						1	
+d'	de	ADP	1898	1899							
+exatnine	exatnine	NOUN	1900	1907						1	1
+.	.	PUNCT	1908	1908							
+r	r	VERB	1910	1910							
+les	le	DET	1912	1914							
+dépenses	dépense	NOUN	1916	1923	dépenses	B-bn:00290893n	https://babelnet.org/synset?word=bn:00290893n&lang=FR&langTrans=EN	1			
+militaires	militaire	ADJ	1925	1934	militaires	I-bn:00290893n	https://babelnet.org/synset?word=bn:00290893n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	1935	1935							
+Grenades	grenade	NOUN	1937	1944						1	
+ditesSchrapuels	ditesschrapuel	ADJ	1946	1960						1	1
+(	(	PUNCT	1962	1962							
+du	du	DET	1963	1964							
+nom	nom	NOUN	1966	1968	nom	B-bn:00056758n	https://babelnet.org/synset?word=bn:00056758n&lang=FR&langTrans=EN	1			
+de	de	ADP	1970	1971							
+l'	le	DET	1973	1974							
+inventeur	inventeur	NOUN	1975	1983	inventeur	B-bn:00006156n	https://babelnet.org/synset?word=bn:00006156n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	1984	1984							
+)	)	PUNCT	1985	1985							
+Le	le	DET	1987	1988							
+conseil	conseil	NOUN	1990	1996	conseil	B-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	1998	1999	de	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+la	le	DET	2001	2002	la	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+guerre	guerre	NOUN	2004	2009	guerre	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+donne	donner	VERB	2011	2015	donne	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=FR&langTrans=EN	1			
+des	un	DET	2017	2019							
+explications	explication	NOUN	2021	2032	explications	B-bn:00000741n	https://babelnet.org/synset?word=bn:00000741n&lang=FR&langTrans=EN	1			
+sur	sur	ADP	2034	2036							
+la	le	DET	2038	2039							
+nécessité	nécessiter	NOUN	2041	2049	nécessité	B-bn:00057131n	https://babelnet.org/synset?word=bn:00057131n&lang=FR&langTrans=EN	1			
+de	de	ADP	2051	2052							
+faire	faire	VERB	2054	2058	faire	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+des	un	DET	2060	2062							
+essais	essai	NOUN	2064	2069	essais	B-bn:00031622n	https://babelnet.org/synset?word=bn:00031622n&lang=FR&langTrans=EN		1	1	
+avec	avec	ADP	2071	2074							
+ce	ce	DET	2076	2077							
+nouveau	nouveau	NOUN	2079	2085	nouveau	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=FR&langTrans=EN	1			
+projectile	projectil	ADJ	2087	2096	projectile	B-bn:00055323n	https://babelnet.org/synset?word=bn:00055323n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2097	2097							
+Il	il	PRON	2099	2100							
+est	être	AUX	2102	2104	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+décidé	décider	VERB	2106	2111	décidé	B-bn:00086370v	https://babelnet.org/synset?word=bn:00086370v&lang=FR&langTrans=EN	1			
+à	à	ADP	2113	2113							
+l'	le	DET	2115	2116							
+unanimité	unanimité	NOUN	2117	2125	unanimité	B-bn:00078939n	https://babelnet.org/synset?word=bn:00078939n&lang=FR&langTrans=EN	1			
+qu'	que	PRON	2127	2129							
+on	on	PRON	2130	2131							
+continuera	continuer	VERB	2133	2142	continuera	B-bn:00085714v	https://babelnet.org/synset?word=bn:00085714v&lang=FR&langTrans=EN	1			
+les	le	DET	2144	2146							
+essais	essai	NOUN	2148	2153	essais	B-bn:00031622n	https://babelnet.org/synset?word=bn:00031622n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	2154	2154							
+Quant	quant	ADV	2156	2160							
+au	au	DET	2162	2163							
+point	point	NOUN	2165	2169	point	B-bn:00026622n	https://babelnet.org/synset?word=bn:00026622n&lang=FR&langTrans=EN	1			
+financier	financier	ADJ	2171	2179	financier	B-bn:00102971a	https://babelnet.org/synset?word=bn:00102971a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	2180	2180							
+ou	ou	CCONJ	2182	2183							
+s'	si	PRON	2185	2186							
+en	en	PRON	2187	2188							
+occupera	occuper	VERB	2190	2197	occupera	B-bn:00090437v	https://babelnet.org/synset?word=bn:00090437v&lang=FR&langTrans=EN	1			
+aussi	aussi	ADV	2199	2203	aussi	B-bn:00114246r	https://babelnet.org/synset?word=bn:00114246r&lang=FR&langTrans=EN	1			
+lors	lors	ADV	2205	2208	lors	B-bn:00117250r	https://babelnet.org/synset?word=bn:00117250r&lang=FR&langTrans=EN	1			
+de	de	ADP	2210	2211							
+la	le	DET	2213	2214							
+discussion	discussion	NOUN	2216	2225	discussion	B-bn:00027544n	https://babelnet.org/synset?word=bn:00027544n&lang=FR&langTrans=EN	1			
+du	du	DET	2227	2228							
+budget	budget	NOUN	2230	2235	budget	B-bn:00013640n	https://babelnet.org/synset?word=bn:00013640n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2236	2236							
+acquisition	acquisition	NOUN	2238	2248	acquisition	B-bn:00001005n	https://babelnet.org/synset?word=bn:00001005n&lang=FR&langTrans=EN	1			
+du	du	DET	2250	2251							
+matériel	matériel	NOUN	2253	2260	matériel	B-bn:00031321n	https://babelnet.org/synset?word=bn:00031321n&lang=FR&langTrans=EN	1			
+de	de	ADP	2262	2263							
+guerre	guerre	NOUN	2265	2270	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2271	2271							
+—	--	PUNCT	2273	2273							
+Cette	ce	DET	2275	2279							
+affaire	affaire	NOUN	2281	2287	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+est	être	AUX	2289	2291	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+renvoyée	renvoyer	VERB	2293	2300						1	
+à	à	ADP	2302	2302							
+la	le	DET	2304	2305							
+commission	commission	NOUN	2307	2316	commission	B-bn:00021016n	https://babelnet.org/synset?word=bn:00021016n&lang=FR&langTrans=EN	1			
+chargée	charger	VERB	2318	2324						1	
+d'	de	ADP	2326	2327							
+examiner	examiner	VERB	2328	2335	examiner	B-bn:00085651v	https://babelnet.org/synset?word=bn:00085651v&lang=FR&langTrans=EN	1			
+les	le	DET	2337	2339							
+dépenses	dépense	NOUN	2341	2348	dépenses	B-bn:00290893n	https://babelnet.org/synset?word=bn:00290893n&lang=FR&langTrans=EN	1			
+militaires	militaire	ADJ	2350	2359	militaires	I-bn:00290893n	https://babelnet.org/synset?word=bn:00290893n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	2361	2362							
+elle	lui	PRON	2364	2367							
+sera	être	AUX	2369	2372	sera	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+traitée	traiter	VERB	2374	2380						1	
+avec	avec	ADP	2382	2385							
+le	le	DET	2387	2388							
+budget	budget	NOUN	2390	2395	budget	B-bn:00013640n	https://babelnet.org/synset?word=bn:00013640n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2396	2396							
+La	le	DET	2398	2399							
+gestion	gestion	NOUN	2401	2407	gestion	B-bn:00053116n	https://babelnet.org/synset?word=bn:00053116n&lang=FR&langTrans=EN	1			
+du	du	DET	2409	2410							
+conseil	conseil	NOUN	2412	2418	conseil	B-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	2420	2421	de	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+la	le	DET	2423	2424	la	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+guerre	guerre	NOUN	2426	2431	guerre	I-bn:04756940n	https://babelnet.org/synset?word=bn:04756940n&lang=FR&langTrans=EN		1	1	
+pendant	pendre	ADP	2433	2439							
+l'	le	DET	2441	2442							
+année	année	NOUN	2443	2447	année	B-bn:00006662n	https://babelnet.org/synset?word=bn:00006662n&lang=FR&langTrans=EN	1			
+1847	1847	NUM	2449	2452							
+a	avoir	AUX	2454	2454						1	
+éléensuite	éléensuite	NOUN	2456	2465							1
+approuvée	approuver	VERB	2467	2475						1	
+à	à	ADP	2477	2477							
+l'	le	DET	2479	2480							
+unanimité	unanimité	NOUN	2481	2489	unanimité	B-bn:00078939n	https://babelnet.org/synset?word=bn:00078939n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	2491	2492							
+des	un	DET	2494	2496							
+remerciemens	remerciemen	NOUN	2498	2509						1	
+lui	luire	PRON	2511	2513							
+sont	être	AUX	2515	2518	sont	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+votés	voter	VERB	2520	2524						1	
+pour	pour	ADP	2526	2529							
+l'	le	DET	2531	2532							
+activité	activité	NOUN	2533	2540	activité	B-bn:00001173n	https://babelnet.org/synset?word=bn:00001173n&lang=FR&langTrans=EN	1			
+qu'	que	PRON	2542	2544							
+il	il	PRON	2545	2546							
+a	avoir	AUX	2548	2548							
+déployée	déployer	VERB	2550	2557						1	
+et	et	CCONJ	2559	2560							
+les	le	DET	2562	2564							
+sages	sage	NOUN	2566	2570						1	
+mesures	mesure	NOUN	2572	2578	mesures	B-bn:00054019n	https://babelnet.org/synset?word=bn:00054019n&lang=FR&langTrans=EN	1			
+qu'	que	PRON	2580	2582							
+il	il	PRON	2583	2584							
+a	avoir	AUX	2586	2586							
+prises	prendre	VERB	2588	2593	prises	B-bn:00093997v	https://babelnet.org/synset?word=bn:00093997v&lang=FR&langTrans=EN		1	1	
+pendant	pendre	ADP	2595	2601							
+les	le	DET	2603	2605							
+malheureux	malheureux	ADJ	2607	2616	malheureux	B-bn:00112813a	https://babelnet.org/synset?word=bn:00112813a&lang=FR&langTrans=EN	1			
+événemens	événemen	NOUN	2618	2626						1	
+provoqués	provoquer	VERB	2628	2636						1	
+par	par	ADP	2638	2640							
+le	le	DET	2642	2643							
+Sonderbund	sonderbund	NOUN	2645	2654	Sonderbund	B-bn:16612849n	https://babelnet.org/synset?word=bn:16612849n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2655	2655							
+La	le	DET	2657	2658							
+Diète	diète	NOUN	2660	2664	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+s'	si	PRON	2666	2667							
+occupera	occuper	VERB	2668	2675	occupera	B-bn:00090437v	https://babelnet.org/synset?word=bn:00090437v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	2677	2680							
+sa	son	DET	2682	2683							
+séance	séance	NOUN	2685	2690	séance	B-bn:00070034n	https://babelnet.org/synset?word=bn:00070034n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	2692	2693							
+lundi	lundi	NOUN	2695	2699	lundi	B-bn:00055609n	https://babelnet.org/synset?word=bn:00055609n&lang=FR&langTrans=EN	1			
+du	du	DET	2701	2702							
+remplacement	remplacement	NOUN	2704	2715	remplacement	B-bn:00067169n	https://babelnet.org/synset?word=bn:00067169n&lang=FR&langTrans=EN	1			
+de	de	ADP	2717	2718							
+M.	monsieur	NOUN	2720	2721						1	
+le	le	DET	2723	2724	le	B-bn:04857613n	https://babelnet.org/synset?word=bn:04857613n&lang=FR&langTrans=EN		1		
+colonel	colonel	NOUN	2726	2732	colonel	I-bn:04857613n	https://babelnet.org/synset?word=bn:04857613n&lang=FR&langTrans=EN		1		
+Ziiuuierli	Ziiuuierli	PROPN	2734	2743						1	1
+,	,	PUNCT	2744	2744							
+qui	qui	PRON	2746	2748							
+n'	ne	ADV	2750	2751							
+est	être	AUX	2752	2754	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	2756	2758							
+rééligible	rééligible	ADJ	2760	2769						1	
+au	au	DET	2771	2772							
+conseil	conseil	NOUN	2774	2780	conseil	B-bn:00023134n	https://babelnet.org/synset?word=bn:00023134n&lang=FR&langTrans=EN		1	1	
+fédéral	fédéral	ADJ	2782	2788	fédéral	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+de	de	ADP	2790	2791							
+la	le	DET	2793	2794							
+guerre	guerre	NOUN	2796	2801	guerre	B-bn:00080439n	https://babelnet.org/synset?word=bn:00080439n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2802	2802							
+Sur	Sur	ADP	2804	2806							
+la	le	DET	2808	2809							
+proposition	proposition	NOUN	2811	2821	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	2823	2824							
+Vaud	Vaud	PROPN	2826	2829	Vaud	B-bn:02251749n	https://babelnet.org/synset?word=bn:02251749n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	2830	2830							
+on	on	PRON	2832	2833							
+communiquera	communiquer	VERB	2835	2846						1	
+aux	aux	ADP	2848	2850							
+membres	membre	NOUN	2852	2858	membres	B-bn:00034004n	https://babelnet.org/synset?word=bn:00034004n&lang=FR&langTrans=EN	1			
+de	de	ADP	2860	2861							
+l'	le	DET	2863	2864							
+assemblée	assemblée	NOUN	2865	2873	assemblée	B-bn:00216949n	https://babelnet.org/synset?word=bn:00216949n&lang=FR&langTrans=EN		1	1	
+une	un	DET	2875	2877							
+liste	liste	NOUN	2879	2883	liste	B-bn:00071253n	https://babelnet.org/synset?word=bn:00071253n&lang=FR&langTrans=EN		1	1	
+des	un	DET	2885	2887							
+officiers	officier	NOUN	2889	2897	officiers	B-bn:00054972n	https://babelnet.org/synset?word=bn:00054972n&lang=FR&langTrans=EN	1			
+éligiblcs	éligiblc	ADJ	2899	2907						1	1
+.	.	PUNCT	2908	2908							
+Rapports	rapport	NOUN	2910	2917	Rapports	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=FR&langTrans=EN	1			
+territoriaux	territorial	ADJ	2919	2930	territoriaux	B-bn:00111761a	https://babelnet.org/synset?word=bn:00111761a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	2931	2931							
+—	--	PUNCT	2933	2933							
+L'	le	DET	2935	2936							
+affaire	affaire	NOUN	2937	2943	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+est	être	AUX	2945	2947	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+demeurée	demeurer	VERB	2949	2956						1	
+dans	dan	ADP	2958	2961							
+le	le	DET	2963	2964							
+môme	môme	NOUN	2966	2969	môme	B-bn:00018346n	https://babelnet.org/synset?word=bn:00018346n&lang=FR&langTrans=EN	1	1		1
+étal	étal	ADJ	2971	2974						1	1
+en	en	ADP	2976	2977							
+ce	ce	PRON	2979	2980							
+qui	qui	PRON	2982	2984							
+concerne	concerner	VERB	2986	2993	concerne	B-bn:00083240v	https://babelnet.org/synset?word=bn:00083240v&lang=FR&langTrans=EN	1			
+la	le	DET	2995	2996							
+délimitation	délimitation	NOUN	2998	3009	délimitation	B-bn:00012212n	https://babelnet.org/synset?word=bn:00012212n&lang=FR&langTrans=EN	1			
+des	un	DET	3011	3013	des	I-bn:00012212n	https://babelnet.org/synset?word=bn:00012212n&lang=FR&langTrans=EN	1			
+frontières	frontière	NOUN	3015	3024	frontières	I-bn:00012212n	https://babelnet.org/synset?word=bn:00012212n&lang=FR&langTrans=EN	1			
+entre	entrer	ADP	3026	3030							
+la	le	DET	3032	3033							
+Suisse	Suisse	PROPN	3035	3040	Suisse	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	3042	3043							
+les	le	DET	3045	3047							
+Etats	etat	NOUN	3049	3053	Etats	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+autrichiens	autrichien	ADJ	3055	3065	autrichiens	B-bn:00097788a	https://babelnet.org/synset?word=bn:00097788a&lang=FR&langTrans=EN	1			
+le	le	DET	3067	3068							
+long	long	ADJ	3070	3073	long	B-bn:00106125a	https://babelnet.org/synset?word=bn:00106125a&lang=FR&langTrans=EN	1			
+du	du	DET	3075	3076							
+territoire	territoire	NOUN	3078	3087	territoire	B-bn:00027810n	https://babelnet.org/synset?word=bn:00027810n&lang=FR&langTrans=EN	1			
+du	du	DET	3089	3090							
+canton	canton	NOUN	3092	3097	canton	B-bn:00938653n	https://babelnet.org/synset?word=bn:00938653n&lang=FR&langTrans=EN	1			
+des	un	DET	3099	3101	des	I-bn:00938653n	https://babelnet.org/synset?word=bn:00938653n&lang=FR&langTrans=EN	1			
+Grisons	grison	NOUN	3103	3109	Grisons	I-bn:00938653n	https://babelnet.org/synset?word=bn:00938653n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	3110	3110							
+Les	le	DET	3112	3114							
+pleins	plein	NOUN	3116	3121						1	
+-	-	PUNCT	3122	3122							
+pouvoirs	pouvoir	NOUN	3123	3130						1	
+donnés	donner	VERB	3132	3137						1	
+à	à	ADP	3139	3139							
+ce	ce	DET	3141	3142							
+sujet	sujet	NOUN	3144	3148	sujet	B-bn:00022157n	https://babelnet.org/synset?word=bn:00022157n&lang=FR&langTrans=EN		1	1	
+au	au	PRON	3150	3151							
+Directoire	directoire	NOUN	3153	3162						1	
+sont	être	AUX	3164	3167	sont	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+renouvelés	renouveler	VERB	3169	3178						1	
+avec	avec	ADP	3180	3183							
+invitation	invitation	NOUN	3185	3194	invitation	B-bn:00047375n	https://babelnet.org/synset?word=bn:00047375n&lang=FR&langTrans=EN	1			
+d'	de	ADP	3196	3197							
+accélérer	accélérer	VERB	3198	3206	accélérer	B-bn:00082193v	https://babelnet.org/synset?word=bn:00082193v&lang=FR&langTrans=EN	1			
+la	le	DET	3208	3209							
+solution	solution	NOUN	3211	3218	solution	B-bn:00072760n	https://babelnet.org/synset?word=bn:00072760n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	3220	3221							
+cette	ce	DET	3223	3227							
+affaire	affaire	NOUN	3229	3235	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	3236	3236							
+Le	le	DET	3238	3239							
+Directoire	Directoire	PROPN	3241	3250						1	
+ne	ne	ADV	3252	3253							
+se	se	PRON	3255	3256							
+trouve	trouver	VERB	3258	3263	trouve	B-bn:00084231v	https://babelnet.org/synset?word=bn:00084231v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	3265	3267							
+en	en	ADP	3269	3270							
+mesure	mesure	NOUN	3272	3277	mesure	B-bn:00054019n	https://babelnet.org/synset?word=bn:00054019n&lang=FR&langTrans=EN	1			
+de	de	ADP	3279	3280							
+communiquer	communiquer	VERB	3282	3292	communiquer	B-bn:00085435v	https://babelnet.org/synset?word=bn:00085435v&lang=FR&langTrans=EN	1			
+un	un	DET	3294	3295							
+résultat	résultat	NOUN	3297	3304	résultat	B-bn:00021961n	https://babelnet.org/synset?word=bn:00021961n&lang=FR&langTrans=EN	1			
+positif	positif	ADJ	3306	3312	positif	B-bn:00108822a	https://babelnet.org/synset?word=bn:00108822a&lang=FR&langTrans=EN	1			
+quelconque	quelconque	SCONJ	3314	3323	quelconque	B-bn:00097433a	https://babelnet.org/synset?word=bn:00097433a&lang=FR&langTrans=EN	1			
+au	au	PRON	3325	3326							
+sujet	sujet	NOUN	3328	3332	sujet	B-bn:00022157n	https://babelnet.org/synset?word=bn:00022157n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	3334	3335							
+la	le	DET	3337	3338							
+rectification	rectification	NOUN	3340	3352	rectification	B-bn:00940383n	https://babelnet.org/synset?word=bn:00940383n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	3354	3355							
+la	le	DET	3357	3358							
+frontière	frontière	NOUN	3360	3368	frontière	B-bn:00012212n	https://babelnet.org/synset?word=bn:00012212n&lang=FR&langTrans=EN	1			
+à	à	ADP	3370	3370							
+opérer	opérer	VERB	3372	3377	opérer	B-bn:00091177v	https://babelnet.org/synset?word=bn:00091177v&lang=FR&langTrans=EN	1			
+entre	entrer	ADP	3379	3383							
+l'	le	DET	3385	3386							
+Autriche	Autriche	PROPN	3387	3394	Autriche	B-bn:00007266n	https://babelnet.org/synset?word=bn:00007266n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	3396	3397							
+la	le	DET	3399	3400							
+Confédération	Confédération	PROPN	3402	3414	Confédération	B-bn:00021711n	https://babelnet.org/synset?word=bn:00021711n&lang=FR&langTrans=EN	1			
+le	le	DET	3416	3417							
+long	long	NOUN	3419	3422	long	B-bn:14893649n	https://babelnet.org/synset?word=bn:14893649n&lang=FR&langTrans=EN		1	1	
+du	du	DET	3424	3425							
+canton	canton	NOUN	3427	3432	canton	B-bn:00076646n	https://babelnet.org/synset?word=bn:00076646n&lang=FR&langTrans=EN	1			
+du	du	DET	3434	3435	du	I-bn:00076646n	https://babelnet.org/synset?word=bn:00076646n&lang=FR&langTrans=EN	1			
+Tessin	Tessin	PROPN	3437	3442	Tessin	I-bn:00076646n	https://babelnet.org/synset?word=bn:00076646n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	3443	3443							
+Les	le	DET	3445	3447							
+pleins	plein	NOUN	3449	3454						1	
+-	-	PUNCT	3455	3455							
+pouvoirs	pouvoir	NOUN	3456	3463						1	
+du	du	DET	3465	3466							
+Directoire	Directoire	PROPN	3468	3477						1	
+sont	être	AUX	3479	3482	sont	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+également	également	ADV	3484	3492	également	B-bn:00115274r	https://babelnet.org/synset?word=bn:00115274r&lang=FR&langTrans=EN		1	1	
+renouvelés	renouveler	VERB	3494	3503							
+.	.	PUNCT	3504	3504							
+En	En	ADP	3506	3507							
+ce	ce	PRON	3509	3510							
+qui	qui	PRON	3512	3514							
+concerne	concerner	VERB	3516	3523	concerne	B-bn:00083240v	https://babelnet.org/synset?word=bn:00083240v&lang=FR&langTrans=EN	1			
+les	le	DET	3525	3527							
+difficultés	difficulté	NOUN	3529	3539	difficultés	B-bn:00027041n	https://babelnet.org/synset?word=bn:00027041n&lang=FR&langTrans=EN	1			
+territoriales	territorial	ADJ	3541	3553	territoriales	B-bn:00111761a	https://babelnet.org/synset?word=bn:00111761a&lang=FR&langTrans=EN	1			
+entre	entrer	ADP	3555	3559							
+la	le	DET	3561	3562							
+Confédération	Confédération	PROPN	3564	3576	Confédération	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=FR&langTrans=EN	1			
+suisse	suisse	ADJ	3578	3583	suisse	I-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	3585	3586							
+le	le	DET	3588	3589							
+grand	grand	ADJ	3591	3595	grand	B-bn:00111630a	https://babelnet.org/synset?word=bn:00111630a&lang=FR&langTrans=EN	1			
+duché	duché	NOUN	3597	3601	duché	B-bn:00029009n	https://babelnet.org/synset?word=bn:00029009n&lang=FR&langTrans=EN	1			
+de	de	ADP	3603	3604							
+Baden	Baden	PROPN	3606	3610	Baden	B-bn:03770335n	https://babelnet.org/synset?word=bn:03770335n&lang=FR&langTrans=EN	1			
+le	le	DET	3612	3613							
+Ions	Ions	PROPN	3615	3618	Ions	B-bn:00047408n	https://babelnet.org/synset?word=bn:00047408n&lang=FR&langTrans=EN		1	1	1
+du	du	DET	3620	3621							
+cajilon	cajilon	NOUN	3623	3629						1	1
+de	de	ADP	3631	3632							
+Thurgovie	Thurgovie	PROPN	3634	3642	Thurgovie	B-bn:02576584n	https://babelnet.org/synset?word=bn:02576584n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	3643	3643							
+aucune	aucun	DET	3645	3650							
+conférence	conférence	NOUN	3652	3661	conférence	B-bn:00050488n	https://babelnet.org/synset?word=bn:00050488n&lang=FR&langTrans=EN		1	1	
+n'	ne	ADV	3663	3664							
+a	avoir	AUX	3665	3665						1	
+pu	pouvoir	AUX	3667	3668	pu	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+encore	encore	ADV	3670	3675	encore	B-bn:00114171r	https://babelnet.org/synset?word=bn:00114171r&lang=FR&langTrans=EN	1			
+avoir	avoir	VERB	3677	3681	avoir	B-bn:00085337v	https://babelnet.org/synset?word=bn:00085337v&lang=FR&langTrans=EN	1			
+lieu	lieu	NOUN	3683	3686	lieu	I-bn:00085337v	https://babelnet.org/synset?word=bn:00085337v&lang=FR&langTrans=EN	1			
+entre	entrer	ADP	3688	3692							
+les	le	DET	3694	3696							
+commissaires	commissaire	NOUN	3698	3709	commissaires	B-bn:00021011n	https://babelnet.org/synset?word=bn:00021011n&lang=FR&langTrans=EN	1			
+désignés	désigné	ADJ	3711	3718							
+départ	départ	NOUN	3720	3725	départ	B-bn:00026343n	https://babelnet.org/synset?word=bn:00026343n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	3727	3728							
+d'	de	ADP	3730	3731							
+autre	autre	ADJ	3732	3736						1	
+-	-	PUNCT	3737	3737							
+il	il	PRON	3738	3739							
+p.	p.	NOUN	3741	3742						1	1
+ourrail	ourrail	NOUN	3744	3750						1	1
+toutefois	toutefois	ADV	3752	3760	toutefois	B-bn:00115698r	https://babelnet.org/synset?word=bn:00115698r&lang=FR&langTrans=EN	1			
+arriver	arriver	VERB	3762	3768	arriver	B-bn:00083286v	https://babelnet.org/synset?word=bn:00083286v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	3770	3772							
+on	on	PRON	3773	3774							
+ne	ne	ADV	3776	3777						1	
+tarde	tarder	VERB	3779	3783						1	
+pas	pas	ADV	3785	3787						1	
+à	à	ADP	3789	3789							
+s'	si	PRON	3791	3792							
+entendre	entendre	VERB	3793	3800	entendre	B-bn:00089277v	https://babelnet.org/synset?word=bn:00089277v&lang=FR&langTrans=EN	1			
+sur	sur	ADP	3802	3804							
+cette	ce	DET	3806	3810							
+affaire	affaire	NOUN	3812	3818	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	3819	3819							
+Renouvellement	renouvellement	NOUN	3821	3834	Renouvellement	B-bn:01643383n	https://babelnet.org/synset?word=bn:01643383n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	3836	3837							
+pleins	plein	NOUN	3839	3844						1	
+-	-	PUNCT	3845	3845							
+pouvoirs	pouvoir	NOUN	3846	3853						1	
+au	au	PRON	3855	3856							
+Directoire	directoire	NOUN	3858	3867						1	
+.	.	PUNCT	3868	3868							
+L'	le	DET	3870	3871							
+Etat	etat	NOUN	3872	3875	Etat	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+de	de	ADP	3877	3878							
+Fribourg	Fribourg	PROPN	3880	3887	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+n'	ne	ADV	3889	3890							
+a	avoir	AUX	3891	3891							
+pas	pas	ADV	3893	3895	pas	B-bn:13692440r	https://babelnet.org/synset?word=bn:13692440r&lang=FR&langTrans=EN	1			
+encore	encore	ADV	3897	3902	encore	I-bn:13692440r	https://babelnet.org/synset?word=bn:13692440r&lang=FR&langTrans=EN	1			
+fait	faire	VERB	3904	3907	fait	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+la	le	DET	3909	3910							
+communication	communication	NOUN	3912	3924	communication	B-bn:00021221n	https://babelnet.org/synset?word=bn:00021221n&lang=FR&langTrans=EN	1			
+depuis	depuis	ADP	3926	3931							
+longtemps	longtemps	ADV	3933	3941	longtemps	B-bn:00116156r	https://babelnet.org/synset?word=bn:00116156r&lang=FR&langTrans=EN	1			
+annoncée	annoncer	VERB	3943	3950						1	
+,	,	PUNCT	3951	3951							
+d'	de	ADP	3953	3954							
+un	un	DET	3955	3956							
+second	second	ADJ	3958	3963	second	B-bn:00105773a	https://babelnet.org/synset?word=bn:00105773a&lang=FR&langTrans=EN	1			
+mémoire	mémoire	NOUN	3965	3971	mémoire	B-bn:00054300n	https://babelnet.org/synset?word=bn:00054300n&lang=FR&langTrans=EN	1			
+concernant	concerner	VERB	3973	3982	concernant	B-bn:00083240v	https://babelnet.org/synset?word=bn:00083240v&lang=FR&langTrans=EN	1			
+les	le	DET	3984	3986							
+différends	différend	ADJ	3988	3997	différends	B-bn:00005601n	https://babelnet.org/synset?word=bn:00005601n&lang=FR&langTrans=EN	1			
+relatifs	relatif	NOUN	3999	4006	relatifs	B-bn:00100122a	https://babelnet.org/synset?word=bn:00100122a&lang=FR&langTrans=EN	1			
+au	au	PRON	4008	4009							
+lac	lac	ADV	4011	4013	lac	B-bn:00049709n	https://babelnet.org/synset?word=bn:00049709n&lang=FR&langTrans=EN	1			
+de	de	ADP	4015	4016							
+Moral	Moral	PROPN	4018	4022	Moral	B-bn:00055852n	https://babelnet.org/synset?word=bn:00055852n&lang=FR&langTrans=EN		1	1	1
+.	.	PUNCT	4023	4023							
+Le	le	DET	4025	4026							
+député	député	NOUN	4028	4033	député	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+de	de	ADP	4035	4036							
+Fribourg	Fribourg	PROPN	4038	4045	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+fait	faire	VERB	4047	4050	fait	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+observer	observer	VERB	4052	4059						1	
+que	que	SCONJ	4061	4063							
+l'	le	DET	4065	4066							
+ancien	ancien	ADJ	4067	4072	ancien	B-bn:00107787a	https://babelnet.org/synset?word=bn:00107787a&lang=FR&langTrans=EN	1			
+gouvernement	gouvernement	NOUN	4074	4085	gouvernement	B-bn:00001426n	https://babelnet.org/synset?word=bn:00001426n&lang=FR&langTrans=EN	1			
+était	être	AUX	4087	4091	était	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+trop	trop	ADV	4093	4096	trop	B-bn:00115274r	https://babelnet.org/synset?word=bn:00115274r&lang=FR&langTrans=EN	1			
+absorbé	absorber	VERB	4098	4104	absorbé	B-bn:00082177v	https://babelnet.org/synset?word=bn:00082177v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	4106	4109							
+ses	son	DET	4111	4113							
+préparatifs	préparatif	NOUN	4115	4125	préparatifs	B-bn:00064168n	https://babelnet.org/synset?word=bn:00064168n&lang=FR&langTrans=EN	1			
+militaires	militaire	ADJ	4127	4136	militaires	B-bn:00106724a	https://babelnet.org/synset?word=bn:00106724a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4137	4137							
+dans	dan	ADP	4139	4142							
+le	le	DET	4144	4145							
+but	but	NOUN	4147	4149	but	B-bn:00014202n	https://babelnet.org/synset?word=bn:00014202n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	4151	4152							
+résister	résister	VERB	4154	4161	résister	B-bn:00089411v	https://babelnet.org/synset?word=bn:00089411v&lang=FR&langTrans=EN	1			
+à	à	ADP	4163	4163							
+la	le	DET	4165	4166							
+Confédération	Confédération	PROPN	4168	4180	Confédération	B-bn:00021711n	https://babelnet.org/synset?word=bn:00021711n&lang=FR&langTrans=EN	1			
+pour	pour	ADP	4182	4185							
+qu'	que	SCONJ	4187	4189							
+il	il	PRON	4190	4191							
+songeât	songer	VERB	4193	4199	songeât	B-bn:00083370v	https://babelnet.org/synset?word=bn:00083370v&lang=FR&langTrans=EN	1			
+		PUNCT	4200	4200							
+,	,	PUNCT	4201	4201							
+à	à	ADP	4203	4203							
+,	,	PUNCT	4204	4204							
+s'	si	PRON	4206	4207							
+occuper	occuper	VERB	4208	4214	occuper	B-bn:00090437v	https://babelnet.org/synset?word=bn:00090437v&lang=FR&langTrans=EN	1			
+de	de	ADP	4216	4217							
+la	le	DET	4219	4220							
+r.	r.	NOUN	4222	4223						1	1
+édacljqn	édacljqn	VERB	4225	4232						1	1
+de	de	ADP	4234	4235							
+ce	ce	DET	4237	4238							
+second	second	ADJ	4240	4245	second	B-bn:00105773a	https://babelnet.org/synset?word=bn:00105773a&lang=FR&langTrans=EN	1			
+mémoire	mémoire	NOUN	4247	4253	mémoire	B-bn:00054300n	https://babelnet.org/synset?word=bn:00054300n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	4254	4254							
+Maintenant	maintenant	ADV	4256	4265	Maintenant	B-bn:00058217n	https://babelnet.org/synset?word=bn:00058217n&lang=FR&langTrans=EN	1			
+que	que	SCONJ	4267	4269							
+les	le	DET	4271	4273							
+circonstances	circonstance	NOUN	4275	4287	circonstances	B-bn:00019218n	https://babelnet.org/synset?word=bn:00019218n&lang=FR&langTrans=EN	1			
+ont	avoir	AUX	4289	4291	ont	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+changé	changer	VERB	4293	4298	changé	B-bn:00082553v	https://babelnet.org/synset?word=bn:00082553v&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4299	4299							
+l'	le	DET	4301	4302							
+État	état	NOUN	4303	4306	État	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+de	de	ADP	4308	4309							
+Fribourg	Fribourg	PROPN	4311	4318	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	4319	4319							
+empressé	empresser	VERB	4321	4328						1	
+de	de	ADP	4330	4331							
+cultiver	cultiver	VERB	4333	4340	cultiver	B-bn:00086147v	https://babelnet.org/synset?word=bn:00086147v&lang=FR&langTrans=EN	1			
+des	un	DET	4342	4344							
+relations	relation	NOUN	4346	4354	relations	B-bn:00045161n	https://babelnet.org/synset?word=bn:00045161n&lang=FR&langTrans=EN	1			
+d'	de	ADP	4356	4357							
+amitié	amitié	NOUN	4358	4363	amitié	B-bn:00036545n	https://babelnet.org/synset?word=bn:00036545n&lang=FR&langTrans=EN	1			
+avec	avec	ADP	4365	4368							
+ses	son	DET	4370	4372							
+voisins	voisin	NOUN	4374	4380	voisins	B-bn:00057219n	https://babelnet.org/synset?word=bn:00057219n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4381	4381							
+«	«	PUNCT	4383	4383							
+emandeq	emandeq	VERB	4385	4391						1	1
+_	_	ADP	4393	4393							
+ue	ue	DET	4395	4396							
+celte	celte	NOUN	4398	4402	celte	B-bn:00099426a	https://babelnet.org/synset?word=bn:00099426a&lang=FR&langTrans=EN		1		1
+affaire	affaire	NOUN	4404	4410	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+soit	être	AUX	4412	4415	soit	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+ajournée	ajourner	VERB	4417	4424						1	
+jusqu'	jusque	ADP	4426	4431							
+à	à	ADP	4432	4432							
+la	le	DET	4434	4435							
+Diète	diète	NOUN	4437	4441	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+de	de	ADP	4443	4444							
+1849	1849	NUM	4446	4449							
+,	,	PUNCT	4450	4450							
+parce	parce	SCONJ	4452	4456							
+que	que	SCONJ	4458	4460							
+d'	de	ADP	4462	4463							
+ici	ici	ADV	4464	4466							
+-	-	PUNCT	4467	4467							
+là	là	ADV	4468	4469							
+elle	lui	PRON	4471	4474							
+s'	si	PRON	4476	4477							
+arrangera	arranger	VERB	4478	4486	arrangera	B-bn:00082777v	https://babelnet.org/synset?word=bn:00082777v&lang=FR&langTrans=EN	1			
+sans	sans	ADP	4488	4491							
+doute	doute	NOUN	4493	4497	doute	B-bn:00028425n	https://babelnet.org/synset?word=bn:00028425n&lang=FR&langTrans=EN	1			
+à	à	ADP	4499	4499							
+l'	le	DET	4501	4502							
+amiable	amiable	NOUN	4503	4509	amiable	B-bn:00096973a	https://babelnet.org/synset?word=bn:00096973a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	4510	4510							
+Le	le	DET	4512	4513							
+député	député	NOUN	4515	4520	député	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+de	de	ADP	4522	4523							
+Fatal	Fatal	PROPN	4525	4529	Fatal	B-bn:04835030n	https://babelnet.org/synset?word=bn:04835030n&lang=FR&langTrans=EN		1	1	1
+est	être	AUX	4531	4533	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+satisfait	satisfaire	ADJ	4535	4543	satisfait	B-bn:00110116a	https://babelnet.org/synset?word=bn:00110116a&lang=FR&langTrans=EN	1			
+de	de	ADP	4545	4546							
+cette	ce	DET	4548	4552							
+déclaration	déclaration	NOUN	4554	4564	déclaration	B-bn:00074033n	https://babelnet.org/synset?word=bn:00074033n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4565	4565							
+et	et	CCONJ	4567	4568							
+il	il	PRON	4570	4571							
+espère	espérer	VERB	4573	4578	espère	B-bn:00089472v	https://babelnet.org/synset?word=bn:00089472v&lang=FR&langTrans=EN	1			
+aussi	aussi	ADV	4580	4584	aussi	B-bn:00114246r	https://babelnet.org/synset?word=bn:00114246r&lang=FR&langTrans=EN	1			
+que	que	SCONJ	4586	4588							
+l'	le	DET	4590	4591							
+affaire	affaire	NOUN	4592	4598	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+s'	si	PRON	4600	4601							
+arrangera	arranger	VERB	4602	4610	arrangera	B-bn:00082777v	https://babelnet.org/synset?word=bn:00082777v&lang=FR&langTrans=EN	1			
+à	à	ADP	4612	4612							
+l'	le	DET	4614	4615							
+amiable	amiable	NOUN	4616	4622	amiable	B-bn:00096973a	https://babelnet.org/synset?word=bn:00096973a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	4623	4623							
+En	En	ADP	4625	4626							
+présence	présence	NOUN	4628	4635	présence	B-bn:00064201n	https://babelnet.org/synset?word=bn:00064201n&lang=FR&langTrans=EN	1			
+de	de	ADP	4637	4638							
+ces	ce	DET	4640	4642							
+déclarations	déclaration	NOUN	4644	4655	déclarations	B-bn:00074033n	https://babelnet.org/synset?word=bn:00074033n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4656	4656							
+la	le	DET	4658	4659							
+Dièle	Dièle	PROPN	4661	4665							1
+ne	ne	ADV	4667	4668							
+donne	donner	VERB	4670	4674	donne	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	4676	4678							
+suite	suite	NOUN	4680	4684	suite	B-bn:01234901n	https://babelnet.org/synset?word=bn:01234901n&lang=FR&langTrans=EN		1	1	
+à	à	ADP	4686	4686							
+celte	celte	NOUN	4688	4692	celte	B-bn:00099426a	https://babelnet.org/synset?word=bn:00099426a&lang=FR&langTrans=EN		1		1
+affaire	affaire	NOUN	4694	4700	affaire	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	4701	4701							
+et	et	CCONJ	4703	4704							
+elle	lui	PRON	4706	4709							
+renvoie	renvoyer	VERB	4711	4717	renvoie	B-bn:00088506v	https://babelnet.org/synset?word=bn:00088506v&lang=FR&langTrans=EN	1			
+les	le	DET	4719	4721							
+deux	deux	NUM	4723	4726							
+Etats	etat	NOUN	4728	4732	Etats	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+intéressés	intéresser	VERB	4734	4743						1	
+à	à	ADP	4745	4745							
+s'	si	PRON	4747	4748							
+entendre	entendre	VERB	4749	4756	entendre	B-bn:00089277v	https://babelnet.org/synset?word=bn:00089277v&lang=FR&langTrans=EN	1			
+à	à	ADP	4758	4758							
+l'	le	DET	4760	4761							
+amiable	amiable	NOUN	4762	4768	amiable	B-bn:00096973a	https://babelnet.org/synset?word=bn:00096973a&lang=FR&langTrans=EN		1	1	
+jusqu'	jusque	ADP	4770	4775							
+à	à	ADP	4776	4776							
+la	le	DET	4778	4779							
+Diète	diète	NOUN	4781	4785	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+de	de	ADP	4787	4788							
+1849	1849	NUM	4790	4793							
+.	.	PUNCT	4794	4794							
+Proposition	proposition	NOUN	4796	4806	Proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	4808	4809							
+Genève	Genève	PROPN	4811	4816						1	
+tendant	tendre	VERB	4818	4824	tendant	B-bn:00083202v	https://babelnet.org/synset?word=bn:00083202v&lang=FR&langTrans=EN	1			
+à	à	ADP	4826	4826							
+la	le	DET	4828	4829							
+publication	publication	NOUN	4831	4841	publication	B-bn:00047693n	https://babelnet.org/synset?word=bn:00047693n&lang=FR&langTrans=EN	1			
+d'	de	ADP	4843	4844							
+un	un	DET	4845	4846							
+bulletin	bulletin	NOUN	4848	4855	bulletin	B-bn:00013812n	https://babelnet.org/synset?word=bn:00013812n&lang=FR&langTrans=EN	1			
+en	en	ADP	4857	4858							
+langue	langue	NOUN	4860	4865	langue	B-bn:00040293n	https://babelnet.org/synset?word=bn:00040293n&lang=FR&langTrans=EN	1			
+allemande	allemand	ADJ	4867	4875	allemande	I-bn:00040293n	https://babelnet.org/synset?word=bn:00040293n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	4877	4878							
+en	en	ADP	4880	4881							
+langue	langue	NOUN	4883	4888	langue	B-bn:00036426n	https://babelnet.org/synset?word=bn:00036426n&lang=FR&langTrans=EN	1			
+française	français	ADJ	4890	4898	française	I-bn:00036426n	https://babelnet.org/synset?word=bn:00036426n&lang=FR&langTrans=EN	1			
+des	un	DET	4900	4902							
+délibérations	délibération	NOUN	4904	4916	délibérations	B-bn:00026036n	https://babelnet.org/synset?word=bn:00026036n&lang=FR&langTrans=EN	1			
+la	le	DET	4918	4919							
+Dièle	Dièle	PROPN	4921	4925						1	1
+.	.	PUNCT	4926	4926							
+Le	le	DET	4928	4929							
+dépulé	dépulé	NOUN	4931	4936						1	1
+de	de	ADP	4938	4939							
+Genève	Genève	PROPN	4941	4946						1	
+motive	motiv	ADJ	4948	4953	motive	B-bn:00082313v	https://babelnet.org/synset?word=bn:00082313v&lang=FR&langTrans=EN	1			
+la	le	DET	4955	4956							
+proposition	proposition	NOUN	4958	4968	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	4970	4971							
+son	son	DET	4973	4975							
+Etat	etat	NOUN	4977	4980	Etat	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+sur	sur	ADP	4982	4984							
+l'	le	DET	4986	4987							
+insuffisance	insuffisance	NOUN	4988	4999	insuffisance	B-bn:00025914n	https://babelnet.org/synset?word=bn:00025914n&lang=FR&langTrans=EN	1			
+des	un	DET	5001	5003							
+comptes-rendus	comptes-rendu	NOUN	5005	5018						1	
+publiés	publier	VERB	5020	5026						1	
+par	par	ADP	5028	5030							
+la	le	DET	5032	5033							
+voie	voie	NOUN	5035	5038	voie	B-bn:00077838n	https://babelnet.org/synset?word=bn:00077838n&lang=FR&langTrans=EN		1	1	
+ordinaire	ordinaire	ADJ	5040	5048	ordinaire	B-bn:00107963a	https://babelnet.org/synset?word=bn:00107963a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	5049	5049							
+On	on	PRON	5051	5052							
+sait	savoir	AUX	5054	5057	sait	B-bn:00090142v	https://babelnet.org/synset?word=bn:00090142v&lang=FR&langTrans=EN	1			
+en	en	ADP	5059	5060							
+général	général	ADJ	5062	5068	général	B-bn:00037663n	https://babelnet.org/synset?word=bn:00037663n&lang=FR&langTrans=EN		1	1	
+ce	ce	PRON	5070	5071							
+qui	qui	PRON	5073	5075							
+se	se	PRON	5077	5078							
+passe	passer	VERB	5080	5084	passe	B-bn:00091458v	https://babelnet.org/synset?word=bn:00091458v&lang=FR&langTrans=EN	1			
+en	en	ADP	5086	5087							
+Diète	Diète	PROPN	5089	5093	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5094	5094							
+mais	mais	CCONJ	5096	5099							
+on	on	PRON	5101	5102							
+ne	ne	ADV	5104	5105						1	
+peut	pouvoir	AUX	5107	5110	peut	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+toujours	toujours	ADV	5112	5119	toujours	B-bn:00114251r	https://babelnet.org/synset?word=bn:00114251r&lang=FR&langTrans=EN	1			
+peser	peser	VERB	5121	5125	peser	B-bn:00090319v	https://babelnet.org/synset?word=bn:00090319v&lang=FR&langTrans=EN	1			
+les	le	DET	5127	5129							
+raisons	raison	NOUN	5131	5137	raisons	B-bn:00066443n	https://babelnet.org/synset?word=bn:00066443n&lang=FR&langTrans=EN	1			
+pour	pour	ADP	5139	5142							
+et	et	CCONJ	5144	5145							
+contre	contrer	ADP	5147	5152							
+.	.	PUNCT	5153	5153							
+La	le	DET	5155	5156							
+dépense	dépense	NOUN	5158	5164	dépense	B-bn:00087372v	https://babelnet.org/synset?word=bn:00087372v&lang=FR&langTrans=EN		1	1	
+qu'	que	PRON	5166	5168							
+entraînerait	entraîner	VERB	5169	5180	entraînerait	B-bn:00084700v	https://babelnet.org/synset?word=bn:00084700v&lang=FR&langTrans=EN	1			
+cette	ce	DET	5182	5186							
+publication	publication	NOUN	5188	5198	publication	B-bn:00047693n	https://babelnet.org/synset?word=bn:00047693n&lang=FR&langTrans=EN	1			
+aurait	avoir	AUX	5200	5205	aurait	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+pour	pour	ADP	5207	5210							
+but	but	NOUN	5212	5214	but	B-bn:00014202n	https://babelnet.org/synset?word=bn:00014202n&lang=FR&langTrans=EN		1	1	
+d'	de	ADP	5216	5217							
+instruire	instruir	ADJ	5218	5226	instruire	B-bn:00089724v	https://babelnet.org/synset?word=bn:00089724v&lang=FR&langTrans=EN	1			
+le	le	DET	5228	5229							
+peuple	peuple	NOUN	5231	5236	peuple	B-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=FR&langTrans=EN	1			
+suisse	suisse	ADJ	5238	5243	suisse	I-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=FR&langTrans=EN	1			
+sur	sur	ADP	5245	5247							
+les	le	DET	5249	5251							
+affaires	affaire	NOUN	5253	5260	affaires	B-bn:00012439n	https://babelnet.org/synset?word=bn:00012439n&lang=FR&langTrans=EN		1	1	
+fédérales	fédéral	ADJ	5262	5270	fédérales	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+et	et	CCONJ	5272	5273							
+elle	lui	PRON	5275	5278							
+obvierait	obvier	VERB	5280	5288						1	
+à	à	ADP	5290	5290							
+l'	le	DET	5292	5293							
+inconvénient	inconvénient	NOUN	5294	5305	inconvénient	B-bn:02383710n	https://babelnet.org/synset?word=bn:02383710n&lang=FR&langTrans=EN	1			
+de	de	ADP	5307	5308							
+voir	voir	VERB	5310	5313	voir	B-bn:00093430v	https://babelnet.org/synset?word=bn:00093430v&lang=FR&langTrans=EN	1			
+défigurer	défigurer	VERB	5315	5323	défigurer	B-bn:00083592v	https://babelnet.org/synset?word=bn:00083592v&lang=FR&langTrans=EN	1			
+les	le	DET	5325	5327							
+discours	discours	NOUN	5329	5336	discours	B-bn:00049018n	https://babelnet.org/synset?word=bn:00049018n&lang=FR&langTrans=EN		1	1	
+des	un	DET	5338	5340							
+députés	député	NOUN	5342	5348	députés	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	5349	5349							
+Si	Si	SCONJ	5351	5352							
+une	un	DET	5354	5356							
+publication	publication	NOUN	5358	5368	publication	B-bn:00047693n	https://babelnet.org/synset?word=bn:00047693n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5369	5369							
+de	de	ADP	5371	5372							
+celle	celui	PRON	5374	5378							
+nalure	nalure	NOUN	5380	5385						1	1
+avait	avoir	AUX	5387	5391	avait	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+eu	avoir	VERB	5393	5394	eu	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+lieu	lieu	NOUN	5396	5399	lieu	B-bn:00051754n	https://babelnet.org/synset?word=bn:00051754n&lang=FR&langTrans=EN	1			
+jusqu'	jusque	ADP	5401	5406							
+ici	ici	ADV	5407	5409	ici	B-bn:00104117a	https://babelnet.org/synset?word=bn:00104117a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5410	5410							
+on	on	PRON	5412	5413							
+aurait	avoir	AUX	5415	5420	aurait	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+évité	éviter	NOUN	5422	5426	évité	B-bn:00082954v	https://babelnet.org/synset?word=bn:00082954v&lang=FR&langTrans=EN	1			
+bien	bien	ADV	5428	5431	bien	B-bn:00115530r	https://babelnet.org/synset?word=bn:00115530r&lang=FR&langTrans=EN	1			
+des	un	DET	5433	5435							
+inconvéniens	inconvénien	NOUN	5437	5448						1	
+.	.	PUNCT	5449	5449							
+Quelques	quelque	DET	5451	5458							
+députés	député	NOUN	5460	5466	députés	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+estiment	estimer	VERB	5468	5475	estiment	B-bn:00082743v	https://babelnet.org/synset?word=bn:00082743v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	5477	5479							
+il	il	PRON	5480	5481							
+faut	falloir	VERB	5483	5486	faut	B-bn:00095682v	https://babelnet.org/synset?word=bn:00095682v&lang=FR&langTrans=EN		1	1	
+abandonner	abandonner	VERB	5488	5497	abandonner	B-bn:00082118v	https://babelnet.org/synset?word=bn:00082118v&lang=FR&langTrans=EN	1			
+aux	aux	DET	5499	5501							
+autorités	autorité	NOUN	5503	5511	autorités	B-bn:00007293n	https://babelnet.org/synset?word=bn:00007293n&lang=FR&langTrans=EN	1			
+fédérales	fédéral	ADJ	5513	5521	fédérales	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+futures	future	NOUN	5523	5529	futures	B-bn:00103449a	https://babelnet.org/synset?word=bn:00103449a&lang=FR&langTrans=EN	1			
+le	le	DET	5531	5532							
+soin	soin	NOUN	5534	5537	soin	B-bn:00016014n	https://babelnet.org/synset?word=bn:00016014n&lang=FR&langTrans=EN	1			
+de	de	ADP	5539	5540							
+publier	publier	VERB	5542	5548	publier	B-bn:00084099v	https://babelnet.org/synset?word=bn:00084099v&lang=FR&langTrans=EN	1			
+leurs	leur	DET	5550	5554							
+délibérations	délibération	NOUN	5556	5568	délibérations	B-bn:00026036n	https://babelnet.org/synset?word=bn:00026036n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	5569	5569							
+Fribourg	Fribourg	PROPN	5571	5578	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	5579	5579							
+au	au	DET	5581	5582							
+contraire	contraire	ADJ	5584	5592	contraire	B-bn:00022257n	https://babelnet.org/synset?word=bn:00022257n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5593	5593							
+trouve	trouver	VERB	5595	5600	trouve	B-bn:00084231v	https://babelnet.org/synset?word=bn:00084231v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	5602	5604							
+il	il	PRON	5605	5606							
+y	yu	PRON	5608	5608							
+a	avoir	VERB	5610	5610							
+une	un	DET	5612	5614							
+utilité	utilité	NOUN	5616	5622	utilité	B-bn:00079372n	https://babelnet.org/synset?word=bn:00079372n&lang=FR&langTrans=EN	1			
+incontestable	incontestable	ADJ	5624	5636	incontestable	B-bn:00104869a	https://babelnet.org/synset?word=bn:00104869a&lang=FR&langTrans=EN	1			
+à	à	ADP	5638	5638							
+adopter	adopter	VERB	5640	5646	adopter	B-bn:00082379v	https://babelnet.org/synset?word=bn:00082379v&lang=FR&langTrans=EN	1			
+la	le	DET	5648	5649							
+proposition	proposition	NOUN	5651	5661	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	5663	5664							
+Genève	Genève	PROPN	5666	5671						1	
+.	.	PUNCT	5672	5672							
+Dans	Dans	ADP	5674	5677							
+le	le	DET	5679	5680							
+moment	moment	NOUN	5682	5687	moment	B-bn:00010728n	https://babelnet.org/synset?word=bn:00010728n&lang=FR&langTrans=EN	1			
+où	où	PRON	5689	5690							
+la	le	DET	5692	5693							
+Confédération	Confédération	PROPN	5695	5707	Confédération	B-bn:00021711n	https://babelnet.org/synset?word=bn:00021711n&lang=FR&langTrans=EN	1			
+va	aller	VERB	5709	5710							
+.	.	PUNCT	5711	5711							
+se	se	PRON	5713	5714							
+reconstituer	reconstituer	VERB	5716	5727	reconstituer	B-bn:00092532v	https://babelnet.org/synset?word=bn:00092532v&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5728	5728							
+il	il	PRON	5730	5731							
+est	être	AUX	5733	5735	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+important	important	ADJ	5737	5745	important	B-bn:00104680a	https://babelnet.org/synset?word=bn:00104680a&lang=FR&langTrans=EN	1			
+de	de	ADP	5747	5748							
+donner	donner	VERB	5750	5755	donner	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=FR&langTrans=EN	1			
+la	le	DET	5757	5758							
+plus	plus	ADV	5760	5763	plus	B-bn:00103782a	https://babelnet.org/synset?word=bn:00103782a&lang=FR&langTrans=EN	1			
+grande	grand	ADJ	5765	5770	grande	I-bn:00103782a	https://babelnet.org/synset?word=bn:00103782a&lang=FR&langTrans=EN	1			
+publicité	publicité	NOUN	5772	5780	publicité	B-bn:00001227n	https://babelnet.org/synset?word=bn:00001227n&lang=FR&langTrans=EN	1			
+possible	possible	ADJ	5782	5789	possible	B-bn:00108829a	https://babelnet.org/synset?word=bn:00108829a&lang=FR&langTrans=EN	1			
+aux	aux	ADP	5791	5793							
+débats	débat	NOUN	5795	5800	débats	B-bn:00005601n	https://babelnet.org/synset?word=bn:00005601n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	5802	5803							
+aux	aux	ADJ	5805	5807							
+actes	acte	NOUN	5809	5813	actes	B-bn:00001077n	https://babelnet.org/synset?word=bn:00001077n&lang=FR&langTrans=EN		1	1	
+des	un	DET	5815	5817							
+autorités	autorité	NOUN	5819	5827	autorités	B-bn:00007293n	https://babelnet.org/synset?word=bn:00007293n&lang=FR&langTrans=EN	1			
+fédérales	fédéral	ADJ	5829	5837	fédérales	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	5838	5838							
+De	De	ADP	5840	5841							
+tous	tou	ADJ	5843	5846							
+les	le	DET	5848	5850							
+cantons	canton	NOUN	5852	5858	cantons	B-bn:00077775n	https://babelnet.org/synset?word=bn:00077775n&lang=FR&langTrans=EN		1	1	
+allemands	allemand	ADJ	5860	5868	allemands	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5869	5869							
+il	il	PRON	5871	5872							
+n'	ne	ADV	5874	5875						1	
+y	yu	PRON	5876	5876							
+a	avoir	VERB	5878	5878						1	
+que	que	SCONJ	5880	5882							
+les	le	DET	5884	5886							
+députés	député	NOUN	5888	5894	députés	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+de	de	ADP	5896	5897							
+Râle	Râle	PROPN	5899	5902	Râle	B-bn:00041999n	https://babelnet.org/synset?word=bn:00041999n&lang=FR&langTrans=EN		1	1	1
+et	et	CCONJ	5904	5905							
+de	de	ADP	5907	5908							
+Reme	Reme	PROPN	5910	5913							1
+qui	qui	PRON	5915	5917							
+.	.	PUNCT	5918	5918							
+appuient	appuyer	VERB	5920	5927	appuient	B-bn:00083243v	https://babelnet.org/synset?word=bn:00083243v&lang=FR&langTrans=EN	1			
+la	le	DET	5929	5930							
+proposition	proposition	NOUN	5932	5942	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	5944	5945							
+Genève	Genève	PROPN	5947	5952						1	
+.	.	PUNCT	5953	5953							
+Vaud	Vaud	PROPN	5955	5958	Vaud	B-bn:02251749n	https://babelnet.org/synset?word=bn:02251749n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5959	5959							
+tout	tout	ADV	5961	5964							
+en	en	ADP	5966	5967							
+l'	le	DET	5969	5970							
+appuyant	appuyer	VERB	5971	5978	appuyant	B-bn:00083243v	https://babelnet.org/synset?word=bn:00083243v&lang=FR&langTrans=EN	1			
+quant	quant	SCONJ	5980	5984							
+au	au	PRON	5986	5987							
+fond	fond	NOUN	5989	5992	fond	B-bn:00012365n	https://babelnet.org/synset?word=bn:00012365n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	5993	5993							
+demande	demander	VERB	5995	6001	demande	B-bn:00082817v	https://babelnet.org/synset?word=bn:00082817v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	6003	6005							
+elle	lui	PRON	6006	6009							
+soit	être	AUX	6011	6014	soit	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+ajournée	ajourner	VERB	6016	6023						1	
+.	.	PUNCT	6024	6024							
+En	En	ADP	6026	6027							
+général	général	NOUN	6029	6035	général	B-bn:00037663n	https://babelnet.org/synset?word=bn:00037663n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	6036	6036							
+les	le	DET	6038	6040							
+cantons	canton	NOUN	6042	6048	cantons	B-bn:03142192n	https://babelnet.org/synset?word=bn:03142192n&lang=FR&langTrans=EN		1	1	
+français	français	ADJ	6050	6057	français	I-bn:03142192n	https://babelnet.org/synset?word=bn:03142192n&lang=FR&langTrans=EN		1	1	
+appuient	appuyer	VERB	6059	6066	appuient	B-bn:00083243v	https://babelnet.org/synset?word=bn:00083243v&lang=FR&langTrans=EN	1			
+la	le	DET	6068	6069							
+proposition	proposition	NOUN	6071	6081	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	6083	6084							
+publier	publier	VERB	6086	6092	publier	B-bn:00084099v	https://babelnet.org/synset?word=bn:00084099v&lang=FR&langTrans=EN	1			
+un	un	DET	6094	6095							
+bulletin	bulletin	NOUN	6097	6104	bulletin	B-bn:00013812n	https://babelnet.org/synset?word=bn:00013812n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	6105	6105							
+Après	Après	ADP	6107	6111							
+le	le	DET	6113	6114							
+tour	tour	NOUN	6116	6119	tour	B-bn:00050151n	https://babelnet.org/synset?word=bn:00050151n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	6121	6122							
+délibération	délibération	NOUN	6124	6135	délibération	B-bn:00026036n	https://babelnet.org/synset?word=bn:00026036n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6136	6136							
+Genève	Genève	PROPN	6138	6143						1	
+prend	prendre	VERB	6145	6149	prend	B-bn:00088762v	https://babelnet.org/synset?word=bn:00088762v&lang=FR&langTrans=EN	1			
+encore	encore	ADV	6151	6156	encore	B-bn:00114171r	https://babelnet.org/synset?word=bn:00114171r&lang=FR&langTrans=EN	1			
+la	le	DET	6158	6159							
+pa	pa	NOUN	6161	6162	pa	B-bn:00024989n	https://babelnet.org/synset?word=bn:00024989n&lang=FR&langTrans=EN		1		1
+role	role	VERB	6164	6167	role	B-bn:04699608n	https://babelnet.org/synset?word=bn:04699608n&lang=FR&langTrans=EN		1		1
+pour	pour	ADP	6169	6172							
+défendre	défendre	VERB	6174	6181	défendre	B-bn:00086452v	https://babelnet.org/synset?word=bn:00086452v&lang=FR&langTrans=EN	1			
+la	le	DET	6183	6184							
+proposition	proposition	NOUN	6186	6196	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	6197	6197							
+Le	le	DET	6199	6200							
+seul	seul	ADJ	6202	6205	seul	B-bn:00096872a	https://babelnet.org/synset?word=bn:00096872a&lang=FR&langTrans=EN	1			
+argument	argument	NOUN	6207	6214	argument	B-bn:00005600n	https://babelnet.org/synset?word=bn:00005600n&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	6216	6218							
+on	on	PRON	6219	6220							
+pourrait	pouvoir	AUX	6222	6229	pourrait	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+faire	faire	VERB	6231	6235	faire	B-bn:00090025v	https://babelnet.org/synset?word=bn:00090025v&lang=FR&langTrans=EN	1			
+valoir	valoir	VERB	6237	6242	valoir	I-bn:00090025v	https://babelnet.org/synset?word=bn:00090025v&lang=FR&langTrans=EN	1			
+contre	contrer	ADP	6244	6249							
+celle	celui	PRON	6251	6255							
+proposition	proposition	NOUN	6257	6267	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	6268	6268							
+c'	ce	PRON	6270	6271							
+est	être	AUX	6272	6274						1	
+,	,	PUNCT	6275	6275							
+dit	dire	VERB	6277	6279						1	
+-	-	PUNCT	6280	6280							
+il	il	PRON	6281	6282							
+,	,	PUNCT	6283	6283							
+la	le	DET	6285	6286							
+question	question	NOUN	6288	6295	question	B-bn:00047208n	https://babelnet.org/synset?word=bn:00047208n&lang=FR&langTrans=EN	1			
+des	un	DET	6297	6299							
+frais	frais	NOUN	6301	6305	frais	B-bn:00074577n	https://babelnet.org/synset?word=bn:00074577n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	6306	6306							
+Mais	Mais	CCONJ	6308	6311							
+il	il	PRON	6313	6314							
+ne	ne	ADV	6316	6317						1	
+serait	être	VERB	6319	6324	serait	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	6326	6328						1	
+nécessaire	nécessaire	ADJ	6330	6339	nécessaire	B-bn:00107182a	https://babelnet.org/synset?word=bn:00107182a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6340	6340							
+t-il	t-il	ADV	6342	6345							
+,	,	PUNCT	6346	6346							
+de	de	ADP	6348	6349							
+reproduire	reproduire	NOUN	6351	6360	reproduire	B-bn:00092851v	https://babelnet.org/synset?word=bn:00092851v&lang=FR&langTrans=EN	1			
+textuellement	textuellement	ADV	6362	6374						1	
+tous	tou	ADJ	6376	6379							
+les	le	DET	6381	6383							
+discours	discours	NOUN	6385	6392	discours	B-bn:00049018n	https://babelnet.org/synset?word=bn:00049018n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	6393	6393							
+Il	il	PRON	6395	6396							
+suffirait	suffire	VERB	6398	6406	suffirait	B-bn:00088429v	https://babelnet.org/synset?word=bn:00088429v&lang=FR&langTrans=EN		1	1	
+de	de	ADP	6408	6409							
+reproduire	reproduire	VERB	6411	6420	reproduire	B-bn:00092851v	https://babelnet.org/synset?word=bn:00092851v&lang=FR&langTrans=EN	1			
+les	le	DET	6422	6424							
+pensées	pensée	NOUN	6426	6432						1	
+des	un	DET	6434	6436							
+orateurs	orateur	NOUN	6438	6445	orateurs	B-bn:00059275n	https://babelnet.org/synset?word=bn:00059275n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6446	6446							
+et	et	CCONJ	6448	6449							
+deux	deux	NUM	6451	6454							
+personnes	personne	NOUN	6456	6464	personnes	B-bn:00046516n	https://babelnet.org/synset?word=bn:00046516n&lang=FR&langTrans=EN	1			
+seraient	être	AUX	6466	6473	seraient	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+à	à	ADP	6475	6475							
+même	même	ADV	6477	6480						1	
+de	de	ADP	6482	6483							
+soigner	soigner	VERB	6485	6491	soigner	B-bn:00091106v	https://babelnet.org/synset?word=bn:00091106v&lang=FR&langTrans=EN		1	1	
+celte	celte	NOUN	6493	6497							
+publication	publication	NOUN	6499	6509	publication	B-bn:00047693n	https://babelnet.org/synset?word=bn:00047693n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	6510	6510							
+Il	il	PRON	6512	6513							
+y	yu	PRON	6515	6515							
+aura	avoir	VERB	6517	6520	aura	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+d'	de	ADP	6522	6523							
+ailleurs	ailleur	NOUN	6524	6531	ailleurs	B-bn:00115192r	https://babelnet.org/synset?word=bn:00115192r&lang=FR&langTrans=EN	1			
+beaucoup	beaucoup	ADV	6533	6540	beaucoup	B-bn:00114047r	https://babelnet.org/synset?word=bn:00114047r&lang=FR&langTrans=EN	1			
+à	à	ADP	6542	6542							
+faire	faire	VERB	6544	6548	faire	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	6550	6553							
+la	le	DET	6555	6556							
+Diète	diète	NOUN	6558	6562	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+actuelle	actuel	ADJ	6564	6571	actuelle	B-bn:00108977a	https://babelnet.org/synset?word=bn:00108977a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6572	6572							
+soit	être	CCONJ	6574	6577						1	
+que	que	SCONJ	6579	6581							
+la	le	DET	6583	6584							
+constitution	constitution	NOUN	6586	6597						1	
+fédéralesoitacceptée	fédéralesoitaccepter	VERB	6599	6618						1	1
+,	,	PUNCT	6619	6619							
+soitqu'	soitqu'	ADP	6621	6627							
+ellesoit	ellesoit	NOUN	6628	6635							
+rejelée	rejeler	VERB	6637	6643						1	1
+.	.	PUNCT	6644	6644							
+Il	il	PRON	6646	6647							
+y	yu	PRON	6649	6649							
+aura	avoir	VERB	6651	6654	aura	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+plusieurs	plusieurs	DET	6656	6664							
+décrets	décret	NOUN	6666	6672	décrets	B-bn:00025781n	https://babelnet.org/synset?word=bn:00025781n&lang=FR&langTrans=EN	1			
+à	à	ADP	6674	6674							
+rendre	rendre	VERB	6676	6681	rendre	B-bn:00092791v	https://babelnet.org/synset?word=bn:00092791v&lang=FR&langTrans=EN	1			
+.	.	PUNCT	6682	6682							
+Celte	celte	NOUN	6684	6688	Celte	B-bn:00017070n	https://babelnet.org/synset?word=bn:00017070n&lang=FR&langTrans=EN		1		1
+publication	publication	NOUN	6690	6700	publication	B-bn:00047693n	https://babelnet.org/synset?word=bn:00047693n&lang=FR&langTrans=EN	1			
+est	être	AUX	6702	6704	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+donc	donc	ADV	6706	6709	donc	B-bn:00115635r	https://babelnet.org/synset?word=bn:00115635r&lang=FR&langTrans=EN	1			
+indispensable	indispensable	ADJ	6711	6723	indispensable	B-bn:00104964a	https://babelnet.org/synset?word=bn:00104964a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6724	6724							
+si	si	SCONJ	6726	6727							
+ce	ce	PRON	6729	6730							
+n'	ne	ADV	6732	6733						1	
+est	être	AUX	6734	6736						1	
+pour	pour	ADP	6738	6741							
+la	le	DET	6743	6744							
+session	session	NOUN	6746	6752						1	
+actuelle	actuel	ADJ	6754	6761	actuelle	B-bn:00108977a	https://babelnet.org/synset?word=bn:00108977a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6762	6762							
+du	du	DET	6764	6765							
+moins	moins	ADV	6767	6771	moins	B-bn:00116104r	https://babelnet.org/synset?word=bn:00116104r&lang=FR&langTrans=EN	1			
+pour	pour	ADP	6773	6776							
+la	le	DET	6778	6779							
+session	session	NOUN	6781	6787	session	B-bn:00070689n	https://babelnet.org/synset?word=bn:00070689n&lang=FR&langTrans=EN	1			
+suivante	suivant	ADJ	6789	6796	suivante	B-bn:00103172a	https://babelnet.org/synset?word=bn:00103172a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	6797	6797							
+Le	le	DET	6799	6800							
+peuple	peuple	NOUN	6802	6807	peuple	B-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=FR&langTrans=EN	1			
+suisse	suisse	ADJ	6809	6814	suisse	I-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=FR&langTrans=EN	1			
+lient	lier	ADV	6816	6820	lient	B-bn:00085623v	https://babelnet.org/synset?word=bn:00085623v&lang=FR&langTrans=EN	1			
+à	à	ADP	6822	6822							
+avoir	avoir	VERB	6824	6828	avoir	B-bn:00089240v	https://babelnet.org/synset?word=bn:00089240v&lang=FR&langTrans=EN	1			
+un	un	DET	6830	6831							
+compte-rendu	compte-rendu	NOUN	6833	6844	compte-rendu	B-bn:04691751n	https://babelnet.org/synset?word=bn:04691751n&lang=FR&langTrans=EN	1			
+aussi	aussi	ADV	6846	6850	aussi	B-bn:00114246r	https://babelnet.org/synset?word=bn:00114246r&lang=FR&langTrans=EN	1			
+détaillé	détailler	VERB	6852	6859	détaillé	B-bn:00086707v	https://babelnet.org/synset?word=bn:00086707v&lang=FR&langTrans=EN		1	1	
+que	que	SCONJ	6861	6863							
+possible	possible	ADJ	6865	6872	possible	B-bn:00108829a	https://babelnet.org/synset?word=bn:00108829a&lang=FR&langTrans=EN	1			
+de	de	ADP	6874	6875							
+tout	tout	ADJ	6877	6880							
+ce	ce	PRON	6882	6883							
+qui	qui	PRON	6885	6887							
+se	se	PRON	6889	6890							
+passe	passer	VERB	6892	6896	passe	B-bn:00091458v	https://babelnet.org/synset?word=bn:00091458v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	6898	6901							
+le	le	DET	6903	6904							
+seiri	seiri	NOUN	6906	6910						1	1
+de	de	ADP	6912	6913							
+la	le	DET	6915	6916							
+Diète	Diète	PROPN	6918	6922	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	6923	6923							
+A	A	ADP	6925	6925							
+la	le	DET	6927	6928							
+volalion	volalion	NOUN	6930	6937						1	1
+,	,	PUNCT	6938	6938							
+la	le	DET	6940	6941							
+proposition	proposition	NOUN	6943	6953	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	6955	6956							
+Genève	Genève	PROPN	6958	6963						1	
+ne	ne	ADV	6965	6966						1	
+réunit	réunir	VERB	6968	6973	réunit	B-bn:00082246v	https://babelnet.org/synset?word=bn:00082246v&lang=FR&langTrans=EN	1			
+que	que	SCONJ	6975	6977							
+les	le	DET	6979	6981							
+voix	voix	NOUN	6983	6986	voix	B-bn:00062019n	https://babelnet.org/synset?word=bn:00062019n&lang=FR&langTrans=EN	1			
+de	de	ADP	6988	6989							
+Valais	Valais	PROPN	6991	6996	Valais	B-bn:01258532n	https://babelnet.org/synset?word=bn:01258532n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	6997	6997							
+Genève	Genève	PROPN	6999	7004						1	
+,	,	PUNCT	7005	7005							
+Neucliâtel	Neucliâtel	PROPN	7007	7016						1	1
+,	,	PUNCT	7017	7017							
+Râle	Râle	PROPN	7019	7022	Râle	B-bn:00041999n	https://babelnet.org/synset?word=bn:00041999n&lang=FR&langTrans=EN			1	1
+,	,	PUNCT	7023	7023							
+Fribourg	Fribourg	PROPN	7025	7032	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+,	,	PUNCT	7033	7033							
+Reme	Reme	PROPN	7035	7038						1	1
+.	.	PUNCT	7039	7039							
+Une	un	DET	7041	7043							
+proposition	proposition	NOUN	7045	7055	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	7057	7058							
+Zurich	Zurich	PROPN	7060	7065						1	
+,	,	PUNCT	7066	7066							
+tendant	tendre	VERB	7068	7074	tendant	B-bn:00083202v	https://babelnet.org/synset?word=bn:00083202v&lang=FR&langTrans=EN	1			
+à	à	ADP	7076	7076							
+ne	ne	ADV	7078	7079						1	
+pas	pas	ADV	7081	7083						1	
+prendre	prendre	VERB	7085	7091	prendre	B-bn:00088762v	https://babelnet.org/synset?word=bn:00088762v&lang=FR&langTrans=EN	1			
+pour	pour	ADP	7093	7096							
+le	le	DET	7098	7099							
+moment	moment	NOUN	7101	7106	moment	B-bn:00010728n	https://babelnet.org/synset?word=bn:00010728n&lang=FR&langTrans=EN	1			
+la	le	DET	7108	7109							
+proposition	proposition	NOUN	7111	7121	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	7123	7124							
+Genève	Genève	PROPN	7126	7131						1	
+en	en	ADP	7133	7134							
+considération	considération	NOUN	7136	7148	considération	B-bn:00021989n	https://babelnet.org/synset?word=bn:00021989n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7149	7149							
+atten	atten	VERB	7151	7155						1	
+du	du	DET	7157	7158						1	
+que	que	SCONJ	7160	7162							
+la	le	DET	7164	7165							
+Diète	diète	NOUN	7167	7171	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+actuelle	actuel	ADJ	7173	7180	actuelle	B-bn:00108977a	https://babelnet.org/synset?word=bn:00108977a&lang=FR&langTrans=EN	1			
+touche	touch	ADJ	7182	7187	touche	B-bn:00049001n	https://babelnet.org/synset?word=bn:00049001n&lang=FR&langTrans=EN		1	1	
+à	à	ADP	7189	7189							
+sa	son	DET	7191	7192							
+fin	fin	NOUN	7194	7196	fin	B-bn:00030720n	https://babelnet.org/synset?word=bn:00030720n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7197	7197							
+esl	esl	NOUN	7199	7201						1	1
+adoptée	adopter	VERB	7203	7209						1	
+,	,	PUNCT	7210	7210							
+par	par	ADP	7212	7214							
+12	12	NUM	7216	7217							
+Etats	etat	NOUN	7219	7223	Etats	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7224	7224							
+La	le	DET	7226	7227							
+séance	séance	NOUN	7229	7234	séance	B-bn:00070034n	https://babelnet.org/synset?word=bn:00070034n&lang=FR&langTrans=EN		1	1	
+est	être	AUX	7236	7238	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+levée	lever	VERB	7240	7244						1	
+à	à	ADP	7246	7246							
+1	1	NUM	7248	7248							
+heure	heure	NOUN	7250	7254	heure	B-bn:00000127n	https://babelnet.org/synset?word=bn:00000127n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7255	7255							
+Séance	séance	NOUN	7257	7262	Séance	B-bn:00070034n	https://babelnet.org/synset?word=bn:00070034n&lang=FR&langTrans=EN		1	1	
+du	du	DET	7264	7265							
+7	7	NUM	7267	7267							
+juillet	juillet	NOUN	7269	7275	juillet	B-bn:00048548n	https://babelnet.org/synset?word=bn:00048548n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7276	7276							
+Le	le	DET	7278	7279							
+dépulé	dépulé	NOUN	7281	7286						1	
+de	de	ADP	7288	7289							
+Genève	Genève	PROPN	7291	7296						1	
+propose	proposer	VERB	7298	7304	propose	B-bn:00091079v	https://babelnet.org/synset?word=bn:00091079v&lang=FR&langTrans=EN	1			
+à	à	ADP	7306	7306							
+la	le	DET	7308	7309							
+veille	veille	NOUN	7311	7316	veille	B-bn:00080353n	https://babelnet.org/synset?word=bn:00080353n&lang=FR&langTrans=EN	1			
+de	de	ADP	7318	7319							
+la	le	DET	7321	7322							
+reconstitu	reconstitu	NOUN	7324	7333						1	
+tion	tion	VERB	7335	7338	tion	B-bn:00077352n	https://babelnet.org/synset?word=bn:00077352n&lang=FR&langTrans=EN		1	1	
+des	un	DET	7340	7342							
+pouvoirs	pouvoir	NOUN	7344	7351	pouvoirs	B-bn:03063107n	https://babelnet.org/synset?word=bn:03063107n&lang=FR&langTrans=EN		1	1	
+fédéraux	fédéral	ADJ	7353	7360	fédéraux	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7361	7361							
+d'	de	ADP	7363	7364							
+opérer	opérer	VERB	7365	7370	opérer	B-bn:00091177v	https://babelnet.org/synset?word=bn:00091177v&lang=FR&langTrans=EN	1			
+un	un	DET	7372	7373							
+nouveau	nouveau	NOUN	7375	7381	nouveau	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=FR&langTrans=EN	1			
+recensement	recensement	ADV	7383	7393	recensement	B-bn:00017097n	https://babelnet.org/synset?word=bn:00017097n&lang=FR&langTrans=EN	1			
+pour	pour	ADP	7395	7398							
+asseoir	asseoir	VERB	7400	7406	asseoir	B-bn:00093777v	https://babelnet.org/synset?word=bn:00093777v&lang=FR&langTrans=EN		1	1	
+le	le	DET	7408	7409							
+chiffre	chiffre	NOUN	7411	7417	chiffre	B-bn:00058287n	https://babelnet.org/synset?word=bn:00058287n&lang=FR&langTrans=EN	1			
+de	de	ADP	7419	7420							
+la	le	DET	7422	7423							
+représentation	représentation	NOUN	7425	7438	représentation	B-bn:00047140n	https://babelnet.org/synset?word=bn:00047140n&lang=FR&langTrans=EN		1	1	
+nationale	national	ADJ	7440	7448	nationale	B-bn:00107137a	https://babelnet.org/synset?word=bn:00107137a&lang=FR&langTrans=EN	1			
+et	et	CCONJ	7450	7451							
+déterminer	déterminer	VERB	7453	7462	déterminer	B-bn:00082811v	https://babelnet.org/synset?word=bn:00082811v&lang=FR&langTrans=EN	1			
+les	le	DET	7464	7466							
+contingens	contingen	NOUN	7468	7477						1	
+eu	avoir	VERB	7479	7480	eu	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+hommes	homme	NOUN	7482	7487	hommes	B-bn:00044576n	https://babelnet.org/synset?word=bn:00044576n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7488	7488							
+Zurich	zurich	AUX	7490	7495						1	
+estime	estimer	VERB	7497	7502	estime	B-bn:00082743v	https://babelnet.org/synset?word=bn:00082743v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	7504	7506							
+aussi	aussi	ADV	7507	7511	aussi	B-bn:00114246r	https://babelnet.org/synset?word=bn:00114246r&lang=FR&langTrans=EN	1			
+longtemps	longtemps	ADV	7513	7521	longtemps	B-bn:00116156r	https://babelnet.org/synset?word=bn:00116156r&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	7523	7525							
+on	on	PRON	7526	7527							
+ne	ne	ADV	7529	7530						1	
+connaîtra	connaître	VERB	7532	7540	connaîtra	B-bn:00082272v	https://babelnet.org/synset?word=bn:00082272v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	7542	7544						1	
+le	le	DET	7546	7547							
+sort	sort	NOUN	7549	7552	sort	B-bn:03141550n	https://babelnet.org/synset?word=bn:03141550n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	7554	7555							
+la	le	DET	7557	7558							
+nouvelle	nouveau	ADJ	7560	7567	nouvelle	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=FR&langTrans=EN	1			
+constitution	constitution	NOUN	7569	7580						1	
+fédérale	fédéral	ADJ	7582	7589	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7590	7590							
+il	il	PRON	7592	7593							
+est	être	AUX	7595	7597	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+surpeiflu	surpeiflu	NOUN	7599	7607						1	1
+de	de	ADP	7609	7610							
+procéder	procéder	VERB	7612	7619	procéder	B-bn:00088913v	https://babelnet.org/synset?word=bn:00088913v&lang=FR&langTrans=EN	1			
+à	à	ADP	7621	7621							
+un	un	DET	7623	7624							
+nouveau	nouveau	NOUN	7626	7632	nouveau	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=FR&langTrans=EN	1			
+recensement	recensement	ADV	7634	7644	recensement	B-bn:00017097n	https://babelnet.org/synset?word=bn:00017097n&lang=FR&langTrans=EN	1			
+de	de	ADP	7646	7647	de	I-bn:00017097n	https://babelnet.org/synset?word=bn:00017097n&lang=FR&langTrans=EN	1			
+la	le	DET	7649	7650	la	I-bn:00017097n	https://babelnet.org/synset?word=bn:00017097n&lang=FR&langTrans=EN	1			
+population	population	NOUN	7652	7661	population	I-bn:00017097n	https://babelnet.org/synset?word=bn:00017097n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7662	7662							
+Par	Par	ADP	7664	7666							
+conséquent	conséquent	NOUN	7668	7677	conséquent	B-bn:03684159n	https://babelnet.org/synset?word=bn:03684159n&lang=FR&langTrans=EN	1			
+il	il	PRON	7679	7680							
+propose	proposer	VERB	7682	7688	propose	B-bn:00091079v	https://babelnet.org/synset?word=bn:00091079v&lang=FR&langTrans=EN	1			
+que	que	SCONJ	7690	7692							
+,	,	PUNCT	7693	7693							
+pour	pour	ADP	7695	7698							
+le	le	DET	7700	7701							
+moment	moment	NOUN	7703	7708	moment	B-bn:00010728n	https://babelnet.org/synset?word=bn:00010728n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7709	7709							
+la	le	DET	7711	7712							
+proposition	proposition	NOUN	7714	7724	proposition	B-bn:00064779n	https://babelnet.org/synset?word=bn:00064779n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	7726	7727							
+Genève	Genève	PROPN	7729	7734						1	
+ne	ne	ADV	7736	7737							
+soit	être	AUX	7739	7742	soit	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	7744	7746							
+prise	prise	NOUN	7748	7752	prise	B-bn:00093997v	https://babelnet.org/synset?word=bn:00093997v&lang=FR&langTrans=EN		1	1	
+en	en	ADP	7754	7755							
+considération	considération	NOUN	7757	7769	considération	B-bn:00021989n	https://babelnet.org/synset?word=bn:00021989n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	7770	7770							
+—Elle	—elle	NOUN	7772	7776							
+n'	ne	ADV	7778	7779						1	
+est	être	AUX	7780	7782	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+adoptée	adopter	VERB	7784	7790						1	
+que	que	ADV	7792	7794							
+par	par	ADP	7796	7798							
+les	le	DET	7800	7802							
+députés	député	NOUN	7804	7810	députés	B-bn:00026425n	https://babelnet.org/synset?word=bn:00026425n&lang=FR&langTrans=EN	1			
+de	de	ADP	7812	7813							
+Genève	Genève	PROPN	7815	7820						1	
+,	,	PUNCT	7821	7821							
+IS'	IS'	PROPN	7823	7825						1	1
+euchûtel	euchûtel	NOUN	7826	7833						1	1
+,	,	PUNCT	7834	7834							
+Vaud	Vaud	PROPN	7836	7839	Vaud	B-bn:02251749n	https://babelnet.org/synset?word=bn:02251749n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	7840	7840							
+Râle	Râle	PROPN	7842	7845						1	1
+-	-	PUNCT	7846	7846							
+Campagne	campagne	NOUN	7847	7854						1	
+et	et	CCONJ	7856	7857							
+Lueerne	Lueerne	PROPN	7859	7865						1	1
+..	..	PUNCT	7866	7867							
+Garantie	garantir	NOUN	7869	7876	Garantie	B-bn:00042039n	https://babelnet.org/synset?word=bn:00042039n&lang=FR&langTrans=EN	1			
+des	un	DET	7878	7880							
+constitutions	constitution	NOUN	7882	7894						1	
+cantonales	cantonal	ADJ	7896	7905						1	
+.	.	PUNCT	7906	7906							
+L'	le	DET	7908	7909							
+Etat	etat	NOUN	7910	7913	Etat	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+de	de	ADP	7915	7916							
+Zurich	Zurich	PROPN	7918	7923						1	
+ne	ne	ADV	7925	7926						1	
+pourra	pouvoir	AUX	7928	7933	pourra	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+garantir	garantir	VERB	7935	7942	garantir	B-bn:00082881v	https://babelnet.org/synset?word=bn:00082881v&lang=FR&langTrans=EN	1			
+la	le	DET	7944	7945							
+constitution	constitution	NOUN	7947	7958						1	
+de	de	ADP	7960	7961							
+Lucerne	Lucerne	PROPN	7963	7969	Lucerne	B-bn:00002642n	https://babelnet.org/synset?word=bn:00002642n&lang=FR&langTrans=EN		1	1	
+aussi	aussi	ADV	7971	7975	aussi	B-bn:00114246r	https://babelnet.org/synset?word=bn:00114246r&lang=FR&langTrans=EN	1			
+longtemps	longtemps	ADV	7977	7985	longtemps	B-bn:00116156r	https://babelnet.org/synset?word=bn:00116156r&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	7987	7989							
+elle	lui	PRON	7990	7993							
+n'	ne	ADV	7995	7996						1	
+accordera	accorder	VERB	7997	8005	accordera	B-bn:00083445v	https://babelnet.org/synset?word=bn:00083445v&lang=FR&langTrans=EN	1			
+l'	le	DET	8007	8008							
+exercice	exercice	NOUN	8009	8016	exercice	B-bn:00032203n	https://babelnet.org/synset?word=bn:00032203n&lang=FR&langTrans=EN		1	1	
+des	un	DET	8018	8020							
+droits	droit	NOUN	8022	8027	droits	B-bn:06570266n	https://babelnet.org/synset?word=bn:06570266n&lang=FR&langTrans=EN	1			
+politiques	politique	ADJ	8029	8038	politiques	I-bn:06570266n	https://babelnet.org/synset?word=bn:06570266n&lang=FR&langTrans=EN	1			
+qu'	que	PRON	8040	8042							
+aux	aux	ADJ	8043	8045							
+citoyens	citoyen	NOUN	8047	8054	citoyens	B-bn:00019281n	https://babelnet.org/synset?word=bn:00019281n&lang=FR&langTrans=EN	1			
+professant	professer	VERB	8056	8065	professant	B-bn:00082637v	https://babelnet.org/synset?word=bn:00082637v&lang=FR&langTrans=EN	1			
+la	le	DET	8067	8068							
+religion	religion	NOUN	8070	8077	religion	B-bn:00032770n	https://babelnet.org/synset?word=bn:00032770n&lang=FR&langTrans=EN		1	1	
+tholique	tholiqu	ADJ	8079	8086						1	1
+-	-	PUNCT	8087	8087							
+romaine	romaine	NOUN	8088	8094						1	
+.	.	PUNCT	8095	8095							
+La	le	DET	8097	8098							
+tolérance	tolérance	NOUN	8100	8108	tolérance	B-bn:00077518n	https://babelnet.org/synset?word=bn:00077518n&lang=FR&langTrans=EN	1			
+est	être	AUX	8110	8112	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+le	le	DET	8114	8115							
+principe	principe	NOUN	8117	8124	principe	B-bn:00051073n	https://babelnet.org/synset?word=bn:00051073n&lang=FR&langTrans=EN	1			
+de	de	ADP	8126	8127	de	I-bn:00051073n	https://babelnet.org/synset?word=bn:00051073n&lang=FR&langTrans=EN	1			
+vie	vie	NOUN	8129	8131	vie	I-bn:00051073n	https://babelnet.org/synset?word=bn:00051073n&lang=FR&langTrans=EN	1			
+de	de	ADP	8133	8134							
+la	le	DET	8136	8137							
+Confédération	Confédération	PROPN	8139	8151	Confédération	B-bn:00021711n	https://babelnet.org/synset?word=bn:00021711n&lang=FR&langTrans=EN	1			
+;	;	PUNCT	8153	8153							
+dès	dès	ADP	8155	8157							
+lors	lors	ADV	8159	8162	lors	B-bn:00117250r	https://babelnet.org/synset?word=bn:00117250r&lang=FR&langTrans=EN	1			
+,	,	PUNCT	8163	8163							
+Zurich	Zurich	PROPN	8165	8170						1	
+ne	ne	ADV	8172	8173						1	
+peut	pouvoir	AUX	8175	8178	peut	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+garantir	garantir	VERB	8180	8187	garantir	B-bn:00082881v	https://babelnet.org/synset?word=bn:00082881v&lang=FR&langTrans=EN	1			
+une	un	DET	8189	8191							
+constitution	constitution	NOUN	8193	8204						1	
+qui	qui	PRON	8206	8208							
+proclame	proclamer	VERB	8210	8217	proclame	B-bn:00092037v	https://babelnet.org/synset?word=bn:00092037v&lang=FR&langTrans=EN	1			
+l'	le	DET	8219	8220							
+inlolérance	inlolérance	NOUN	8221	8231						1	1
+en	en	ADP	8233	8234							
+matière	matière	NOUN	8236	8242	matière	B-bn:00053867n	https://babelnet.org/synset?word=bn:00053867n&lang=FR&langTrans=EN		1	1	
+religieuse	religieux	ADJ	8244	8253	religieuse	B-bn:00109662a	https://babelnet.org/synset?word=bn:00109662a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	8254	8254							
+Les	le	DET	8256	8258							
+cantons	canton	NOUN	8260	8266	cantons	B-bn:00077775n	https://babelnet.org/synset?word=bn:00077775n&lang=FR&langTrans=EN		1	1	
+primitifs	primitif	ADJ	8268	8276	primitifs	B-bn:00100724a	https://babelnet.org/synset?word=bn:00100724a&lang=FR&langTrans=EN	1			
+n'	ne	ADV	8278	8279						1	
+ont	avoir	AUX	8280	8282	ont	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+trouvé	trouver	VERB	8284	8289	trouvé	B-bn:00084231v	https://babelnet.org/synset?word=bn:00084231v&lang=FR&langTrans=EN	1			
+dans	dan	ADP	8291	8294							
+la	le	DET	8296	8297							
+constitution	constitution	NOUN	8299	8310						1	
+eje	ej	ADJ	8312	8314	eje	B-bn:04746520n	https://babelnet.org/synset?word=bn:04746520n&lang=FR&langTrans=EN		1	1	1
+Lueerne	Lueerne	PROPN	8316	8322						1	1
+aucune	aucun	DET	8324	8329							
+disposition	disposition	NOUN	8331	8341	disposition	B-bn:00027686n	https://babelnet.org/synset?word=bn:00027686n&lang=FR&langTrans=EN	1			
+qui	qui	PRON	8343	8345							
+soit	être	AUX	8347	8350	soit	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+contraire	contraire	VERB	8352	8360	contraire	B-bn:00022257n	https://babelnet.org/synset?word=bn:00022257n&lang=FR&langTrans=EN	1			
+au	au	DET	8362	8363							
+pacte	pacte	NOUN	8365	8369	pacte	B-bn:00000728n	https://babelnet.org/synset?word=bn:00000728n&lang=FR&langTrans=EN	1			
+de	de	ADP	8371	8372							
+1813	1813	NUM	8374	8377						1	1
+;	;	PUNCT	8379	8379							
+ils	il	PRON	8381	8383							
+doivent	devoir	VERB	8385	8391	doivent	B-bn:00091360v	https://babelnet.org/synset?word=bn:00091360v&lang=FR&langTrans=EN	1			
+donc	donc	ADV	8393	8396	donc	B-bn:00115635r	https://babelnet.org/synset?word=bn:00115635r&lang=FR&langTrans=EN	1			
+la	le	DET	8398	8399							
+garantir	garantir	VERB	8401	8408	garantir	B-bn:00082881v	https://babelnet.org/synset?word=bn:00082881v&lang=FR&langTrans=EN	1			
+.	.	PUNCT	8409	8409							
+Glaris	Glaris	PROPN	8411	8416						1	
+est	être	AUX	8418	8420	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+peiné	peiner	VERB	8422	8426	peiné	B-bn:00086809v	https://babelnet.org/synset?word=bn:00086809v&lang=FR&langTrans=EN	1			
+que	que	SCONJ	8428	8430							
+celte	celte	NOUN	8432	8436							
+constitution	constitution	NOUN	8438	8449						1	
+,	,	PUNCT	8450	8450							
+qui	qui	PRON	8452	8454							
+est	être	AUX	8456	8458	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+une	un	DET	8460	8462							
+œuvre	œuvre	NOUN	8464	8468	œuvre	B-bn:00011767n	https://babelnet.org/synset?word=bn:00011767n&lang=FR&langTrans=EN		1	1	
+des	un	DET	8470	8472							
+temps	temps	NOUN	8474	8478	temps	B-bn:00077270n	https://babelnet.org/synset?word=bn:00077270n&lang=FR&langTrans=EN	1			
+actuels	actuel	ADJ	8480	8486	actuels	B-bn:00108977a	https://babelnet.org/synset?word=bn:00108977a&lang=FR&langTrans=EN	1			
+,	,	PUNCT	8487	8487							
+contienne	contenir	VERB	8489	8497						1	
+des	un	DET	8499	8501							
+dispositions	disposition	NOUN	8503	8514	dispositions	B-bn:00027686n	https://babelnet.org/synset?word=bn:00027686n&lang=FR&langTrans=EN	1			
+si	si	SCONJ	8516	8517							
+opposées	opposée	NOUN	8519	8526						1	
+aux	aux	ADJ	8528	8530							
+idées	idée	NOUN	8532	8536	idées	B-bn:00045800n	https://babelnet.org/synset?word=bn:00045800n&lang=FR&langTrans=EN	1			
+du	du	DET	8538	8539							
+siècle	siècle	NOUN	8541	8546	siècle	B-bn:00017234n	https://babelnet.org/synset?word=bn:00017234n&lang=FR&langTrans=EN	1			
+.	.	PUNCT	8547	8547							
+Cependant	cependant	ADV	8549	8557	Cependant	B-bn:00021883n	https://babelnet.org/synset?word=bn:00021883n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	8558	8558							
+dans	dan	ADP	8560	8563							
+le	le	DET	8565	8566							
+but	but	NOUN	8568	8570	but	B-bn:00014202n	https://babelnet.org/synset?word=bn:00014202n&lang=FR&langTrans=EN		1	1	
+d'	de	ADP	8572	8573							
+affermir	affermir	VERB	8574	8581	affermir	B-bn:00083317v	https://babelnet.org/synset?word=bn:00083317v&lang=FR&langTrans=EN	1			
+le	le	DET	8583	8584							
+parti	parti	NOUN	8586	8590	parti	B-bn:00050938n	https://babelnet.org/synset?word=bn:00050938n&lang=FR&langTrans=EN	1			
+libéral	libéral	ADJ	8592	8598	libéral	I-bn:00050938n	https://babelnet.org/synset?word=bn:00050938n&lang=FR&langTrans=EN	1			
+dans	dan	ADP	8600	8603							
+le	le	DET	8605	8606							
+canton	canton	NOUN	8608	8613	canton	B-bn:00077775n	https://babelnet.org/synset?word=bn:00077775n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	8615	8616							
+Lucerue	Lucerue	PROPN	8618	8624						1	
+,	,	PUNCT	8625	8625							
+il	il	PRON	8627	8628							
+accordera	accorder	VERB	8630	8638	accordera	B-bn:00083445v	https://babelnet.org/synset?word=bn:00083445v&lang=FR&langTrans=EN	1			
+la	le	DET	8640	8641							
+garantie	garantir	NOUN	8643	8650	garantie	B-bn:00042039n	https://babelnet.org/synset?word=bn:00042039n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	8651	8651							
+mais	mais	CCONJ	8653	8656							
+sous	sou	ADP	8658	8661							
+la	le	DET	8663	8664							
+condition	condition	NOUN	8666	8674	condition	B-bn:00064921n	https://babelnet.org/synset?word=bn:00064921n&lang=FR&langTrans=EN	1			
+expresse	exprès	ADJ	8676	8683						1	
+que	que	SCONJ	8685	8687							
+,	,	PUNCT	8688	8688							
+dans	dan	ADP	8690	8693							
+le	le	DET	8695	8696							
+cas	cas	NOUN	8698	8700	cas	B-bn:00016401n	https://babelnet.org/synset?word=bn:00016401n&lang=FR&langTrans=EN	1			
+où	où	PRON	8702	8703							
+la	le	DET	8705	8706							
+constitution	constitution	NOUN	8708	8719						1	
+fédérale	fédéral	ADJ	8721	8728	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+sera	être	AUX	8730	8733	sera	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+adoptée	adopter	VERB	8735	8741						1	
+,	,	PUNCT	8742	8742							
+Lueerne	Lueerne	PROPN	8744	8750						1	1
+s'	si	PRON	8752	8753							
+empressera	empresser	VERB	8754	8763						1	
+de	de	ADP	8765	8766							
+mettre	mettre	VERB	8768	8773	mettre	B-bn:00090224v	https://babelnet.org/synset?word=bn:00090224v&lang=FR&langTrans=EN	1			
+sa	son	DET	8775	8776							
+constitution	constitution	NOUN	8778	8789						1	
+en	en	ADP	8791	8792							
+harmonie	harmonie	NOUN	8794	8801	harmonie	B-bn:00043022n	https://babelnet.org/synset?word=bn:00043022n&lang=FR&langTrans=EN		1	1	
+avec	avec	ADP	8803	8806							
+la	le	DET	8808	8809							
+charte	charte	NOUN	8811	8816	charte	B-bn:00017906n	https://babelnet.org/synset?word=bn:00017906n&lang=FR&langTrans=EN	1			
+fédérale	fédéral	ADJ	8818	8825	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	8826	8826							
+Fribourg	Fribourg	PROPN	8828	8835	Fribourg	B-bn:00137241n	https://babelnet.org/synset?word=bn:00137241n&lang=FR&langTrans=EN		1	1	
+fait	faire	VERB	8837	8840	fait	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+observer	observer	VERB	8842	8849	observer	B-bn:00091119v	https://babelnet.org/synset?word=bn:00091119v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	8851	8853							
+il	il	PRON	8854	8855							
+n'	ne	ADV	8857	8858						1	
+appartient	appartenir	VERB	8859	8868	appartient	B-bn:00082702v	https://babelnet.org/synset?word=bn:00082702v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	8870	8872						1	
+à	à	ADP	8874	8874							
+la	le	DET	8876	8877							
+Diète	diète	NOUN	8879	8883	Diète	B-bn:00027012n	https://babelnet.org/synset?word=bn:00027012n&lang=FR&langTrans=EN	1			
+de	de	ADP	8885	8886							
+prescrire	prescrire	NOUN	8888	8896	prescrire	B-bn:00083834v	https://babelnet.org/synset?word=bn:00083834v&lang=FR&langTrans=EN	1			
+à	à	ADP	8898	8898							
+Lueerne	Lueerne	PROPN	8900	8906						1	1
+les	le	DET	8908	8910							
+principes	principe	NOUN	8912	8920						1	
+à	à	ADP	8922	8922							
+suivre	suivre	VERB	8924	8929	suivre	B-bn:00088421v	https://babelnet.org/synset?word=bn:00088421v&lang=FR&langTrans=EN	1			
+en	en	ADP	8931	8932							
+matière	matière	NOUN	8934	8940	matière	B-bn:00053867n	https://babelnet.org/synset?word=bn:00053867n&lang=FR&langTrans=EN		1	1	
+religieuse	religieux	ADJ	8942	8951	religieuse	B-bn:00109662a	https://babelnet.org/synset?word=bn:00109662a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	8952	8952							
+Elle	lui	PRON	8954	8957							
+doit	devoir	AUX	8959	8962	doit	B-bn:00091360v	https://babelnet.org/synset?word=bn:00091360v&lang=FR&langTrans=EN	1			
+se	se	PRON	8964	8965							
+borner	borner	VERB	8967	8972						1	
+à	à	ADP	8974	8974							
+examiner	examiner	VERB	8976	8983						1	
+si	si	SCONJ	8985	8986							
+la	le	DET	8988	8989							
+constitution	constitution	NOUN	8991	9002						1	
+de	de	ADP	9004	9005							
+cet	ce	DET	9007	9009							
+Etat	etat	NOUN	9011	9014	Etat	B-bn:00074010n	https://babelnet.org/synset?word=bn:00074010n&lang=FR&langTrans=EN	1			
+renferme	renferm	ADJ	9016	9023	renferme	B-bn:00085497v	https://babelnet.org/synset?word=bn:00085497v&lang=FR&langTrans=EN	1			
+quelque	quelque	DET	9025	9031							
+chose	chose	NOUN	9033	9037	chose	B-bn:00076925n	https://babelnet.org/synset?word=bn:00076925n&lang=FR&langTrans=EN	1			
+de	de	ADP	9039	9040							
+contraire	contraire	NOUN	9042	9050	contraire	B-bn:00022257n	https://babelnet.org/synset?word=bn:00022257n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	9051	9051							
+au	au	DET	9053	9054							
+pacte	pacte	NOUN	9056	9060	pacte	B-bn:00000728n	https://babelnet.org/synset?word=bn:00000728n&lang=FR&langTrans=EN	1			
+de	de	ADP	9062	9063							
+1813	1813	NUM	9065	9068						1	1
+Or	Or	CCONJ	9070	9071							
+,	,	PUNCT	9072	9072							
+comme	comme	SCONJ	9074	9078							
+on	on	PRON	9080	9081							
+reconnaît	reconnaître	VERB	9083	9091	reconnaît	B-bn:00082272v	https://babelnet.org/synset?word=bn:00082272v&lang=FR&langTrans=EN	1			
+généralement	généralement	ADV	9093	9104	généralement	B-bn:00114778r	https://babelnet.org/synset?word=bn:00114778r&lang=FR&langTrans=EN	1			
+que	que	SCONJ	9106	9108							
+ce	ce	PRON	9110	9111							
+n'	ne	ADV	9113	9114						1	
+est	être	AUX	9115	9117	est	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=FR&langTrans=EN	1			
+pas	pas	ADV	9119	9121						1	
+le	le	DET	9123	9124							
+cas	cas	NOUN	9126	9128	cas	B-bn:00016401n	https://babelnet.org/synset?word=bn:00016401n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	9129	9129							
+on	on	PRON	9131	9132							
+ne	ne	ADV	9134	9135						1	
+peut	pouvoir	AUX	9137	9140	peut	B-bn:13601970v	https://babelnet.org/synset?word=bn:13601970v&lang=FR&langTrans=EN	1			
+lui	luire	PRON	9142	9144							
+refuser	refuser	VERB	9146	9152	refuser	B-bn:00086391v	https://babelnet.org/synset?word=bn:00086391v&lang=FR&langTrans=EN	1			
+la	le	DET	9154	9155							
+garantie	garantir	NOUN	9157	9164	garantie	B-bn:00042039n	https://babelnet.org/synset?word=bn:00042039n&lang=FR&langTrans=EN	1			
+fédérale	fédéral	ADJ	9166	9173	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	9174	9174							
+Les	le	DET	9176	9178							
+autres	autre	ADJ	9180	9185						1	
+députa	députer	NOUN	9187	9192	députa	B-bn:00082558v	https://babelnet.org/synset?word=bn:00082558v&lang=FR&langTrans=EN		1	1	1
+lions	lion	NOUN	9194	9198	lions	B-bn:00049156n	https://babelnet.org/synset?word=bn:00049156n&lang=FR&langTrans=EN		1	1	1
+se	se	PRON	9200	9201							
+prononcent	prononcer	VERB	9203	9212	prononcent	B-bn:00082800v	https://babelnet.org/synset?word=bn:00082800v&lang=FR&langTrans=EN	1			
+à	à	ADP	9214	9214							
+peu	peu	ADV	9216	9218	peu	B-bn:00114073r	https://babelnet.org/synset?word=bn:00114073r&lang=FR&langTrans=EN	1			
+près	près	ADP	9220	9223	près	I-bn:00114073r	https://babelnet.org/synset?word=bn:00114073r&lang=FR&langTrans=EN	1			
+.	.	PUNCT	9224	9224							
+dans	dan	ADP	9226	9229							
+ce	ce	DET	9231	9232							
+sens	sens	NOUN	9234	9237	sens	B-bn:00070494n	https://babelnet.org/synset?word=bn:00070494n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	9238	9238							
+et	et	CCONJ	9240	9241							
+|	|	PUNCT	9243	9243							
+out	out	ADV	9245	9247	out	B-bn:03025323n	https://babelnet.org/synset?word=bn:03025323n&lang=FR&langTrans=EN			1	
+en	en	ADP	9249	9250							
+exprimant	exprimer	VERB	9252	9260	exprimant	B-bn:00087894v	https://babelnet.org/synset?word=bn:00087894v&lang=FR&langTrans=EN	1			
+leurs	leur	DET	9262	9266							
+regrets	regret	NOUN	9268	9274	regrets	B-bn:00066917n	https://babelnet.org/synset?word=bn:00066917n&lang=FR&langTrans=EN	1			
+de	de	ADP	9276	9277							
+voir	voir	VERB	9279	9282	voir	B-bn:00093430v	https://babelnet.org/synset?word=bn:00093430v&lang=FR&langTrans=EN	1			
+sanctionner	sanctionner	VERB	9284	9294	sanctionner	B-bn:00093253v	https://babelnet.org/synset?word=bn:00093253v&lang=FR&langTrans=EN	1			
+au	au	NOUN	9296	9297							
+19	19	NUM	9299	9300							
+°	°	NOUN	9301	9301							
+siècle	siècle	VERB	9303	9308	siècle	B-bn:00017234n	https://babelnet.org/synset?word=bn:00017234n&lang=FR&langTrans=EN	1			
+l'	le	DET	9310	9311							
+intolérance	intolérance	NOUN	9312	9322	intolérance	B-bn:03349575n	https://babelnet.org/synset?word=bn:03349575n&lang=FR&langTrans=EN	1			
+religieuse	religieux	ADJ	9324	9333	religieuse	I-bn:03349575n	https://babelnet.org/synset?word=bn:03349575n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	9334	9334							
+elles	lui	PRON	9336	9340							
+ne	ne	ADV	9342	9343						1	
+font	faire	VERB	9345	9348	font	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+cependant	cependant	ADV	9350	9358	cependant	B-bn:00115696r	https://babelnet.org/synset?word=bn:00115696r&lang=FR&langTrans=EN	1			
+aucune	aucun	DET	9360	9365							
+difficulté	difficulté	ADJ	9367	9376	difficulté	B-bn:00027041n	https://babelnet.org/synset?word=bn:00027041n&lang=FR&langTrans=EN	1			
+d'	de	ADP	9378	9379							
+accorder	accorder	VERB	9380	9387	accorder	B-bn:00083445v	https://babelnet.org/synset?word=bn:00083445v&lang=FR&langTrans=EN	1			
+la	le	DET	9389	9390							
+garantie	garantir	NOUN	9392	9399	garantie	B-bn:00042039n	https://babelnet.org/synset?word=bn:00042039n&lang=FR&langTrans=EN	1			
+fédérale	fédéral	ADJ	9401	9408	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+à	à	ADP	9410	9410							
+la	le	DET	9412	9413							
+consli-	consli-	PROPN	9415	9421						1	1
+;	;	PUNCT	9423	9423							
+tulion	tulion	NOUN	9425	9430						1	1
+de	de	ADP	9432	9433							
+Lueerne	Lueerne	PROPN	9435	9441						1	1
+,	,	PUNCT	9442	9442							
+attendu	attendre	VERB	9444	9450	attendu	B-bn:00089401v	https://babelnet.org/synset?word=bn:00089401v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	9452	9454							
+elle	lui	PRON	9455	9458							
+ne	ne	ADV	9460	9461						1	
+renferme	renfermer	VERB	9463	9470	renferme	B-bn:00085497v	https://babelnet.org/synset?word=bn:00085497v&lang=FR&langTrans=EN	1			
+rien	rien	PRON	9472	9475							
+de	de	ADP	9477	9478							
+contraire	contraire	VERB	9480	9488	contraire	B-bn:00022257n	https://babelnet.org/synset?word=bn:00022257n&lang=FR&langTrans=EN	1			
+au	au	DET	9490	9491							
+pacte	pacte	NOUN	9493	9497	pacte	B-bn:00000728n	https://babelnet.org/synset?word=bn:00000728n&lang=FR&langTrans=EN	1			
+actuel	actuel	ADJ	9499	9504	actuel	B-bn:00108977a	https://babelnet.org/synset?word=bn:00108977a&lang=FR&langTrans=EN	1			
+.	.	PUNCT	9505	9505							
+A	A	ADP	9507	9507							
+la	le	DET	9509	9510							
+fin	fin	NOUN	9512	9514	fin	B-bn:00030720n	https://babelnet.org/synset?word=bn:00030720n&lang=FR&langTrans=EN	1			
+du	du	DET	9516	9517							
+tour	tour	NOUN	9519	9522	tour	B-bn:00050151n	https://babelnet.org/synset?word=bn:00050151n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	9524	9525							
+délibération	délibération	NOUN	9527	9538	délibération	B-bn:00026036n	https://babelnet.org/synset?word=bn:00026036n&lang=FR&langTrans=EN	1			
+,	,	PUNCT	9539	9539							
+il	il	PRON	9541	9542							
+s'	si	PRON	9544	9545							
+élève	élever	VERB	9546	9550	élève	B-bn:00003164n	https://babelnet.org/synset?word=bn:00003164n&lang=FR&langTrans=EN		1	1	
+un	un	DET	9552	9553							
+petit	petit	ADJ	9555	9559	petit	B-bn:00106062a	https://babelnet.org/synset?word=bn:00106062a&lang=FR&langTrans=EN	1			
+incident	incident	NOUN	9561	9568	incident	B-bn:00046282n	https://babelnet.org/synset?word=bn:00046282n&lang=FR&langTrans=EN	1			
+provoqué	provoquer	VERB	9570	9577	provoqué	B-bn:00082408v	https://babelnet.org/synset?word=bn:00082408v&lang=FR&langTrans=EN		1	1	
+par	par	ADP	9579	9581							
+Zurich	Zurich	PROPN	9583	9588						1	
+,	,	PUNCT	9589	9589							
+qui	qui	PRON	9591	9593							
+a	avoir	AUX	9595	9595						1	
+qualifié	qualifier	VERB	9597	9604	qualifié	B-bn:00109317a	https://babelnet.org/synset?word=bn:00109317a&lang=FR&langTrans=EN	1			
+d'	de	ADP	9606	9607							
+inconséquence	inconséquence	NOUN	9608	9620						1	
+les	le	DET	9622	9624							
+cantons	canton	NOUN	9626	9632	cantons	B-bn:00077775n	https://babelnet.org/synset?word=bn:00077775n&lang=FR&langTrans=EN		1	1	
+qui	qui	PRON	9634	9636							
+ont	avoir	AUX	9638	9640	ont	B-bn:00088733v	https://babelnet.org/synset?word=bn:00088733v&lang=FR&langTrans=EN	1			
+refusé	refuser	VERB	9642	9647	refusé	B-bn:00086391v	https://babelnet.org/synset?word=bn:00086391v&lang=FR&langTrans=EN	1			
+la	le	DET	9649	9650							
+garantie	garantir	NOUN	9652	9659	garantie	B-bn:00042039n	https://babelnet.org/synset?word=bn:00042039n&lang=FR&langTrans=EN	1			
+fédérale	fédéral	ADJ	9661	9668	fédérale	B-bn:00102871a	https://babelnet.org/synset?word=bn:00102871a&lang=FR&langTrans=EN	1			
+à	à	ADP	9670	9670							
+la	le	DET	9672	9673							
+constitution	constitution	NOUN	9675	9686						1	
+du	du	DET	9688	9689							
+Valais	Valais	PROPN	9691	9696	Valais	B-bn:01258532n	https://babelnet.org/synset?word=bn:01258532n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	9698	9699							
+qui	qui	PRON	9701	9703							
+l'	le	PRON	9705	9706							
+accordent	accorder	NOUN	9707	9715	accordent	B-bn:00083445v	https://babelnet.org/synset?word=bn:00083445v&lang=FR&langTrans=EN	1			
+maintenant	maintenant	ADV	9717	9726	maintenant	B-bn:00114424r	https://babelnet.org/synset?word=bn:00114424r&lang=FR&langTrans=EN	1			
+à	à	ADP	9728	9728							
+celle	celui	PRON	9730	9734							
+de	de	ADP	9736	9737							
+Lucerne	Lucerne	PROPN	9739	9745	Lucerne	B-bn:00002642n	https://babelnet.org/synset?word=bn:00002642n&lang=FR&langTrans=EN		1	1	
+.	.	PUNCT	9746	9746							
+Argovie	argovie	NOUN	9748	9754	Argovie	B-bn:01811735n	https://babelnet.org/synset?word=bn:01811735n&lang=FR&langTrans=EN	1			
+et	et	CCONJ	9756	9757							
+Vaud	Vaud	PROPN	9759	9762	Vaud	B-bn:02251749n	https://babelnet.org/synset?word=bn:02251749n&lang=FR&langTrans=EN	1			
+font	faire	VERB	9764	9767	font	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=FR&langTrans=EN	1			
+observer	observer	VERB	9769	9776	observer	B-bn:00091119v	https://babelnet.org/synset?word=bn:00091119v&lang=FR&langTrans=EN	1			
+qu'	que	SCONJ	9778	9780							
+il	il	PRON	9781	9782							
+y	yu	PRON	9784	9784							
+a	avoir	VERB	9786	9786						1	
+une	un	DET	9788	9790							
+grande	grand	ADJ	9792	9797	grande	B-bn:00111630a	https://babelnet.org/synset?word=bn:00111630a&lang=FR&langTrans=EN	1			
+différence	différence	NOUN	9799	9808	différence	B-bn:00027022n	https://babelnet.org/synset?word=bn:00027022n&lang=FR&langTrans=EN	1			
+entre	entrer	ADP	9810	9814							
+ces	ce	DET	9816	9818							
+deux	deux	NUM	9820	9823							
+constitutions	constitution	NOUN	9825	9837						1	
+.	.	PUNCT	9838	9838							
+Celle	celui	PRON	9840	9844	Celle	B-bn:00716831n	https://babelnet.org/synset?word=bn:00716831n&lang=FR&langTrans=EN		1		
+du	du	DET	9846	9847							
+Valais	Valais	PROPN	9849	9854	Valais	B-bn:01258532n	https://babelnet.org/synset?word=bn:01258532n&lang=FR&langTrans=EN	1			
+ihtérdiT	ihtérdit	NOUN	9856	9863						1	1
+sait	savoir	VERB	9865	9868	sait	B-bn:00090142v	https://babelnet.org/synset?word=bn:00090142v&lang=FR&langTrans=EN	1			
+le	le	DET	9870	9871							
+culte	culte	NOUN	9873	9877	culte	B-bn:13683754a	https://babelnet.org/synset?word=bn:13683754a&lang=FR&langTrans=EN	1			
+même	même	ADV	9879	9882						1	
+domestique	domestique	ADJ	9884	9893	domestique	B-bn:00028150n	https://babelnet.org/synset?word=bn:00028150n&lang=FR&langTrans=EN		1	1	
+de	de	ADP	9895	9896							
+la	le	DET	9898	9899							
+confession	confession	NOUN	9901	9910	confession	B-bn:00071344n	https://babelnet.org/synset?word=bn:00071344n&lang=FR&langTrans=EN		1	1	
+réformée	réformé	ADJ	9912	9919						1	
+,	,	PUNCT	9920	9920							
+tandis	tandis	ADV	9922	9927						1	
+que	que	SCONJ	9929	9931							
+cette	ce	DET	9933	9937							
+confession	confession	NOUN	9939	9948	confession	B-bn:00071344n	https://babelnet.org/synset?word=bn:00071344n&lang=FR&langTrans=EN		1	1	
+pratiqué	pratiquer	VERB	9950	9957	pratiqué	B-bn:00082711v	https://babelnet.org/synset?word=bn:00082711v&lang=FR&langTrans=EN	1			
+librement	librement	ADV	9959	9967	librement	B-bn:00115450r	https://babelnet.org/synset?word=bn:00115450r&lang=FR&langTrans=EN	1			
+son	son	DET	9969	9971							
+culte	culte	NOUN	9973	9977	culte	B-bn:13683754a	https://babelnet.org/synset?word=bn:13683754a&lang=FR&langTrans=EN	1			
+dans	dan	ADP	9979	9982							
+le	le	DET	9984	9985							
+chef-lieu	chef-lieu	NOUN	9987	9995	chef-lieu	B-bn:00606205n	https://babelnet.org/synset?word=bn:00606205n&lang=FR&langTrans=EN	1			
+du	du	DET	9997	9998							
+canton	canton	NOUN	10000	10005						1	
+de	de	ADP	10007	10008							
+Lueerne	Lueerne	PROPN	10010	10016						1	1
+.	.	PUNCT	10017	10017							

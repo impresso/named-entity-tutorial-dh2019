@@ -1,0 +1,2034 @@
+token	lemma	pos	onset	offset	entity	babelfy_id	link_to_synset	TP	FP	FN	OCR	FN and OCR
+Die	der	DET	0	2								0
+schweizerische	schweizerische	ADJ	4	17	schweizerische	B-bn:00111553a	https://babelnet.org/synset?word=bn:00111553a&lang=DE&langTrans=DE	1				0
+bg	bg	X	0	1	bg	B-bn:00954715n	https://babelnet.org/synset?word=bn:00954715n&lang=DE&langTrans=DE		1	1		0
+In	In	ADP	3	4								0
+der	der	DET	6	8								0
+Zürcher	Zürcher	ADJ	10	16						1		0
+Volkswirtschaftlichen	Volkswirtschaftliche	ADJ	18	38						1		0
+Gesellschaft	Gesellschaft	NOUN	40	51	Gesellschaft	B-bn:00072566n	https://babelnet.org/synset?word=bn:00072566n&lang=DE&langTrans=DE		1	1		0
+sprach	sprechen	VERB	53	58	sprach	B-bn:00094090v	https://babelnet.org/synset?word=bn:00094090v&lang=DE&langTrans=DE	1				0
+am	am	ADP	60	61								0
+23	23	NUM	63	64								0
+Novemder	Novemder	NOUN	66	73						1	1	1
+Oberst	Oberst	NOUN	75	80	Oberst	B-bn:00020706n	https://babelnet.org/synset?word=bn:00020706n&lang=DE&langTrans=DE	1				0
+E	E	NOUN	82	82						1		0
+von	von	ADP	84	86						1		0
+Goumoéns	Goumoéns	PROPN	88	95						1		0
+Präsident	Präsident	NOUN	97	105	Präsident	B-bn:00064233n	https://babelnet.org/synset?word=bn:00064233n&lang=DE&langTrans=DE	1				0
+des	der	DET	107	109								0
+Verwaltungsrates	Verwaltungsrates	NOUN	0	15						1		0
+der	der	DET	17	19								0
+Société	Société	PROPN	21	27						1		0
+de	de	PROPN	29	30						1		0
+la	la	PROPN	32	33						1		0
+Viscose	Viscose	PROPN	35	41	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+Emmendrücke	Emmendrücke	NOUN	43	53						1	1	1
+über	über	ADP	55	58								0
+die	der	DET	60	62								0
+schweizerische	schweizerische	ADJ	64	77	schweizerische	B-bn:00111553a	https://babelnet.org/synset?word=bn:00111553a&lang=DE&langTrans=DE	1				0
+Kunstseidenindustrie	Kunstseidenindustrie	NOUN	79	98						1		0
+Der	der	DET	100	102								0
+Reserent	Reserent	NOUN	104	111						1	1	1
+der	der	DET	113	115								0
+1906	1906	NUM	117	120								0
+von	von	X	122	124								0
+dieser	dies	DET	0	5								0
+Gesellschaft	Gesellschaft	NOUN	7	18	Gesellschaft	B-bn:00072566n	https://babelnet.org/synset?word=bn:00072566n&lang=DE&langTrans=DE		1	1		0
+als	als	ADP	20	22								0
+Direktor	Direktor	NOUN	24	31	Direktor	B-bn:00027366n	https://babelnet.org/synset?word=bn:00027366n&lang=DE&langTrans=DE	1				0
+gewonnen	gewinnen	VERB	33	40	gewonnen	B-bn:00095777v	https://babelnet.org/synset?word=bn:00095777v&lang=DE&langTrans=DE		1	1		0
+wurde	werden	AUX	42	46								0
+—	--	PUNCT	48	48								0
+wie	wie	ADV	0	2								0
+Dr	Dr	PROPN	4	5		B-bn:00027995n	https://babelnet.org/synset?word=bn:00027995n&lang=DE&langTrans=DE	1				0
+Dürsteler	Dürsteler	PROPN	7	15						1		0
+in	in	ADP	17	18								0
+seinen	seinen	DET	20	25								0
+Begrüßungsworten	Begrüßungsworten	NOUN	27	42						1		0
+bemerkte	bemerken	VERB	44	51	bemerkte	B-bn:00090740v	https://babelnet.org/synset?word=bn:00090740v&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	53	53								0
+und	und	CONJ	55	57								0
+ein	einen	DET	59	61								0
+Pionier	Pionier	NOUN	63	69	Pionier	B-bn:00041927n	https://babelnet.org/synset?word=bn:00041927n&lang=DE&langTrans=DE	1				0
+der	der	DET	71	73								0
+schweizerischen	schweizerisch	ADJ	75	89	schweizerischen	B-bn:00111553a	https://babelnet.org/synset?word=bn:00111553a&lang=DE&langTrans=DE	1				0
+Kunstscidenindustrie	Kunstscidenindustrie	NOUN	91	110						1	1	1
+ist	sein	AUX	112	114								0
+unternahm	unternehmen	ADJ	116	124						1		0
+zunächst	zunächst	ADV	126	133	zunächst	B-bn:00115376r	https://babelnet.org/synset?word=bn:00115376r&lang=DE&langTrans=DE	1				0
+„	„	PUNCT	0	0								0
+einen	ein	DET	1	5								0
+Terrainritt	Terrainritt	NOUN	7	17						1		0
+durch	durch	ADP	19	23								0
+das	der	DET	25	27								0
+ganze	ganze	ADJ	29	33	ganze	B-bn:00113852a	https://babelnet.org/synset?word=bn:00113852a&lang=DE&langTrans=DE	1				0
+Entwicklungsgebiet	Entwicklungsgebiet	NOUN	35	52	Entwicklungsgebiet	B-bn:13606655n	https://babelnet.org/synset?word=bn:13606655n&lang=DE&langTrans=DE	1				0
+der	der	DET	54	56								0
+Kunstseidenindustrie	Kunstseidenindustrie	NOUN	58	77						1		0
+Hier	Hier	ADV	79	82						1		0
+eine	einen	PRON	84	87								0
+kurze	kurze	ADJ	0	4	kurze	B-bn:00098854a	https://babelnet.org/synset?word=bn:00098854a&lang=DE&langTrans=DE	1				0
+Inhaltsangabe	Inhaltsangabe	NOUN	6	18	Inhaltsangabe	B-bn:16560544n	https://babelnet.org/synset?word=bn:16560544n&lang=DE&langTrans=DE		1	1		0
+des	der	DET	20	22								0
+Vortrages	Vortrag	NOUN	24	32	Vortrages	B-bn:00050486n	https://babelnet.org/synset?word=bn:00050486n&lang=DE&langTrans=DE	1				0
+Wie	wie	ADV	0	2								0
+andere	ander	ADJ	4	9								0
+vertvolle	vertvolle	ADJ	11	19						1	1	1
+Stoffe	Stoff	NOUN	21	26	Stoffe	B-bn:00053801n	https://babelnet.org/synset?word=bn:00053801n&lang=DE&langTrans=DE		1	1		0
+hat	haben	AUX	28	30								0
+man	man	PRON	32	34								0
+schon	schon	ADV	36	40	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=DE	1				0
+früh	früh	ADJ	42	45	früh	B-bn:00101935a	https://babelnet.org/synset?word=bn:00101935a&lang=DE&langTrans=DE	1				0
+auch	auch	ADV	0	3						1		0
+daran	daran	ADV	5	9								0
+gedacht	gedenken	VERB	11	17	gedacht	B-bn:00085407v	https://babelnet.org/synset?word=bn:00085407v&lang=DE&langTrans=DE		1	1		0
+Seide	Seide	NOUN	19	23	Seide	B-bn:00071599n	https://babelnet.org/synset?word=bn:00071599n&lang=DE&langTrans=DE	1				0
+künstlich	künstlich	ADJ	25	33						1		0
+herzusteller	herzusteller	ADJ	35	46						1	1	1
+Schon	Schon	ADV	0	4						1		0
+1665	1665	NUM	6	9								0
+schrieb	schreiben	VERB	11	17	schrieb	B-bn:00095847v	https://babelnet.org/synset?word=bn:00095847v&lang=DE&langTrans=DE	1				0
+der	der	DET	19	21								0
+Engländer	Engländer	NOUN	23	31	Engländer	B-bn:00030863n	https://babelnet.org/synset?word=bn:00030863n&lang=DE&langTrans=DE		1	1		0
+Robert	Robert	PROPN	33	38	Robert	B-bn:02742903n	https://babelnet.org/synset?word=bn:02742903n&lang=DE&langTrans=DE		1	1		0
+Hoole	Hoole	PROPN	40	44						1	1	1
+es	ich	PRON	0	1								0
+sollte	sollen	VERB	3	8	sollte	B-bn:13655464v	https://babelnet.org/synset?word=bn:13655464v&lang=DE&langTrans=DE	1				0
+möglich	möglich	ADJ	10	16	möglich	B-bn:00108829a	https://babelnet.org/synset?word=bn:00108829a&lang=DE&langTrans=DE	1				0
+sein	mein	AUX	18	21								0
+wie	wie	CONJ	23	25								0
+die	der	DET	27	29								0
+Seidenraupe	Seidenraupe	NOUN	31	41	Seidenraupe	B-bn:00040408n	https://babelnet.org/synset?word=bn:00040408n&lang=DE&langTrans=DE	1				0
+eine	einen	PART	43	46								0
+Elebrige	Elebrige	ADJ	0	7						1	1	1
+Flüssigkeit	Flüssigkeit	NOUN	9	19	Flüssigkeit	B-bn:00051491n	https://babelnet.org/synset?word=bn:00051491n&lang=DE&langTrans=DE	1				0
+durch	durch	ADP	21	25								0
+eine	einen	DET	27	30								0
+keine	kein	DET	32	36						1	1	1
+Oeffnung	Oeffnung	NOUN	38	45						1		0
+zu	zu	PART	47	48								0
+pressen	pressen	VERB	0	6	pressen	B-bn:00091988v	https://babelnet.org/synset?word=bn:00091988v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	8	10								0
+diese	dies	DET	12	16								0
+Flüssigkeit	Flüssigkeit	NOUN	18	28	Flüssigkeit	B-bn:00051472n	https://babelnet.org/synset?word=bn:00051472n&lang=DE&langTrans=DE	1				0
+dann	dann	ADV	30	33						1		0
+zum	zum	ADP	35	37								0
+Erstarren	Erstarren	NOUN	39	47	Erstarren	B-bn:00036409n	https://babelnet.org/synset?word=bn:00036409n&lang=DE&langTrans=DE	1				0
+zu	zu	PART	0	1								0
+bringen	bringen	VERB	3	9	bringen	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=DE		1	1		0
+70	70	NUM	11	12								0
+Jahre	Jahr	NOUN	14	18	Jahre	B-bn:00078738n	https://babelnet.org/synset?word=bn:00078738n&lang=DE&langTrans=DE	1				0
+später	spät	ADJ	20	25	später	B-bn:00105755a	https://babelnet.org/synset?word=bn:00105755a&lang=DE&langTrans=DE		1	1		0
+brachte	bringen	VERB	27	33	brachte	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=DE	1				0
+der	der	DET	35	37								0
+berühmte	berühmte	ADJ	39	46	berühmte	B-bn:00099411a	https://babelnet.org/synset?word=bn:00099411a&lang=DE&langTrans=DE	1				0
+französische	französische	ADJ	0	11	französische	B-bn:00103321a	https://babelnet.org/synset?word=bn:00103321a&lang=DE&langTrans=DE	1				0
+Chemiker	Chemiker	NOUN	13	20	Chemiker	B-bn:00018131n	https://babelnet.org/synset?word=bn:00018131n&lang=DE&langTrans=DE	1				0
+Ferchault	Ferchault	PROPN	22	30						1		0
+de	de	PROPN	32	33						1		0
+Réaumur	Réaumur	PROPN	35	41	Réaumur	B-bn:00842705n	https://babelnet.org/synset?word=bn:00842705n&lang=DE&langTrans=DE		1	1		0
+das	der	DET	0	2								0
+Problem	Problem	NOUN	4	10	Problem	B-bn:00048242n	https://babelnet.org/synset?word=bn:00048242n&lang=DE&langTrans=DE	1				0
+theoretisch	theoretisch	ADJ	12	22	theoretisch	B-bn:00117258r	https://babelnet.org/synset?word=bn:00117258r&lang=DE&langTrans=DE	1				0
+einen	ein	DET	24	28								0
+entscheidenden	entscheidend	ADJ	30	43	entscheidenden	B-bn:00101014a	https://babelnet.org/synset?word=bn:00101014a&lang=DE&langTrans=DE					0
+Schritt	schreiten	NOUN	0	6	Schritt	B-bn:00035746n	https://babelnet.org/synset?word=bn:00035746n&lang=DE&langTrans=DE		1	1		0
+weiter	weit	ADV	8	13						1		0
+indem	indem	SCONJ	15	19								0
+er	ich	PRON	21	22								0
+1734	1734	NUM	24	27								0
+auf	auf	ADP	29	31								0
+die	der	PRON	33	35								0
+ldee	ldee	X	37	40						1		0
+kam	kommen	VERB	42	44	kam	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE		1	1		0
+durch	durch	ADP	0	4								0
+Verlestigung	Verlestigung	NOUN	6	17						1	1	1
+von	von	ADP	19	21								0
+Gelatinefäden	Gelatinefäden	NOUN	23	35						1		0
+gomme	gomme	VERB	37	41						1		0
+liquide	liquide	VERB	43	49						1		0
+sollte	sollen	VERB	51	56	sollte	B-bn:13655464v	https://babelnet.org/synset?word=bn:13655464v&lang=DE&langTrans=DE	1				0
+man	man	PRON	58	60								0
+eine	einen	DET	62	65								0
+künstliche	künstliche	ADJ	67	76						1		0
+Faser	fasern	NOUN	78	82	Faser	B-bn:00034205n	https://babelnet.org/synset?word=bn:00034205n&lang=DE&langTrans=DE	1				0
+erzeugen	erzeugen	VERB	84	91	erzeugen	B-bn:00084031v	https://babelnet.org/synset?word=bn:00084031v&lang=DE&langTrans=DE		1	1		0
+Können	können	VERB	0	5						1	1	1
+die	der	PRON	7	9								0
+der	der	DET	11	13								0
+Seidenfaser	Seidenfaser	NOUN	15	25						1		0
+ähnlich	ähnlich	ADJ	27	33	ähnlich	B-bn:00096782a	https://babelnet.org/synset?word=bn:00096782a&lang=DE&langTrans=DE	1				0
+wäre	sein	AUX	35	38								0
+1846	1846	NUM	0	3								0
+entdeckte	entdecken	VERB	5	13	entdeckte	B-bn:00086708v	https://babelnet.org/synset?word=bn:00086708v&lang=DE&langTrans=DE	1				0
+Christian	Christian	PROPN	15	23	Christian	B-bn:00018824n	https://babelnet.org/synset?word=bn:00018824n&lang=DE&langTrans=DE	1				0
+Friedrich	Friedrich	PROPN	25	33	Friedrich	I-bn:00018824n	https://babelnet.org/synset?word=bn:00018824n&lang=DE&langTrans=DE	1				0
+Schönbein	Schönbein	PROPN	35	43	Schönbein	I-bn:00018824n	https://babelnet.org/synset?word=bn:00018824n&lang=DE&langTrans=DE	1				0
+Professor	Professor	NOUN	45	53	Professor	B-bn:00064601n	https://babelnet.org/synset?word=bn:00064601n&lang=DE&langTrans=DE	1				0
+in	in	ADP	55	56								0
+Basel	Basel	PROPN	58	62	Basel	B-bn:00008093n	https://babelnet.org/synset?word=bn:00008093n&lang=DE&langTrans=DE	1				0
+die	der	DET	64	66								0
+Kollodiumwolle	Kollodiumwolle	NOUN	68	81	Kollodiumwolle	B-bn:05523334n	https://babelnet.org/synset?word=bn:05523334n&lang=DE&langTrans=DE	1				0
+das	der	PRON	83	85								0
+heißt	heißen	VERB	87	91	heißt	B-bn:13626957v	https://babelnet.org/synset?word=bn:13626957v&lang=DE&langTrans=DE	1				0
+das	der	DET	93	95								0
+Material	Material	NOUN	97	104	Material	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+das	der	PRON	106	108								0
+die	der	DET	110	112								0
+Grundlage	Grundlage	NOUN	114	122	Grundlage	B-bn:00036064n	https://babelnet.org/synset?word=bn:00036064n&lang=DE&langTrans=DE		1	1		0
+zu	zu	ADP	124	125								0
+der	der	DET	127	129								0
+heutigen	heutig	ADJ	131	138	heutigen	B-bn:00100361a	https://babelnet.org/synset?word=bn:00100361a&lang=DE&langTrans=DE	1				0
+Kunstscidenindustrie	Kunstscidenindustrie	NOUN	140	159						1	1	1
+bieten	bieten	VERB	161	166	bieten	B-bn:00083472v	https://babelnet.org/synset?word=bn:00083472v&lang=DE&langTrans=DE		1	1		0
+sollte	sollen	VERB	0	5	sollte	B-bn:13655464v	https://babelnet.org/synset?word=bn:13655464v&lang=DE&langTrans=DE		1	1		0
+es	ich	PRON	7	8								0
+ist	sein	AUX	10	12								0
+das	der	DET	14	16								0
+allohol	allohol	ADJ	18	24						1	1	1
+ätherlésliche	ätherlésliche	VERB	26	38						1	1	1
+Sellulosenitrat	Sellulosenitrat	NOUN	0	14						1	1	1
+das	der	DET	16	18								0
+unkorrekter	unkorrekt	ADJ	20	30						1	1	1
+Weise	Weise	NOUN	32	36	Weise	B-bn:00033729n	https://babelnet.org/synset?word=bn:00033729n&lang=DE&langTrans=DE		1	1	1	1
+auch	auch	ADV	38	41						1		0
+Nitrozellulose	Nitrozellulose	PRON	0	13	Nitrozellulose	B-bn:00017060n	https://babelnet.org/synset?word=bn:00017060n&lang=DE&langTrans=DE	1				0
+genannt	nennen	VERB	15	21	genannt	B-bn:00084385v	https://babelnet.org/synset?word=bn:00084385v&lang=DE&langTrans=DE	1				0
+wird	werden	AUX	23	26								0
+1855	1855	NUM	28	31								0
+schen	schen	VERB	33	37						1	1	1
+wir	ich	PRON	39	41								0
+den	der	PRON	43	45								0
+aus	aus	PART	47	49								0
+dem	der	DET	0	2								0
+Jouxtale	Jouxtale	NOUN	4	11						1		0
+stammenden	stammend	ADJ	13	22						1		0
+Lausanner	Lausanner	NOUN	24	32						1		0
+Audemars	Audemars	PROPN	34	41						1		0
+sich	sich	PRON	0	3								0
+mit	mit	ADP	5	7								0
+Schönbeins	Schönbeins	NOUN	9	18						1		0
+Material	Material	NOUN	20	27	Material	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+beschäftigen	beschäftigen	VERB	29	40	beschäftigen	B-bn:00082705v	https://babelnet.org/synset?word=bn:00082705v&lang=DE&langTrans=DE		1	1		0
+er	ich	PRON	42	43								0
+wollte	wollen	VERB	45	50						1		0
+den	der	DET	0	2								0
+Bast	Bast	NOUN	4	7	Bast	B-bn:00008946n	https://babelnet.org/synset?word=bn:00008946n&lang=DE&langTrans=DE	1				0
+von	von	ADP	9	11								0
+Maulbeerbäumen	Maulbeerbäumen	NOUN	13	26	Maulbeerbäumen	B-bn:00056252n	https://babelnet.org/synset?word=bn:00056252n&lang=DE&langTrans=DE	1				0
+nitrieren	nitrieren	VERB	28	36						1		0
+und	und	CONJ	38	40								0
+mit	mit	PART	42	44								0
+einer	einer	DET	0	4								0
+Nadel	Nadel	NOUN	6	10	Nadel	B-bn:00070770n	https://babelnet.org/synset?word=bn:00070770n&lang=DE&langTrans=DE	1				0
+aus	aus	ADP	12	14								0
+der	der	DET	16	18								0
+honigdicken	honigdicken	ADJ	20	30						1		0
+Flüssigkeit	Flüssigkeit	NOUN	32	42	Flüssigkeit	B-bn:00051472n	https://babelnet.org/synset?word=bn:00051472n&lang=DE&langTrans=DE	1				0
+Fäden	Faden	NOUN	44	48	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+zichen	zichen	VERB	0	5						1	1	1
+1882	1882	NUM	7	10								0
+benützte	benützen	VERB	12	19						1		0
+man	man	PRON	21	23	man	B-bn:00053137n	https://babelnet.org/synset?word=bn:00053137n&lang=DE&langTrans=DE		1	1		0
+die	der	DET	25	27								0
+Eigenschaft	Eigenschaft	NOUN	29	39	Eigenschaft	B-bn:00064752n	https://babelnet.org/synset?word=bn:00064752n&lang=DE&langTrans=DE	1				0
+der	der	DET	41	43								0
+Kollodiumwolle	Kollodiumwolle	NOUN	45	58	Kollodiumwolle	B-bn:05523334n	https://babelnet.org/synset?word=bn:05523334n&lang=DE&langTrans=DE	1				0
+sich	sich	PRON	60	63								0
+in	in	ADP	65	66								0
+dünne	dünn	ADJ	68	72	dünne	B-bn:00111742a	https://babelnet.org/synset?word=bn:00111742a&lang=DE&langTrans=DE	1				0
+Fäden	Faden	NOUN	74	78	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+ausziehen	ausziehen	VERB	80	88	ausziehen	B-bn:00086979v	https://babelnet.org/synset?word=bn:00086979v&lang=DE&langTrans=DE		1	1		0
+zu	zu	PART	90	91								0
+lassen	lassen	VERB	0	5	lassen	B-bn:00084198v	https://babelnet.org/synset?word=bn:00084198v&lang=DE&langTrans=DE		1	1		0
+zur	zur	ADP	7	9								0
+Herstellung	Herstellung	NOUN	11	21	Herstellung	B-bn:00026745n	https://babelnet.org/synset?word=bn:00026745n&lang=DE&langTrans=DE	1				0
+von	von	ADP	23	25								0
+relativ	relativ	ADJ	27	33						1		0
+dicken	dick	ADJ	35	40	dicken	B-bn:00111824a	https://babelnet.org/synset?word=bn:00111824a&lang=DE&langTrans=DE	1				0
+Fäden	Faden	NOUN	42	46	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE					0
+die	der	DET	0	2								0
+man	man	PRON	4	6								0
+nachträglich	nachträglich	ADJ	8	19						1		0
+wieder	wieder	ADV	21	26						1		0
+in	in	ADP	28	29								0
+Zellulose	Zellulose	PROPN	31	39	Zellulose	B-bn:00017064n	https://babelnet.org/synset?word=bn:00017064n&lang=DE&langTrans=DE		1	1		0
+zurückverwandelte	zurückverwandelte	VERB	41	57						1		0
+das	der	PRON	59	61								0
+heißt	heißen	VERB	63	67	heißt	B-bn:13626957v	https://babelnet.org/synset?word=bn:13626957v&lang=DE&langTrans=DE		1	1		0
+denitrierte	denitrierte	ADJ	69	79						1		0
+Aber	aber	ADV	81	84								0
+erst	erst	ADV	86	89								0
+1889	1889	NUM	0	3								0
+konnte	können	VERB	5	10								0
+die	der	DET	12	14								0
+erste	erste	ADJ	16	20						1		0
+technisch	technisch	ADJ	22	30	technisch	B-bn:00111686a	https://babelnet.org/synset?word=bn:00111686a&lang=DE&langTrans=DE		1	1		0
+hergestellte	hergestellt	ADJ	32	43						1		0
+Kunstseide	Kunstseide	NOUN	45	54	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+gezeigt	zeigen	VERB	56	62	gezeigt	B-bn:00086567v	https://babelnet.org/synset?word=bn:00086567v&lang=DE&langTrans=DE		1	1		0
+verden	verden	VERB	64	69	verden	B-bn:01043592n	https://babelnet.org/synset?word=bn:01043592n&lang=DE&langTrans=DE		1		1	0
+und	und	CONJ	71	73								0
+zwar	zwar	ADV	75	78								0
+an	an	ADP	80	81								0
+der	der	DET	83	85								0
+Weltausstellung	Weltausstellung	NOUN	87	101	Weltausstellung	B-bn:00032225n	https://babelnet.org/synset?word=bn:00032225n&lang=DE&langTrans=DE	1				0
+von	von	ADP	103	105								0
+Paris	Paris	PROPN	107	111	Paris	B-bn:00015540n	https://babelnet.org/synset?word=bn:00015540n&lang=DE&langTrans=DE	1				0
+wo	wo	ADV	113	114								0
+ein	einen	DET	116	118								0
+Apparat	Apparat	NOUN	120	126	Apparat	B-bn:03158839n	https://babelnet.org/synset?word=bn:03158839n&lang=DE&langTrans=DE		1	1		0
+eine	einen	DET	0	3								0
+bierfarbene	bierfarbene	ADJ	5	15						1		0
+Flüssigkeit	Flüssigkeit	NOUN	17	27	Flüssigkeit	B-bn:00051491n	https://babelnet.org/synset?word=bn:00051491n&lang=DE&langTrans=DE	1				0
+durch	durch	ADP	29	33								0
+Glasröhrchen	Glasröhrchen	NOUN	35	46						1		0
+drückte	drücken	VERB	0	6	drückte	B-bn:00091986v	https://babelnet.org/synset?word=bn:00091986v&lang=DE&langTrans=DE	1				0
+die	der	DET	8	10								0
+zu	zu	ADP	12	13								0
+glänzenden	glänzend	ADJ	15	24	glänzenden	B-bn:00103623a	https://babelnet.org/synset?word=bn:00103623a&lang=DE&langTrans=DE	1				0
+Fäden	Faden	NOUN	26	30	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+Koagulierte	Koagulierte	NOUN	32	42						1	1	1
+Der	der	DET	44	46								0
+weißbärtige	weißbärtige	ADJ	0	10						1		0
+Erfinder	Erfinder	NOUN	12	19	Erfinder	B-bn:00021551n	https://babelnet.org/synset?word=bn:00021551n&lang=DE&langTrans=DE		1	1		0
+Graf	Graf	PROPN	21	24						1		0
+Hilaire	Hilaire	PROPN	26	32	Hilaire	B-bn:00932715n	https://babelnet.org/synset?word=bn:00932715n&lang=DE&langTrans=DE	1				0
+de	de	PROPN	34	35	de	I-bn:00932715n	https://babelnet.org/synset?word=bn:00932715n&lang=DE&langTrans=DE	1				0
+Chardonnet	Chardonnet	PROPN	37	46	Chardonnet	I-bn:00932715n	https://babelnet.org/synset?word=bn:00932715n&lang=DE&langTrans=DE	1				0
+mußte	müssen	VERB	48	52						1		0
+aber	aber	ADV	54	57								0
+zugeben	zugeben	VERB	59	65	zugeben	B-bn:00082267v	https://babelnet.org/synset?word=bn:00082267v&lang=DE&langTrans=DE	1				0
+daß	daß	SCONJ	67	69								0
+die	der	DET	71	73								0
+Sache	Sache	NOUN	75	79	Sache	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=DE&langTrans=DE	1				0
+noch	noch	ADV	81	84								0
+nicht	nicht	PART	0	4						1		0
+fabrikationsreif	fabrikationsreif	ADJ	6	21								0
+war	sein	AUX	23	25								0
+sein	mein	DET	27	30								0
+Material	Material	NOUN	32	39	Material	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+bestand	bestand	VERB	41	47	bestand	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=DE&langTrans=DE	1				0
+aus	aus	ADP	0	2						1		0
+unveränderter	unverändert	ADJ	4	16	unveränderter							0
+äußerst	äußern	ADV	18	24	äußerst	B-bn:00102658a	https://babelnet.org/synset?word=bn:00102658a&lang=DE&langTrans=DE	1				0
+feuergefährlicher	feuergefährlicher	ADJ	26	42						1		0
+Schießbaumwolle	Schießbaumwolle	NOUN	44	58	Schießbaumwolle	B-bn:00017060n	https://babelnet.org/synset?word=bn:00017060n&lang=DE&langTrans=DE	1				0
+wie	wie	CONJ	60	62								0
+sie	ich	PRON	64	66								0
+heute	heute	ADV	68	72	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE		1	1		0
+nur	nur	ADV	74	76								0
+noch	noch	ADV	78	81								0
+zur	zur	ADP	83	85								0
+Herstellung	Herstellung	NOUN	87	97	Herstellung	B-bn:00032594n	https://babelnet.org/synset?word=bn:00032594n&lang=DE&langTrans=DE		1	1		0
+von	von	ADP	0	2								0
+verbrennbaren	verbrennbaren	ADJ	4	16						1		0
+Pulversäcken	Pulversäcken	NOUN	18	29						1		0
+für	für	ADP	31	33								0
+schwere	schwer	ADJ	35	41	schwere	B-bn:00104050a	https://babelnet.org/synset?word=bn:00104050a&lang=DE&langTrans=DE	1				0
+Geschütze	Geschütze	NOUN	43	51	Geschütze	B-bn:17357896n	https://babelnet.org/synset?word=bn:17357896n&lang=DE&langTrans=DE	1				0
+verwendet	verwenden	VERB	53	61	verwendet	B-bn:00082705v	https://babelnet.org/synset?word=bn:00082705v&lang=DE&langTrans=DE	1				0
+wird	werden	AUX	63	66								0
+Bald	Bald	ADV	68	71								0
+darauf	darauf	ADV	73	78	darauf	B-bn:13667380r	https://babelnet.org/synset?word=bn:13667380r&lang=DE&langTrans=DE	1				0
+erland	erland	VERB	80	85						1	1	1
+jedoch	jedoch	ADV	87	92	jedoch	B-bn:00114216r	https://babelnet.org/synset?word=bn:00114216r&lang=DE&langTrans=DE					0
+Chardonnet	Chardonnet	VERB	0	9						1		0
+ein	einen	DET	11	13								0
+einsache	einsache	ADJ	15	22						1	1	1
+und	und	CONJ	24	26								0
+billige	billig	ADJ	28	34	billige	B-bn:00099557a	https://babelnet.org/synset?word=bn:00099557a&lang=DE&langTrans=DE	1				0
+Methode	Methode	NOUN	36	42	Methode	B-bn:00054625n	https://babelnet.org/synset?word=bn:00054625n&lang=DE&langTrans=DE		1	1		0
+um	um	PART	44	45								0
+die	der	DET	0	2								0
+Nitrokunstseide	Nitrokunstseide	NOUN	4	18						1		0
+zu	zu	PART	20	21								0
+denitrieren	denitrieren	VERB	23	33	denitrieren	B-bn:00086584v	https://babelnet.org/synset?word=bn:00086584v&lang=DE&langTrans=DE	1				0
+s0daß	s0daß	PROPN	35	39						1	1	1
+die	der	DET	41	43								0
+Chardonnetscide	Chardonnetscide	PROPN	45	59						1	1	1
+als	als	ADP	61	63								0
+schönes	schön	ADJ	65	71						1		0
+und	und	CONJ	73	75								0
+völlig	völlig	ADJ	77	82						1		0
+gefahrloses	gefahrlos	ADJ	84	94	gefahrloses	B-bn:13780377a	https://babelnet.org/synset?word=bn:13780377a&lang=DE&langTrans=DE	1				0
+Material	Material	NOUN	96	103	Material	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+auf	auf	ADP	105	107								0
+den	der	DET	109	111								0
+Markt	Markt	NOUN	113	117	Markt	B-bn:00053458n	https://babelnet.org/synset?word=bn:00053458n&lang=DE&langTrans=DE	1				0
+kam	kommen	VERB	119	121	kam	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE	1				0
+1896	1896	NUM	123	126								0
+wurde	werden	AUX	128	132								0
+eine	einen	DET	0	3						1	1	1
+Versuchslabrik	Versuchslabrik	NOUN	5	18								0
+in	in	ADP	20	21								0
+Besançon	Besançon	NOUN	23	30						1		0
+gegründet	gründen	VERB	32	40	gegründet	B-bn:00087732v	https://babelnet.org/synset?word=bn:00087732v&lang=DE&langTrans=DE	1				0
+an	an	ADP	42	43								0
+der	der	DET	45	47								0
+Chardonnet	Chardonnet	VERB	0	9						1		0
+sein	mein	DET	11	14								0
+ganzes	ganz	ADJ	16	21	ganzes	B-bn:00102277a	https://babelnet.org/synset?word=bn:00102277a&lang=DE&langTrans=DE	1				0
+Vermögen	Vermögen	NOUN	23	30	Vermögen	B-bn:00067741n	https://babelnet.org/synset?word=bn:00067741n&lang=DE&langTrans=DE		1	1		0
+von	von	ADP	32	34								0
+6	6	NUM	36	36								0
+Millionen	Million	NOUN	38	46	Millionen	B-bn:00000013n	https://babelnet.org/synset?word=bn:00000013n&lang=DE&langTrans=DE	1				0
+Franken	Franke	NOUN	0	6	Franken	B-bn:01806527n	https://babelnet.org/synset?word=bn:01806527n&lang=DE&langTrans=DE		1	1		0
+verlor	verlieren	VERB	8	13	verlor	B-bn:00090485v	https://babelnet.org/synset?word=bn:00090485v&lang=DE&langTrans=DE	1				0
+1857	1857	NUM	0	3								0
+beschrieb	beschreiben	VERB	5	13	beschrieb	B-bn:00082233v	https://babelnet.org/synset?word=bn:00082233v&lang=DE&langTrans=DE	1				0
+Schweizer	Schweizer	NOUN	15	23	Schweizer	B-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=DE&langTrans=DE		1	1		0
+im	im	ADP	25	26								0
+Journal	Journal	NOUN	28	34	Journal	B-bn:00048453n	https://babelnet.org/synset?word=bn:00048453n&lang=DE&langTrans=DE	1				0
+für	für	PART	36	38								0
+praktische	praktische	ADJ	0	9	praktische	B-bn:00108880a	https://babelnet.org/synset?word=bn:00108880a&lang=DE&langTrans=DE	1				0
+Chemie	Chemie	NOUN	11	16	Chemie	B-bn:00018123n	https://babelnet.org/synset?word=bn:00018123n&lang=DE&langTrans=DE	1				0
+die	der	DET	18	20								0
+kuproammoniakale	kuproammoniakale	ADJ	22	37						1		0
+Schweizerlôsung	Schweizerlôsung	NOUN	39	53						1	1	1
+1890	1890	NUM	55	58								0
+stellte	stellen	VERB	60	66	stellte	B-bn:00090224v	https://babelnet.org/synset?word=bn:00090224v&lang=DE&langTrans=DE		1	1		0
+Gral	Gral	PROPN	68	71						1	1	1
+Dupeissis	Dupeissis	PROPN	73	81						1		0
+das	der	PRON	83	85								0
+sog	sog	VERB	87	89						1		0
+KupferAmmoniakVersahren	KupferAmmoniakVersahren	ADV	0	22								0
+her	her	ADV	24	26								0
+an	an	PART	28	29								0
+Cunstseidenindustrie	Cunstseidenindustrie	NOUN	0	19						1	1	1
+dessen	der	PRON	0	5								0
+Entwicklung	Entwicklung	NOUN	7	17	Entwicklung	B-bn:00026695n	https://babelnet.org/synset?word=bn:00026695n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	19	21								0
+Verbesserung	Verbesserung	NOUN	23	34	Verbesserung	B-bn:00003322n	https://babelnet.org/synset?word=bn:00003322n&lang=DE&langTrans=DE	1				0
+auch	auch	ADV	36	39								0
+Pauly	Pauly	NOUN	41	45						1		0
+Freméry	Freméry	PROPN	0	6						1		0
+Urban	Urban	PROPN	8	12						1		0
+und	und	CONJ	14	16								0
+Bronnert	Bronnert	PROPN	18	25						1		0
+beteiligt	beteiligen	VERB	27	35								0
+sind	sein	AUX	37	40								0
+Durch	Durch	ADP	42	46								0
+das	der	DET	0	2								0
+TLhiele	TLhiele	NOUN	4	10						1	1	1
+		SPACE	12	12						1		0
+Bembergsche	Bembergsche	ADJ	13	23								0
+Streckspinnversahren	Streckspinnversahren	NOUN	25	44						1	1	1
+wurde	werden	AUX	46	50								0
+diese	dies	DET	52	56								0
+„	„	PUNCT	58	58								0
+Kupferscide	Kupferscide	NOUN	59	69						1	1	1
+noch	noch	ADV	71	74								0
+verleinert	verleinert	VERB	76	85						1	1	1
+Das	der	DET	87	89								0
+dritte	dritt	VERB	91	96						1		0
+das	der	DET	98	100								0
+sog	sog	ADP	102	104						1		0
+Viscoseversahren	Viscoseversahren	NOUN	106	121						1	1	1
+hat	haben	AUX	123	125								0
+den	der	DET	127	129	den							0
+Vorteil	Vorteil	NOUN	131	137		B-bn:00001559n	https://babelnet.org/synset?word=bn:00001559n&lang=DE&langTrans=DE	1				0
+daß	daß	SCONJ	139	141								0
+die	der	DET	143	145	die							0
+verschiedensten	verschieden	ADJ	147	161		B-bn:00101554a	https://babelnet.org/synset?word=bn:00101554a&lang=DE&langTrans=DE	1				0
+Materialien	Material	NOUN	0	10	Materialien	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+Papier	Papier	NOUN	12	17	Papier	B-bn:00060464n	https://babelnet.org/synset?word=bn:00060464n&lang=DE&langTrans=DE	1				0
+Lumpen	Lump	PROPN	19	24						1		0
+Holz	holzen	NOUN	26	29	Holz	B-bn:00081492n	https://babelnet.org/synset?word=bn:00081492n&lang=DE&langTrans=DE	1				0
+verwendet	verwenden	VERB	31	39	verwendet	B-bn:00082705v	https://babelnet.org/synset?word=bn:00082705v&lang=DE&langTrans=DE	1				0
+verden	verden	VERB	41	46	verden	B-bn:01043592n	https://babelnet.org/synset?word=bn:01043592n&lang=DE&langTrans=DE		1	1	1	1
+können	können	VERB	48	53						1		0
+1892	1892	NUM	55	58								0
+erfanden	erfinden	VERB	60	67						1		0
+Cross	Cross	PROPN	69	73	Cross	B-bn:15596159n	https://babelnet.org/synset?word=bn:15596159n&lang=DE&langTrans=DE		1	1		0
+Bevan	Bevan	PROPN	75	79						1		0
+und	und	CONJ	81	83								0
+Beadle	Beadle	NOUN	0	5	Beadle	B-bn:00009298n	https://babelnet.org/synset?word=bn:00009298n&lang=DE&langTrans=DE		1	1		0
+die	der	DET	7	9								0
+Viscoselösung	Viscoselösung	NOUN	11	23						1		0
+deren	der	PRON	25	29								0
+Fäden	Faden	NOUN	31	35	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+durch	durch	ADP	0	4								0
+Müller	Müller	PROPN	6	11	Müller	B-bn:00055035n	https://babelnet.org/synset?word=bn:00055035n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	13	15								0
+das	der	DET	17	19								0
+Eilienfeldverlahren	Eilienfeldverlahren	NOUN	21	39						1	1	1
+stark	stark	ADJ	41	45	stark	B-bn:00111312a	https://babelnet.org/synset?word=bn:00111312a&lang=DE&langTrans=DE		1	1		0
+verbessert	verbessern	VERB	0	9	verbessert	B-bn:00082576v	https://babelnet.org/synset?word=bn:00082576v&lang=DE&langTrans=DE	1				0
+wurden	werden	AUX	11	16								0
+sodaß	sodaß	ADJ	18	22						1		0
+heute	heute	ADV	24	28	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE		1	1		0
+Viscose	Viscose	NOUN	30	36	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+der	der	DET	38	40								0
+gebräuchlichste	gebräuchlich	ADJ	42	56						1		0
+unter	unter	ADP	58	62								0
+den	der	DET	64	66								0
+Fünstlichen	Fünstlichen	NOUN	68	78						1	1	1
+Textilstoffen	Textilstoffen	NOUN	80	92						1		0
+ist	sein	AUX	94	96								0
+An	an	ADP	0	1								0
+der	der	DET	3	5								0
+Ausbildung	Ausbildung	NOUN	7	16	Ausbildung	B-bn:00008840n	https://babelnet.org/synset?word=bn:00008840n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	18	20								0
+sog	sog	X	22	24						1		0
+Acetatseide	Acetatseide	PROPN	26	36	Acetatseide	B-bn:00000837n	https://babelnet.org/synset?word=bn:00000837n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	38	40								0
+vierten	viert	ADJ	0	6						1		0
+und	und	CONJ	8	10								0
+jüngsten	jung	ADJ	12	19	jüngsten	B-bn:00104589a	https://babelnet.org/synset?word=bn:00104589a&lang=DE&langTrans=DE	1				0
+Kunstseide	Kunstseide	NOUN	21	30	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	32	35								0
+der	der	DET	37	39								0
+Schweizer	Schweizer	NOUN	41	49	Schweizer	B-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=DE&langTrans=DE	1				0
+H	H	X	0	0						1		0
+Dreyfus	Dreyfus	PROPN	2	8						1		0
+und	und	CONJ	10	12								0
+der	der	DET	14	16								0
+Deutsche	deutschen	ADJ	18	25						1		0
+L	L	PROPN	27	27						1		0
+Lederer	Lederer	PROPN	29	35	Lederer	B-bn:03335230n	https://babelnet.org/synset?word=bn:03335230n&lang=DE&langTrans=DE	1				0
+entscheidend	entscheiden	ADJ	0	11	entscheidend	B-bn:00101014a	https://babelnet.org/synset?word=bn:00101014a&lang=DE&langTrans=DE	1				0
+beteiligt	beteiligen	VERB	13	21	beteiligt	B-bn:00105394a	https://babelnet.org/synset?word=bn:00105394a&lang=DE&langTrans=DE	1				0
+Ihr	mein	DET	23	25								0
+Rohmaterial	Rohmaterial	NOUN	27	37	Rohmaterial	B-bn:16572586n	https://babelnet.org/synset?word=bn:16572586n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	39	42								0
+Baumvoll	Baumvoll	NOUN	44	51						1	1	1
+Linters	Linters	PROPN	53	59	Linters	B-bn:15909336n	https://babelnet.org/synset?word=bn:15909336n&lang=DE&langTrans=DE	1				0
+so	so	ADV	61	62								0
+heißt	heißen	VERB	64	68	heißt	B-bn:13626957v	https://babelnet.org/synset?word=bn:13626957v&lang=DE&langTrans=DE	1				0
+die	der	DET	70	72								0
+Wolle	wollen	NOUN	74	78	Wolle	B-bn:00081531n	https://babelnet.org/synset?word=bn:00081531n&lang=DE&langTrans=DE	1				0
+die	der	DET	80	82								0
+den	der	DET	84	86								0
+Baumwollkern	Baumwollkern	NOUN	88	99						1		0
+umgibt	umgeben	VERB	101	106	umgibt	B-bn:00083797v	https://babelnet.org/synset?word=bn:00083797v&lang=DE&langTrans=DE	1				0
+Die	der	DET	108	110								0
+Acctatseide	Acctatseide	NOUN	112	122						1	1	1
+ist	sein	AUX	124	126								0
+sehr	sehr	ADV	128	131								0
+elastisch	elastisch	ADJ	133	141	elastisch	B-bn:00102068a	https://babelnet.org/synset?word=bn:00102068a&lang=DE&langTrans=DE	1				0
+und	und	CONJ	0	2								0
+wasserfest	wasserfest	VERB	4	13		B-bn:00109410a	https://babelnet.org/synset?word=bn:00109410a&lang=DE&langTrans=DE	1				0
+Interessant	Interessant	ADJ	15	25	Interessant	B-bn:15415647n	https://babelnet.org/synset?word=bn:15415647n&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	27	29								0
+daß	daß	SCONJ	31	33								0
+sowohl	sowohl	CONJ	35	40								0
+beim	beim	ADP	42	45								0
+Nitro	Nitro	PROPN	0	4	Nitro	B-bn:02243206n	https://babelnet.org/synset?word=bn:02243206n&lang=DE&langTrans=DE		1	1		0
+wie	wie	CONJ	6	8								0
+beim	beim	ADP	10	13								0
+Kupfer	Kupfer	NOUN	15	20	Kupfer	B-bn:00006859n	https://babelnet.org/synset?word=bn:00006859n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	22	24								0
+Viscoseverfahren	Viscoseverfahren	NOUN	26	41						1		0
+die	der	PART	43	45								0
+Absicht	Absicht	NOUN	0	6	Absicht	B-bn:00002178n	https://babelnet.org/synset?word=bn:00002178n&lang=DE&langTrans=DE	1				0
+bestand	bestand	VERB	8	14	bestand	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=DE&langTrans=DE		1	1		0
+Glühfäden	Glühfäden	NOUN	16	24						1		0
+herzustellen	herstellen	VERB	26	37	herzustellen	B-bn:00085678v	https://babelnet.org/synset?word=bn:00085678v&lang=DE&langTrans=DE	1				0
+Die	der	DET	0	2								0
+Ausbreitung	Ausbreitung	NOUN	4	14	Ausbreitung	B-bn:03697298n	https://babelnet.org/synset?word=bn:03697298n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	16	18								0
+Kunstseidenindustrie	Kunstseidenindustrie	NOUN	20	39						1		0
+ging	gehen	VERB	41	44	ging	B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+zunächst	zunächst	ADV	46	53	zunächst	B-bn:00115376r	https://babelnet.org/synset?word=bn:00115376r&lang=DE&langTrans=DE	1				0
+von	von	ADP	55	57								0
+Besançon	Besançon	NOUN	59	66						1		0
+aus	aus	PART	68	70								0
+wo	wo	ADV	72	73								0
+heute	heute	ADV	0	4	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE		1	1		0
+nicht	nicht	PART	6	10								0
+mehr	mehr	ADV	12	15	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=DE		1	1		0
+Nitro	Nitro	NOUN	17	21	Nitro	B-bn:02243206n	https://babelnet.org/synset?word=bn:02243206n&lang=DE&langTrans=DE		1	1		0
+sondern	sondern	CONJ	23	29								0
+Viscoseseide	Viscoseseide	NOUN	31	42						1		0
+hergestellt	herstellen	VERB	44	54	hergestellt	B-bn:00085678v	https://babelnet.org/synset?word=bn:00085678v&lang=DE&langTrans=DE	1				0
+wird	werden	AUX	56	59								0
+Die	der	DET	61	63								0
+Aufmerksamkeit	Aufmerksamkeit	NOUN	65	78	Aufmerksamkeit	B-bn:00007020n	https://babelnet.org/synset?word=bn:00007020n&lang=DE&langTrans=DE	1				0
+richtete	richten	VERB	80	87						1		0
+sich	sich	PRON	89	92								0
+nach	nach	ADP	0	3								0
+der	der	DET	5	7								0
+Schweiz	Schweiz	PROPN	9	15	Schweiz	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=DE&langTrans=DE	1				0
+die	der	DET	17	19								0
+in	in	ADP	21	22								0
+der	der	DET	24	26								0
+Naturseidenindustrie	Naturseidenindustrie	NOUN	28	47						1		0
+einen	ein	DET	49	53								0
+ersten	erst	ADJ	55	60	ersten	B-bn:00103006a	https://babelnet.org/synset?word=bn:00103006a&lang=DE&langTrans=DE	1				0
+Rang	Rang	NOUN	62	65	Rang	B-bn:00066162n	https://babelnet.org/synset?word=bn:00066162n&lang=DE&langTrans=DE	1				0
+einnahm	einnehmen	VERB	67	73						1		0
+Die	der	DET	75	77								0
+erste	erste	PRON	79	83						1		0
+Fabrik	Fabrik	NOUN	0	5	Fabrik	B-bn:00032675n	https://babelnet.org/synset?word=bn:00032675n&lang=DE&langTrans=DE	1				0
+entstand	entstehen	VERB	7	14	entstand	B-bn:00082757v	https://babelnet.org/synset?word=bn:00082757v&lang=DE&langTrans=DE	1				0
+in	in	ADP	16	17								0
+Spreitenbach	Spreitenbach	PROPN	19	30						1		0
+1892	1892	NUM	32	35								0
+kam	kommen	VERB	37	39	kam	B-bn:00085322v	https://babelnet.org/synset?word=bn:00085322v&lang=DE&langTrans=DE		1	1		0
+der	der	DET	0	2								0
+Deutsche	deutschen	ADJ	4	11	Deutsche	B-bn:00744882n	https://babelnet.org/synset?word=bn:00744882n&lang=DE&langTrans=DE	1				0
+Lehnert	Lehnert	NOUN	13	19						1		0
+nach	nach	ADP	21	24								0
+Glattbrugg	Glattbrugg	NOUN	26	35	Glattbrugg	B-bn:02601931n	https://babelnet.org/synset?word=bn:02601931n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	0	2								0
+eröffnete	eröffnen	VERB	4	12	eröffnete	B-bn:00091166v	https://babelnet.org/synset?word=bn:00091166v&lang=DE&langTrans=DE	1				0
+dort	dort	ADV	14	17								0
+eine	einen	DET	19	22								0
+Fabrik	Fabrik	NOUN	24	29	Fabrik	B-bn:00032675n	https://babelnet.org/synset?word=bn:00032675n&lang=DE&langTrans=DE	1				0
+Beide	beid	DET	31	35								0
+Unternehmen	Unternehmen	NOUN	37	47	Unternehmen	B-bn:00022811n	https://babelnet.org/synset?word=bn:00022811n&lang=DE&langTrans=DE	1				0
+fabrizierten	fabrizierten	ADJ	0	11						1		0
+Chardonnetscide	Chardonnetscide	PROPN	13	27						1	1	1
+gingen	gehen	VERB	29	34	gingen	B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+jedoch	jedoch	ADV	36	41	jedoch	B-bn:00114216r	https://babelnet.org/synset?word=bn:00114216r&lang=DE&langTrans=DE	1				0
+190506	190506	NUM	43	48								0
+wieder	wieder	ADV	0	5								0
+ein	einen	DET	7	9								0
+Ihre	mein	DET	11	14								0
+erste	erste	ADJ	16	20						1		0
+Verwendung	Verwendung	NOUN	22	31	Verwendung	B-bn:00079366n	https://babelnet.org/synset?word=bn:00079366n&lang=DE&langTrans=DE		1	1		0
+sand	sand	VERB	33	36	sand	B-bn:00069126n	https://babelnet.org/synset?word=bn:00069126n&lang=DE&langTrans=DE		1	1	1	1
+die	der	DET	38	40								0
+Kunstscide	Kunstscide	NOUN	42	51						1	1	1
+als	als	ADP	53	55								0
+Besatxartikel	Besatxartikel	NOUN	57	69						1	1	1
+für	für	ADP	71	73								0
+Tressen	Tressen	NOUN	75	81						1		0
+Fabriken	Fabrik	NOUN	83	90	Fabriken	B-bn:00032675n	https://babelnet.org/synset?word=bn:00032675n&lang=DE&langTrans=DE	1				0
+entstanden	entstehen	VERB	0	9	entstanden	B-bn:00082757v	https://babelnet.org/synset?word=bn:00082757v&lang=DE&langTrans=DE	1				0
+in	in	ADP	11	12								0
+Frankfurt	Frankfurt	PROPN	14	22						1		0
+in	in	ADP	24	25								0
+Belgien	Belgien	PROPN	27	33	Belgien	B-bn:00009714n	https://babelnet.org/synset?word=bn:00009714n&lang=DE&langTrans=DE	1				0
+in	in	PART	35	36								0
+Padua	Padua	NOUN	0	4						1		0
+und	und	CONJ	6	8								0
+Pavia	Pavia	PROPN	10	14						1		0
+wo	wo	ADV	16	17								0
+die	der	DET	19	21								0
+Viscose	Viscose	NOUN	23	29	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+heute	heute	ADV	31	35	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE		1	1		0
+noch	noch	ADV	37	40								0
+eine	einen	DET	0	3								0
+bedeutende	bedeutend	ADJ	5	14	bedeutende	B-bn:00106527a	https://babelnet.org/synset?word=bn:00106527a&lang=DE&langTrans=DE	1				0
+Rolle	rollen	NOUN	16	20	Rolle	B-bn:00017749n	https://babelnet.org/synset?word=bn:00017749n&lang=DE&langTrans=DE	1				0
+spielt	spielen	VERB	22	27	spielt	B-bn:00082287v	https://babelnet.org/synset?word=bn:00082287v&lang=DE&langTrans=DE					0
+Auch	Auch	ADV	29	32								0
+die	der	DET	34	36								0
+Herren	Herr	NOUN	38	43	Herren	B-bn:00001533n	https://babelnet.org/synset?word=bn:00001533n&lang=DE&langTrans=DE	1				0
+Fréméry	Fréméry	PROPN	45	51						1		0
+Bronnert	Bronnert	PROPN	53	60						1		0
+und	und	CONJ	62	64								0
+Thiele	Thiele	NOUN	66	71	Thiele	B-bn:02716040n	https://babelnet.org/synset?word=bn:02716040n&lang=DE&langTrans=DE		1	1		0
+die	der	DET	73	75								0
+an	an	ADP	77	78								0
+der	der	DET	80	82								0
+Nitroseide	Nitroseide	PROPN	84	93						1		0
+weiterarbeiteten	weiterarbeiten	VERB	0	15						1		0
+vollten	vollten	VERB	17	23						1	1	1
+eigentlich	eigentlich	ADV	25	34	eigentlich	B-bn:00113632a	https://babelnet.org/synset?word=bn:00113632a&lang=DE&langTrans=DE		1	1		0
+Glühfäden	Glühfäden	NOUN	36	44						1		0
+erzielen	erzielen	VERB	0	7	erzielen	B-bn:00089351v	https://babelnet.org/synset?word=bn:00089351v&lang=DE&langTrans=DE		1	1		0
+s0	s0	PROPN	9	10								0
+wie	wie	CONJ	12	14								0
+sie	ich	PRON	16	18								0
+damals	damals	ADV	20	25	damals	B-bn:00117251r	https://babelnet.org/synset?word=bn:00117251r&lang=DE&langTrans=DE					0
+für	für	ADP	27	29								0
+die	der	DET	31	33								0
+eben	eben	ADV	35	38						1		0
+von	von	ADP	40	42								0
+Edison	Edison	PROPN	44	49						1		0
+erfundene	erfunden	ADJ	0	8						1		0
+KohlenfadenGlühlampe	KohlenfadenGlühlampe	NOUN	10	29								
+verwendet	verwenden	VERB	31	39	verwendet					1		0
+wurden	werden	AUX	41	46								0
+aus	aus	ADP	48	50								0
+der	der	DET	52	54								0
+sog	sog	X	56	58								0
+Kupferseide	Kupferseide	NOUN	60	70	Kupferseide	B-bn:02752962n	https://babelnet.org/synset?word=bn:02752962n&lang=DE&langTrans=DE					0
+fabrizierte	fabrizierte	VERB	72	82						1		0
+man	man	PRON	84	86								0
+denn	denn	ADV	88	91								0
+auch	auch	ADV	0	3								0
+später	spät	ADJ	5	10	später	B-bn:00105755a	https://babelnet.org/synset?word=bn:00105755a&lang=DE&langTrans=DE		1	1		0
+vielsach	vielsach	VERB	12	19								0
+die	der	DET	21	23								0
+Träger	träge	NOUN	25	30	Träger	B-bn:00080753n	https://babelnet.org/synset?word=bn:00080753n&lang=DE&langTrans=DE	1				0
+der	der	DET	32	34								0
+bekannten	bekannt	ADJ	36	44	bekannten	B-bn:00082267v	https://babelnet.org/synset?word=bn:00082267v&lang=DE&langTrans=DE		1	1		0
+Auerschen	Auerschen	NOUN	0	8						1		0
+Glühstrümpfe	Glühstrümpfe	NOUN	10	21	Glühstrümpfe	B-bn:03090505n	https://babelnet.org/synset?word=bn:03090505n&lang=DE&langTrans=DE	1				0
+incandescent	incandescent	ADJ	23	34						1		0
+light	light	VERB	36	40	light					1		0
+Kunstscidenunternehmungen	Kunstscidenunternehmungen	NOUN	0	24						1		0
+entstanden	entstehen	VERB	26	35	entstanden	B-bn:00082757v	https://babelnet.org/synset?word=bn:00082757v&lang=DE&langTrans=DE	1				0
+auch	auch	ADV	37	40								0
+in	in	PART	42	43								0
+St	St	NOUN	0	1		B-bn:16805283n	https://babelnet.org/synset?word=bn:16805283n&lang=DE&langTrans=DE		1	1		0
+Pölten	Pölten	NOUN	3	8						1		0
+in	in	ADP	10	11								0
+den	der	DET	13	15								0
+Ardennen	Ardennen	NOUN	17	24	Ardennen	B-bn:14197188n	https://babelnet.org/synset?word=bn:14197188n&lang=DE&langTrans=DE	1				0
+Givet	Givet	NOUN	26	30	Givet	B-bn:03873863n	https://babelnet.org/synset?word=bn:03873863n&lang=DE&langTrans=DE	1				0
+Bernheim	Bernheim	PROPN	32	39						1		0
+bei	bei	ADP	41	43								0
+Lyon	Lyon	PROPN	45	48						1		0
+Izicux	Izicux	PROPN	50	55						1		0
+Wegen	Weg	ADP	0	4								0
+des	der	DET	6	8								0
+geringen	gering	ADJ	10	17						1		0
+Festigkeitsgrades	Festigkeitsgrades	NOUN	19	35						1		0
+und	und	CONJ	37	39								0
+der	der	DET	41	43								0
+hohen	hoch	ADJ	0	4	hohen	B-bn:00104163a	https://babelnet.org/synset?word=bn:00104163a&lang=DE&langTrans=DE	1				0
+Alkoholkosten	Alkoholkosten	NOUN	6	18						1		0
+der	der	DET	20	22								0
+Nitroseide	Nitroseide	PROPN	24	33						1		0
+ging	gehen	VERB	35	38	ging	B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+man	man	PRON	40	42								0
+im	im	ADP	44	45								
+zweiten	zweit	ADJ	0	6								0
+Jahrzehnt	Jahrzehnt	NOUN	8	16	Jahrzehnt	B-bn:00025646n	https://babelnet.org/synset?word=bn:00025646n&lang=DE&langTrans=DE					
+des	der	DET	18	20								0
+20	20	NUM	22	23								0
+Jahrhunderts	Jahrhundert	NOUN	25	36	Jahrhunderts	B-bn:00017234n	https://babelnet.org/synset?word=bn:00017234n&lang=DE&langTrans=DE	1				0
+allgemein	allgemein	ADJ	38	46	allgemein	B-bn:00103518a	https://babelnet.org/synset?word=bn:00103518a&lang=DE&langTrans=DE	1				0
+zum	zum	ADP	0	2								0
+Viscoseversahren	Viscoseversahren	NOUN	4	19						1	1	1
+über	über	ADP	21	24								0
+Samuel	Samuel	PROPN	26	31						1		0
+Courtaults	Courtaults	PROPN	33	42						1		0
+eine	einen	DET	44	47								0
+alte	alt	ADJ	49	52	alte	B-bn:00107787a	https://babelnet.org/synset?word=bn:00107787a&lang=DE&langTrans=DE	1				0
+Seidenfirma	Seidenfirma	NOUN	54	64						1		0
+in	in	ADP	66	67								0
+London	London	PROPN	69	74	London	B-bn:00013179n	https://babelnet.org/synset?word=bn:00013179n&lang=DE&langTrans=DE	1				0
+Kaufte	Kaufte	NOUN	76	81						1	1	1
+die	der	DET	0	2								0
+Patente	Patent	NOUN	4	10	Patente	B-bn:00050828n	https://babelnet.org/synset?word=bn:00050828n&lang=DE&langTrans=DE	1				0
+von	von	ADP	12	14								0
+Cross	Cross	PROPN	16	20	Cross	B-bn:03154717n	https://babelnet.org/synset?word=bn:03154717n&lang=DE&langTrans=DE		1	1		0
+Bevan	Bevan	PROPN	22	26						1		0
+und	und	CONJ	28	30								0
+Beadle	Beadle	NOUN	32	37	Beadle	B-bn:00009298n	https://babelnet.org/synset?word=bn:00009298n&lang=DE&langTrans=DE			1		0
+auf	auf	PART	39	41								0
+und	und	CONJ	43	45								0
+baute	bauen	VERB	0	4	baute	B-bn:00084198v	https://babelnet.org/synset?word=bn:00084198v&lang=DE&langTrans=DE	1				0
+sie	ich	PRON	6	8								0
+zu	zu	ADP	10	11								0
+der	der	DET	13	15								0
+heutigen	heutig	ADJ	17	24	heutigen	B-bn:00100361a	https://babelnet.org/synset?word=bn:00100361a&lang=DE&langTrans=DE	1				0
+großen	groß	ADJ	26	31	großen	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=DE	1				0
+englischen	englisch	ADJ	33	42	englischen	B-bn:00102249a	https://babelnet.org/synset?word=bn:00102249a&lang=DE&langTrans=DE		1	1		0
+Viscoseindustrie	Viscoseindustrie	NOUN	0	15						1		0
+aus	aus	ADP	17	19								0
+Einen	einer	DET	21	25								0
+hervorragenden	hervorragend	ADJ	27	40	hervorragenden	B-bn:00108068a	https://babelnet.org/synset?word=bn:00108068a&lang=DE&langTrans=DE	1				0
+Anteil	Anteil	NOUN	0	5	Anteil	B-bn:00060768n	https://babelnet.org/synset?word=bn:00060768n&lang=DE&langTrans=DE	1				0
+an	an	ADP	7	8								0
+der	der	DET	10	12								0
+technischen	technisch	ADJ	14	24	technischen	B-bn:00109073a	https://babelnet.org/synset?word=bn:00109073a&lang=DE&langTrans=DE	1				0
+Entwicklung	Entwicklung	NOUN	26	36	Entwicklung	B-bn:00026696n	https://babelnet.org/synset?word=bn:00026696n&lang=DE&langTrans=DE	1				0
+des	der	DET	38	40								0
+Viscoseverfahrens	Viscoseverfahrens	NOUN	42	58						1		0
+hat	haben	AUX	60	62								0
+auch	auch	ADV	64	67								0
+die	der	DET	69	71								0
+„	„	PUNCT	73	73								0
+Société	Société	PROPN	74	80								0
+Française	Française	PROPN	82	90	Française	B-bn:05159900n	https://babelnet.org/synset?word=bn:05159900n&lang=DE&langTrans=DE		1	1		0
+de	de	PROPN	92	93						1		0
+la	la	PROPN	95	96						1		0
+Viscose	Viscose	VERB	0	6	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+die	der	PRON	8	10								0
+die	der	DET	12	14								0
+Muttergesellschalt	Muttergesellschalt	NOUN	16	33						1		0
+der	der	DET	35	37								0
+Schweizesrischen	Schweizesrischen	ADJ	39	54						1	1	1
+Viscosegesellschalt	Viscosegesellschalt	NOUN	56	74						1		0
+in	in	ADP	76	77								0
+Emmenbrücke	Emmenbrücke	NOUN	79	89						1		0
+ist	sein	AUX	91	93								0
+In	In	ADP	95	96								0
+Deutschland	Deutschland	PROPN	0	10	Deutschland	B-bn:00026684n	https://babelnet.org/synset?word=bn:00026684n&lang=DE&langTrans=DE	1				0
+finanzierte	finanzieren	VERB	12	22	finanzierte	B-bn:00088201v	https://babelnet.org/synset?word=bn:00088201v&lang=DE&langTrans=DE	1				0
+Graf	Graf	PROPN	24	27	Graf	B-bn:00041265n	https://babelnet.org/synset?word=bn:00041265n&lang=DE&langTrans=DE		1	1		0
+Henckel	Henckel	PROPN	29	35						1		0
+von	von	PART	37	39						1		0
+Donnersmark	Donnersmark	NOUN	0	10						1		0
+das	der	DET	12	14								0
+Viscoseverfahren	Viscoseverfahren	NOUN	16	31						1		0
+der	der	DET	33	35								0
+„	„	PUNCT	37	37								0
+Vereinigten	Vereinigte	ADJ	38	48						1		0
+Glanzstof	Glanzstof	NOUN	50	58						1	1	1
+in	in	ADP	60	61								0
+Elberkeld	Elberkeld	NOUN	63	71						1		0
+schlossen	schließen	VERB	73	81	schlossen	B-bn:00085162v	https://babelnet.org/synset?word=bn:00085162v&lang=DE&langTrans=DE		1	1		0
+sich	sich	PRON	0	3								0
+dann	dann	ADV	5	8								0
+auch	auch	ADV	10	13								0
+die	der	DET	15	17								0
+Niesenwerke	Niesenwerke	NOUN	19	29						1	1	1
+an	an	ADP	31	32								0
+die	der	DET	34	36								0
+in	in	ADP	38	39								0
+Oberbruch	Oberbruch	NOUN	41	49	Oberbruch	B-bn:04085862n	https://babelnet.org/synset?word=bn:04085862n&lang=DE&langTrans=DE	1				0
+bei	bei	ADP	51	53								0
+Aachen	Aachen	PROPN	55	60	Aachen	B-bn:00000174n	https://babelnet.org/synset?word=bn:00000174n&lang=DE&langTrans=DE	1				0
+aus	aus	ADP	62	64								0
+der	der	DET	66	68								0
+alten	alt	ADJ	70	74	alten	B-bn:00107787a	https://babelnet.org/synset?word=bn:00107787a&lang=DE&langTrans=DE	1				0
+Papiermühle	Papiermühle	NOUN	76	86	Papiermühle	B-bn:00060478n	https://babelnet.org/synset?word=bn:00060478n&lang=DE&langTrans=DE	1				0
+entstanden	entstehen	VERB	0	9	entstanden	B-bn:00082757v	https://babelnet.org/synset?word=bn:00082757v&lang=DE&langTrans=DE	1				0
+waren	sein	AUX	11	15								0
+in	in	ADP	17	18								0
+der	der	DET	20	22								0
+im	im	ADP	24	25								0
+letzten	letzt	ADJ	27	33	letzten					1		0
+Jahrzehnt	Jahrzehnt	NOUN	35	43	Jahrzehnt	B-bn:00025646n	https://babelnet.org/synset?word=bn:00025646n&lang=DE&langTrans=DE	1				0
+des	der	DET	45	47								0
+19	19	NUM	0	1								0
+ahrhunderts	ahrhunderts	ADV	3	13						1	1	1
+Dr	Dr	X	15	16	Dr	B-bn:00027995n	https://babelnet.org/synset?word=bn:00027995n&lang=DE&langTrans=DE		1	1		0
+Max	Max	PROPN	18	20						1		0
+Fréméry	Fréméry	PROPN	22	28						1		0
+an	an	ADP	30	31						1		0
+der	der	DET	33	35								0
+Herstellung	Herstellung	NOUN	37	47	Herstellung	B-bn:00032594n	https://babelnet.org/synset?word=bn:00032594n&lang=DE&langTrans=DE	1				0
+von	von	ADP	49	51								0
+„	„	PUNCT	53	53								0
+Kupferscide	Kupferscide	NOUN	54	64						1	1	1
+gearbeitet	arbeiten	VERB	66	75	gearbeitet	B-bn:00095812v	https://babelnet.org/synset?word=bn:00095812v&lang=DE&langTrans=DE	1				0
+hatte	haben	AUX	77	81								0
+An	an	ADP	83	84								0
+der	der	DET	86	88								0
+Pariser	Pariser	ADJ	0	6	Pariser	B-bn:00060683n	https://babelnet.org/synset?word=bn:00060683n&lang=DE&langTrans=DE		1	1		0
+Weltausstellung	Weltausstellung	NOUN	8	22	Weltausstellung	B-bn:00032225n	https://babelnet.org/synset?word=bn:00032225n&lang=DE&langTrans=DE	1				0
+machte	machen	VERB	24	29								0
+die	der	PRON	31	33								0
+Viscose	Viscose	NOUN	0	6	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+neben	neben	ADP	8	12								0
+Chardonnet	Chardonnet	NOUN	14	23						1		0
+noch	noch	ADV	25	28								0
+„	„	PUNCT	30	30								0
+triste	triste	ADJ	31	36	triste	B-bn:00110036a	https://babelnet.org/synset?word=bn:00110036a&lang=DE&langTrans=DE	1				0
+figure	figure	X	38	43						1		0
+als	als	CONJ	45	47								0
+dann	dann	ADV	0	3								0
+aber	aber	ADV	5	8								0
+1907	1907	NUM	10	13								0
+die	der	DET	15	17								0
+bessern	bessern	ADJ	19	25						1	1	1
+Apparate	Apparat	NOUN	27	34						1		0
+zur	zur	ADP	36	38								0
+Verfügung	Verfügung	NOUN	40	48	Verfügung	B-bn:00016929n	https://babelnet.org/synset?word=bn:00016929n&lang=DE&langTrans=DE		1	1		0
+waren	sein	AUX	0	4								0
+ging	gehen	VERB	6	9	ging	B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+es	ich	PRON	11	12	es	B-bn:00102807a	https://babelnet.org/synset?word=bn:00102807a&lang=DE&langTrans=DE		1			0
+rasch	rasch	ADJ	14	18	rasch	I-bn:00102807a	https://babelnet.org/synset?word=bn:00102807a&lang=DE&langTrans=DE	1				0
+vorwärts	vorwärts	ADV	20	27	vorwärts	B-bn:00103251a	https://babelnet.org/synset?word=bn:00103251a&lang=DE&langTrans=DE	1				0
+Die	der	DET	29	31								0
+heutige	heutige	ADJ	33	39	heutige	B-bn:00100361a	https://babelnet.org/synset?word=bn:00100361a&lang=DE&langTrans=DE	1				0
+Hauptgruppe	Hauptgruppe	NOUN	41	51	Hauptgruppe	B-bn:01227396n	https://babelnet.org/synset?word=bn:01227396n&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	53	55								0
+das	der	DET	57	59								0
+„	„	PUNCT	61	61								0
+Comptoir	Comptoir	NOUN	62	69	Comptoir	B-bn:03462082n	https://babelnet.org/synset?word=bn:03462082n&lang=DE&langTrans=DE		1	1		0
+des	der	DET	71	73						1		0
+Textiles	Textiles	NOUN	75	82						1		0
+Artisicieles	Artisicieles	PROPN	0	11						1		0
+“	“	PUNCT	12	12								0
+Die	der	DET	14	16								0
+französische	französische	ADJ	18	29	französische	B-bn:00103321a	https://babelnet.org/synset?word=bn:00103321a&lang=DE&langTrans=DE	1				0
+Viscose	Viscose	NOUN	31	37	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+hatte	haben	AUX	39	43								0
+schon	schon	ADV	0	4	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=DE	1				0
+früh	früh	ADJ	6	9	früh	B-bn:00101935a	https://babelnet.org/synset?word=bn:00101935a&lang=DE&langTrans=DE	1				0
+technische	technische	ADJ	11	20	technische	B-bn:00109073a	https://babelnet.org/synset?word=bn:00109073a&lang=DE&langTrans=DE	1				0
+Bezichungen	Bezichungen	NOUN	22	32						1		0
+mit	mit	ADP	34	36								0
+Belgien	Belgien	PROPN	38	44						1		0
+der	der	DET	46	48								0
+Schweiz	Schweiz	PROPN	0	6						1		0
+und	und	CONJ	8	10								0
+Italien	Italien	PROPN	12	18	Italien	B-bn:00047705n	https://babelnet.org/synset?word=bn:00047705n&lang=DE&langTrans=DE	1				0
+mit	mit	ADP	20	22								0
+der	der	DET	24	26								0
+englischen	englisch	ADJ	28	37	englischen	B-bn:00102249a	https://babelnet.org/synset?word=bn:00102249a&lang=DE&langTrans=DE		1	1		0
+Courtaulds	Courtaulds	NOUN	39	48						1		0
+und	und	CONJ	0	2								0
+diese	dies	PRON	4	8								0
+wiederum	wiederum	ADV	10	17	wiederum	B-bn:00115845r	https://babelnet.org/synset?word=bn:00115845r&lang=DE&langTrans=DE	1				0
+mit	mit	ADP	19	21								0
+der	der	DET	23	25								0
+amerikanischen	amerikanisch	ADJ	27	40	amerikanischen	B-bn:00096963a	https://babelnet.org/synset?word=bn:00096963a&lang=DE&langTrans=DE	1				0
+Viscosc	Viscosc	NOUN	42	48						1	1	1
+Die	der	DET	50	52								0
+französische	französische	ADJ	54	65	französische	B-bn:00103321a	https://babelnet.org/synset?word=bn:00103321a&lang=DE&langTrans=DE	1				0
+Viscose	Viscose	NOUN	67	73	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+absorbierte	absorbieren	VERB	75	85						1		0
+auch	auch	ADV	87	90								0
+die	der	DET	92	94								0
+italienische	italienische	ADJ	0	11	italienische	B-bn:00105493a	https://babelnet.org/synset?word=bn:00105493a&lang=DE&langTrans=DE	1				0
+Nitroscideindustrie	Nitroscideindustrie	NOUN	13	31						1	1	1
+an	an	ADP	33	34								0
+ihre	mein	DET	36	39								0
+Stelle	stellen	NOUN	41	46	Stelle	B-bn:00062699n	https://babelnet.org/synset?word=bn:00062699n&lang=DE&langTrans=DE		1	1		0
+traten	treten	VERB	48	53	traten	B-bn:00094342v	https://babelnet.org/synset?word=bn:00094342v&lang=DE&langTrans=DE		1	1		0
+die	der	DET	0	2								0
+„	„	PUNCT	4	4								0
+Cisa	Cisa	PROPN	5	8						1		0
+		SPACE	10	10								0
+die	der	DET	11	13								0
+Snia	Snia	PROPN	15	18						1		0
+viscosa	viscosa	ADJ	20	26						1		0
+Gualino	Gualino	NOUN	28	34						1		0
+Vom	Vom	ADP	36	38	Vom							0
+Comptoir	Comptoir	NOUN	40	47		B-bn:03462082n	https://babelnet.org/synset?word=bn:03462082n&lang=DE&langTrans=DE		1	1		0
+aus	aus	ADP	49	51	aus							0
+gingen	gehen	VERB	53	58		B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+auch	auch	ADV	60	63	auch							0
+Ableger	Ableger	NOUN	65	71		B-bn:00012740n	https://babelnet.org/synset?word=bn:00012740n&lang=DE&langTrans=DE		1	1		0
+zur	zur	ADP	73	75								0
+DupontNemouxsGruppe	DupontNemouxsGruppe	PROPN	77	95						1	1	1
+in	in	ADP	97	98								0
+KölnRottweil	KölnRottweil	PROPN	100	111						1		0
+die	der	DET	113	115								0
+durch	durch	ADP	0	4								0
+die	der	DET	6	8								0
+Versailler	Versailler	ADJ	10	19	Versailler	B-bn:00078128n	https://babelnet.org/synset?word=bn:00078128n&lang=DE&langTrans=DE	1				0
+Verträge	Vertrag	NOUN	21	28	Verträge	I-bn:00078128n	https://babelnet.org/synset?word=bn:00078128n&lang=DE&langTrans=DE	1				0
+zur	zur	ADP	30	32								0
+Umstellung	Umstellung	NOUN	34	43	Umstellung	B-bn:00017678n	https://babelnet.org/synset?word=bn:00017678n&lang=DE&langTrans=DE	1				0
+gezwungen	zwingen	VERB	45	53						1		0
+war	sein	AUX	55	57								0
+und	und	CONJ	59	61								0
+die	der	DET	63	65								0
+Kunstseide	Kunstseide	NOUN	67	76	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+gewaltig	gewaltig	ADJ	78	85	gewaltig	B-bn:00106463a	https://babelnet.org/synset?word=bn:00106463a&lang=DE&langTrans=DE	1				0
+gelördert	gelördert	VERB	87	95						1	1	1
+hat	haben	AUX	0	2								0
+Zwei	Zwei	NUM	4	7								0
+altbekannte	altbekannte	ADJ	9	19						1		0
+Firmen	Firma	NOUN	21	26	Firmen	B-bn:00014160n	https://babelnet.org/synset?word=bn:00014160n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	28	31								0
+die	der	DET	33	35								0
+„	„	PUNCT	37	37								0
+Enka	Enka	PROPN	38	41	Enka	B-bn:00875658n	https://babelnet.org/synset?word=bn:00875658n&lang=DE&langTrans=DE		1	1		0
+“	“	PUNCT	42	42								0
+in	in	PART	44	45								0
+den	der	DET	0	2								0
+Niederlanden	Niederlande	PROPN	4	15						1		0
+die	der	DET	17	19								0
+Dr	Dr	PROPN	21	22	Dr	B-bn:00027995n	https://babelnet.org/synset?word=bn:00027995n&lang=DE&langTrans=DE		1	1		0
+Hartogs	Hartogs	PROPN	24	30						1		0
+ein	einen	DET	32	34								0
+Volontär	Volontär	NOUN	36	43	Volontär	B-bn:16773218n	https://babelnet.org/synset?word=bn:16773218n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	45	47								0
+Courtaulds	Courtaulds	NOUN	49	58						1		0
+prächtig	prächtig	ADJ	60	67						1		0
+entwickelte	entwickeln	VERB	69	79	entwickelte	B-bn:00082282v	https://babelnet.org/synset?word=bn:00082282v&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	81	83								0
+die	der	DET	0	2								0
+Küttner	Küttner	NOUN	4	10						1		0
+in	in	ADP	12	13								0
+Sachsen	Sachsen	PROPN	15	21	Sachsen	B-bn:00069437n	https://babelnet.org/synset?word=bn:00069437n&lang=DE&langTrans=DE		1	1		0
+die	der	DET	23	25								0
+gleichzeitig	gleichzeitig	ADJ	27	38	gleichzeitig	B-bn:00099916a	https://babelnet.org/synset?word=bn:00099916a&lang=DE&langTrans=DE	1				0
+mit	mit	ADP	40	42								0
+der	der	DET	44	46								0
+Société	Société	PROPN	0	6						1		0
+de	de	PROPN	8	9						1		0
+la	la	PROPN	11	12						1		0
+Viscose	Viscose	PROPN	14	20	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+in	in	ADP	22	23								0
+Emmenbrücke	Emmenbrücke	NOUN	25	35						1		0
+gegründet	gründen	VERB	37	45	gegründet	B-bn:00087732v	https://babelnet.org/synset?word=bn:00087732v&lang=DE&langTrans=DE	1				0
+wurde	werden	AUX	47	51								0
+die	der	DET	53	55								0
+den	der	DET	57	59								0
+großen	groß	ADJ	61	66	großen	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=DE	1				0
+Vorteil	Vorteil	NOUN	68	74	Vorteil	B-bn:00001559n	https://babelnet.org/synset?word=bn:00001559n&lang=DE&langTrans=DE	1				0
+hat	haben	AUX	76	78								0
+vom	vom	ADP	80	82								0
+Comptoir	Comptoir	PROPN	0	7	Comptoir	B-bn:03462082n	https://babelnet.org/synset?word=bn:03462082n&lang=DE&langTrans=DE		1	1		0
+unabhängig	unabhängig	ADJ	9	18	unabhängig	B-bn:13769863a	https://babelnet.org/synset?word=bn:13769863a&lang=DE&langTrans=DE		1	1		0
+zu	zu	PART	20	21								0
+sein	mein	AUX	23	26								0
+Als	als	ADP	28	30								0
+Krisenvogel	Krisenvogel	NOUN	32	42						1		0
+kam	kommen	VERB	44	46	kam	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE	1				0
+Japan	Japan	PROPN	0	4	Japan	B-bn:00047985n	https://babelnet.org/synset?word=bn:00047985n&lang=DE&langTrans=DE	1				0
+zur	zur	ADP	6	8								0
+Runstscidenindustrie	Runstscidenindustrie	NOUN	10	29						1	1	1
+sein	mein	DET	31	34								0
+Produftionsanteil	Produftionsanteil	NOUN	36	52						1	1	1
+betrug	betragen	VERB	54	59	betrug	B-bn:00082286v	https://babelnet.org/synset?word=bn:00082286v&lang=DE&langTrans=DE		1	1		0
+1923	1923	NUM	61	64								0
+350	350	NUM	66	68								0
+0	0	NUM	70	72								0
+lg	lg	X	74	75						1	1	1
+1937	1937	NUM	77	80								0
+151	151	NUM	82	84	151							0
+Millionen	Million	NOUN	86	94								0
+Rg	Rg	PROPN	96	97	Rg	B-bn:00006837n	https://babelnet.org/synset?word=bn:00006837n&lang=DE&langTrans=DE		1	1	1	1
+das	der	PRON	99	101								0
+heißt	heißen	VERB	103	107	heißt	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE					0
+28	28	NUM	109	110								0
+Prozent	Prozent	NOUN	112	118						1		0
+der	der	DET	120	122								0
+Weltproduktion	Weltproduktion	NOUN	124	137						1		0
+Die	der	DET	0	2								0
+jüngste	jüngste	ADJ	4	10	jüngste	B-bn:00104589a	https://babelnet.org/synset?word=bn:00104589a&lang=DE&langTrans=DE	1				0
+Kunstscide	Kunstscide	NOUN	12	21						1	1	1
+ist	sein	AUX	23	25								0
+die	der	DET	27	29								0
+Aretat	Aretat	NOUN	31	36						1		0
+oder	oder	CONJ	38	41								0
+AretylzelluloseKunstseide	AretylzelluloseKunstseide	PROPN	0	24						1		0
+die	der	PRON	26	28								0
+als	als	ADP	30	32								0
+Rohmaterial	Rohmaterial	NOUN	0	10	Rohmaterial	B-bn:16572586n	https://babelnet.org/synset?word=bn:16572586n&lang=DE&langTrans=DE	1				0
+Linters	Linters	PROPN	12	18	Linters	B-bn:15909336n	https://babelnet.org/synset?word=bn:15909336n&lang=DE&langTrans=DE	1				0
+verwendet	verwenden	VERB	20	28	verwendet	B-bn:00082705v	https://babelnet.org/synset?word=bn:00082705v&lang=DE&langTrans=DE					0
+sie	ich	PRON	30	32								0
+wird	werden	AUX	34	37								0
+von	von	ADP	39	41								0
+Dreysus	Dreysus	PROPN	43	49						1	1	1
+und	und	CONJ	51	53								0
+Clavel	Clavel	PROPN	55	60						1		0
+in	in	ADP	62	63								0
+Basel	Basel	PROPN	65	69						1		0
+und	und	CONJ	71	73								0
+von	von	ADP	75	77								0
+der	der	DET	79	81								0
+„	„	PUNCT	83	83								0
+Rhodiaseta	Rhodiaseta	PROPN	84	93						1		0
+“	“	PUNCT	94	94								0
+auch	auch	ADV	0	3								0
+in	in	ADP	5	6								0
+den	der	DET	8	10								0
+Usines	Usines	PROPN	12	17						1		0
+du	du	PRON	19	20						1		0
+Rhone	Rhone	PROPN	22	26						1		0
+und	und	CONJ	28	30								0
+in	in	ADP	32	33								0
+Deutschland	Deutschland	PROPN	35	45						1		0
+von	von	ADP	0	2								0
+den	der	DET	4	6								0
+I	I	NUM	8	8		B-bn:00731435n	https://babelnet.org/synset?word=bn:00731435n&lang=DE&langTrans=DE	1				0
+G	G	NOUN	10	10		I-bn:00731435n	https://babelnet.org/synset?word=bn:00731435n&lang=DE&langTrans=DE	1				0
+Farben	Farbe	NOUN	12	17	Farben	I-bn:00731435n	https://babelnet.org/synset?word=bn:00731435n&lang=DE&langTrans=DE	1				0
+hergestellt	herstellen	VERB	19	29	hergestellt	B-bn:00086013v	https://babelnet.org/synset?word=bn:00086013v&lang=DE&langTrans=DE	1				0
+die	der	DET	31	33								0
+überall	überall	ADV	35	41	überall	B-bn:00114212r	https://babelnet.org/synset?word=bn:00114212r&lang=DE&langTrans=DE	1				0
+Lizenzen	Lizenz	NOUN	43	50	Lizenzen	B-bn:00050986n	https://babelnet.org/synset?word=bn:00050986n&lang=DE&langTrans=DE	1				0
+hat	haben	AUX	52	54								0
+Hinzu	Hinzu	NOUN	56	60								0
+kommen	kommen	VERB	62	67	kommen	B-bn:00085322v	https://babelnet.org/synset?word=bn:00085322v&lang=DE&langTrans=DE		1	1		0
+die	der	DET	69	71								0
+„	„	PUNCT	73	73								0
+Celanaise	Celanaise	X	74	82						1		0
+Française	Française	PROPN	84	92	Française	B-bn:05159900n	https://babelnet.org/synset?word=bn:05159900n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	0	2								0
+die	der	DET	4	6								0
+„	„	PUNCT	8	8								0
+British	British	PROPN	9	15						1		0
+Celanese	Celanese	PROPN	17	24						1		0
+Ltd	Ltd	PROPN	26	28	Ltd	B-bn:05460996n	https://babelnet.org/synset?word=bn:05460996n&lang=DE&langTrans=DE			1		0
+“	“	PUNCT	29	29								0
+Die	der	DET	31	33								0
+Acctatseide	Acctatseide	NOUN	35	45						1		0
+ist	sein	AUX	47	49								0
+trotz	trotzen	ADP	0	4								0
+dem	der	DET	6	8								0
+höheren	hoch	ADJ	10	16	höheren	B-bn:00104163a	https://babelnet.org/synset?word=bn:00104163a&lang=DE&langTrans=DE	1				0
+Preis	preisen	NOUN	18	22	Preis	B-bn:00007497n	https://babelnet.org/synset?word=bn:00007497n&lang=DE&langTrans=DE		1	1		0
+in	in	ADP	24	25								0
+kurzer	kurz	ADJ	27	32	kurzer	B-bn:00071254n	https://babelnet.org/synset?word=bn:00071254n&lang=DE&langTrans=DE		1	1		0
+Zeit	Zeit	NOUN	34	37	Zeit	I-bn:00071254n	https://babelnet.org/synset?word=bn:00071254n&lang=DE&langTrans=DE		1	1		0
+beliebt	belieben	ADJ	39	45					1			0
+geworden	werden	AUX	47	54								0
+weil	weil	SCONJ	56	59								0
+sie	ich	PRON	61	63								0
+clastisch	clastisch	ADJ	65	73						1	1	1
+ist	sein	AUX	75	77								0
+Holzzclluloseseide	Holzzclluloseseide	NOUN	79	96						1	1	1
+ist	sein	AUX	98	100								0
+plastisch	plastisch	ADJ	0	8						1		0
+nicht	nicht	PART	10	14								0
+elastisch	elastisch	ADJ	16	24	elastisch	B-bn:00102068a	https://babelnet.org/synset?word=bn:00102068a&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	26	26								0
+weil	weil	SCONJ	28	31								0
+sie	ich	PRON	33	35								0
+auch	auch	ADV	37	40								0
+vertvolle	vertvolle	VERB	42	50						1		0
+färberische	färberische	ADJ	0	10						1		0
+Sonderqualitäten	Sonderqualitäten	NOUN	12	27						1		0
+besitzt	besitzen	VERB	29	35	besitzt	B-bn:00089241v	https://babelnet.org/synset?word=bn:00089241v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	37	39								0
+sich	sich	PRON	41	44								0
+zum	zum	ADP	46	48								0
+Beispiel	Beispiel	NOUN	0	7	Beispiel	B-bn:00032099n	https://babelnet.org/synset?word=bn:00032099n&lang=DE&langTrans=DE	1				0
+zur	zur	ADP	9	11								0
+Erzeugung	Erzeugung	NOUN	13	21						1		0
+von	von	ADP	23	25								0
+Weiß	wissen	NOUN	27	30	Weiß	B-bn:00081052n	https://babelnet.org/synset?word=bn:00081052n&lang=DE&langTrans=DE		1	1		0
+oder	oder	CONJ	32	35								0
+Bunteffekten	Bunteffekten	NOUN	37	48						1		0
+am	am	ADP	50	51						1		0
+Stück	Stück	NOUN	53	57	Stück	B-bn:00062297n	https://babelnet.org/synset?word=bn:00062297n&lang=DE&langTrans=DE		1	1		0
+eignet	eignen	VERB	59	64								0
+Wenn	wenn	SCONJ	66	69								0
+die	der	DET	71	73								0
+Viscose	Viscose	NOUN	75	81	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+das	der	PRON	83	85								0
+Rindlleisch	Rindlleisch	ADJ	0	10						1	1	1
+und	und	CONJ	12	14								0
+die	der	DET	16	18								0
+Bemberg	Bemberg	PROPN	20	26	Bemberg	B-bn:16663560n	https://babelnet.org/synset?word=bn:16663560n&lang=DE&langTrans=DE		1	1		0
+das	der	DET	28	30								0
+—	--	PUNCT	32	32								0
+dauerhafte	dauerhaft	ADJ	34	43						1		0
+—	--	PUNCT	45	45								0
+Poulet	Poulet	NOUN	0	5	Poulet	B-bn:00018265n	https://babelnet.org/synset?word=bn:00018265n&lang=DE&langTrans=DE		1	1		0
+unter	unter	ADP	7	11								0
+den	der	DET	13	15								0
+Kunstsciden	Kunstsciden	NOUN	17	27						1	1	1
+sei	sein	AUX	29	31								0
+s0	s0	PROPN	33	34								0
+dürse	dürse	ADJ	36	40								0
+man	man	PRON	42	44								0
+die	der	DET	0	2								0
+Aretatscide	Aretatscide	NOUN	4	14						1	1	1
+als	als	ADP	16	18								0
+das	der	DET	20	22								0
+„	„	PUNCT	24	24								0
+blancmanger	blancmanger	ADJ	25	35						1		0
+bezeichnen	bezeichnen	VERB	37	46						1		0
+Sie	ich	PRON	0	2								0
+rangiert	rangieren	VERB	4	11						1		0
+mit	mit	ADP	13	15								0
+sieben	sieben	NUM	17	22								0
+Prozent	Prozent	NOUN	24	30	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+die	der	DET	32	34								0
+Pemberg	Pemberg	PROPN	36	42						1	1	1
+mit	mit	PART	44	46								0
+drei	drei	NUM	0	3								0
+und	und	CONJ	5	7								0
+die	der	DET	9	11								0
+Viscose	Viscose	NOUN	13	19	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+mit	mit	ADP	21	23								0
+90	90	NUM	25	26								0
+Prozent	Prozent	NOUN	28	34	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+an	an	ADP	36	37								0
+der	der	DET	39	41								0
+gesamten	gesamt	ADJ	43	50	gesamten	B-bn:00102277a	https://babelnet.org/synset?word=bn:00102277a&lang=DE&langTrans=DE	1				0
+Kunstseidenproduktion	Kunstseidenproduktion	NOUN	52	72						1		0
+Die	der	DET	74	76								0
+reinste	rein	ADJ	78	84	reinste	B-bn:00108650a	https://babelnet.org/synset?word=bn:00108650a&lang=DE&langTrans=DE	1				0
+Zellulose	Zellulose	NOUN	86	94	Zellulose	B-bn:00017057n	https://babelnet.org/synset?word=bn:00017057n&lang=DE&langTrans=DE	1				0
+die	der	PRON	0	2								0
+die	der	DET	4	6								0
+Natur	Natur	NOUN	8	12	Natur	B-bn:00057017n	https://babelnet.org/synset?word=bn:00057017n&lang=DE&langTrans=DE	1				0
+bietet	bieten	VERB	14	19	bietet	B-bn:00083472v	https://babelnet.org/synset?word=bn:00083472v&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	21	23								0
+die	der	DET	25	27								0
+Baumwolle	Baumwolle	NOUN	29	37	Baumwolle	B-bn:00023072n	https://babelnet.org/synset?word=bn:00023072n&lang=DE&langTrans=DE	1				0
+Italien	Italien	PROPN	39	45	Italien	B-bn:00047705n	https://babelnet.org/synset?word=bn:00047705n&lang=DE&langTrans=DE	1				0
+pflanzt	pflanzen	VERB	0	6						1		0
+heute	heute	ADV	8	12	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE					0
+schon	schon	ADV	14	18	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=DE	1				0
+für	für	ADP	20	22								0
+seine	mein	DET	24	28								0
+Tellulose	Tellulose	NOUN	30	38						1	1	1
+Schilf	Schilf	PROPN	40	45	Schilf	B-bn:00066755n	https://babelnet.org/synset?word=bn:00066755n&lang=DE&langTrans=DE	1				0
+eine	einen	DET	47	50								0
+Art	Art	NOUN	0	2	Art	B-bn:00073210n	https://babelnet.org/synset?word=bn:00073210n&lang=DE&langTrans=DE		1	1		0
+abessinisches	abessinisches	ADJ	4	16						1		0
+Gras	grasen	NOUN	18	21	Gras	B-bn:00041433n	https://babelnet.org/synset?word=bn:00041433n&lang=DE&langTrans=DE	1				0
+Hat	haben	AUX	0	2								0
+die	der	DET	4	6								0
+Viscose	Viscose	NOUN	8	14	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+dank	danken	ADP	16	19								0
+ihrem	mein	DET	21	25								0
+Rohmaterial	Rohmaterial	NOUN	27	37	Rohmaterial	B-bn:16572586n	https://babelnet.org/synset?word=bn:16572586n&lang=DE&langTrans=DE	1				0
+die	der	DET	39	41								0
+billigste	billig	ADJ	0	8	billigste	B-bn:00099557a	https://babelnet.org/synset?word=bn:00099557a&lang=DE&langTrans=DE	1				0
+Herstellung	Herstellung	NOUN	10	20	Herstellung	B-bn:00032594n	https://babelnet.org/synset?word=bn:00032594n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	22	24								0
+den	der	DET	26	28								0
+größten	groß	ADJ	30	36	größten	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=DE	1				0
+Markt	Markt	NOUN	38	42	Markt	B-bn:00053458n	https://babelnet.org/synset?word=bn:00053458n&lang=DE&langTrans=DE	1				0
+80	80	NUM	44	45								0
+ist	sein	AUX	47	49								0
+dafür	dafür	ADV	0	4								0
+ihr	mein	DET	6	8								0
+Verhalten	Verhalten	NOUN	10	18	Verhalten	B-bn:00009657n	https://babelnet.org/synset?word=bn:00009657n&lang=DE&langTrans=DE	1				0
+in	in	ADP	20	21								0
+arbeitstechnischer	arbeitstechnischer	ADJ	23	40						1		0
+Hinsicht	Hinsicht	NOUN	42	49	Hinsicht	B-bn:05289860n	https://babelnet.org/synset?word=bn:05289860n&lang=DE&langTrans=DE	1				0
+etwas	etwas	ADV	51	55								0
+tyrannisch	tyrannisch	ADJ	57	66	tyrannisch	B-bn:00101252a	https://babelnet.org/synset?word=bn:00101252a&lang=DE&langTrans=DE	1				0
+Während	während	SCONJ	68	74								0
+die	der	PRON	76	78								0
+Aretatlösung	Aretatlösung	NOUN	0	11						1	1	1
+in	in	ADP	13	14								0
+sestem	sestem	ADJ	16	21						1	1	1
+Austand	Austand	NOUN	23	29						1	1	1
+gekauft	kaufen	VERB	31	37	gekauft	B-bn:00084331v	https://babelnet.org/synset?word=bn:00084331v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	39	41								0
+transportiert	transportieren	VERB	43	55	transportiert	B-bn:00084790v	https://babelnet.org/synset?word=bn:00084790v&lang=DE&langTrans=DE	1				0
+werden	werden	AUX	57	62								0
+Kann	können	VERB	64	67								0
+muß	muß	VERB	69	71								0
+die	der	DET	73	75								0
+Viscoselösung	Viscoselösung	NOUN	77	89						1		0
+verschiedene	verschieden	ADJ	91	102	verschiedene	B-bn:00101554a	https://babelnet.org/synset?word=bn:00101554a&lang=DE&langTrans=DE	1				0
+und	und	CONJ	104	106								0
+wie	wie	CONJ	108	110								0
+beim	beim	ADP	112	115								0
+Sauser	Sauser	NOUN	117	122						1		0
+empfindsame	empfindsam	VERB	124	134						1		0
+Reisestadien	Reisestadien	NOUN	0	11						1		0
+durchmachen	durchmachen	VERB	13	23						1		0
+und	und	CONJ	25	27								0
+ihr	mein	DET	29	31								0
+Faden	Fade	NOUN	33	37	Faden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+muß	muß	VERB	39	41								0
+in	in	ADP	0	1								0
+einem	einer	DET	3	7								0
+ganz	ganz	ADV	9	12	ganz	B-bn:00114203r	https://babelnet.org/synset?word=bn:00114203r&lang=DE&langTrans=DE	1				0
+bestimmten	bestimmen	ADJ	14	23						1		0
+Moment	Moment	NOUN	25	30	Moment	B-bn:00010728n	https://babelnet.org/synset?word=bn:00010728n&lang=DE&langTrans=DE	1				0
+gesponnen	spinnen	ADJ	32	40	gesponnen	B-bn:00094128v	https://babelnet.org/synset?word=bn:00094128v&lang=DE&langTrans=DE	1				0
+verden	verden	ADJ	42	47	verden	B-bn:01043592n	https://babelnet.org/synset?word=bn:01043592n&lang=DE&langTrans=DE		1			0
+Hinzu	Hinzu	NOUN	49	53								0
+kommt	kommen	VERB	55	59	kommt	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE		1	1		0
+daß	daß	SCONJ	61	63								0
+aller	all	DET	65	69								0
+Kunstscidefaden	Kunstscidefaden	NOUN	71	85						1	1	1
+—	--	PUNCT	87	87								0
+zum	zum	ADP	0	2								0
+Unterschied	Unterschied	NOUN	4	14	Unterschied	B-bn:00027022n	https://babelnet.org/synset?word=bn:00027022n&lang=DE&langTrans=DE	1				0
+von	von	ADP	16	18								0
+der	der	DET	20	22								0
+Stapelfaser	Stapelfaser	NOUN	24	34	Stapelfaser	B-bn:00073959n	https://babelnet.org/synset?word=bn:00073959n&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	36	36								0
+Kontinuierlich	Kontinuierlich	ADJ	38	51						1	1	1
+ist	sein	AUX	53	55								0
+Der	der	DET	57	59								0
+Viscose	Viscose	NOUN	61	67	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE		1	1		0
+entspräche	entsprechen	VERB	69	78								0
+also	also	ADV	80	83								0
+die	der	DET	85	87								0
+Tag	tagen	NOUN	0	2	Tag	B-bn:02340409n	https://babelnet.org/synset?word=bn:02340409n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	4	6	und	I-bn:02340409n	https://babelnet.org/synset?word=bn:02340409n&lang=DE&langTrans=DE		1			0
+Nacht	Nacht	NOUN	8	12	Nacht	I-bn:02340409n	https://babelnet.org/synset?word=bn:02340409n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	14	16								0
+Sonntags	Sonntag	NOUN	18	25	Sonntags	B-bn:00028190n	https://babelnet.org/synset?word=bn:00028190n&lang=DE&langTrans=DE	1				0
+durchgehende	durchgehend	VERB	27	38	durchgehende	B-bn:00100370a	https://babelnet.org/synset?word=bn:00100370a&lang=DE&langTrans=DE		1	1		0
+Arbeitszeit	Arbeitszeit	NOUN	0	10	Arbeitszeit	B-bn:00081586n	https://babelnet.org/synset?word=bn:00081586n&lang=DE&langTrans=DE	1				0
+was	was	PRON	12	14								0
+der	der	DET	16	18								0
+menschlichen	menschlich	ADJ	20	31	menschlichen	B-bn:00045157n	https://babelnet.org/synset?word=bn:00045157n&lang=DE&langTrans=DE	1				0
+Natur	Natur	NOUN	33	37	Natur	I-bn:00045157n	https://babelnet.org/synset?word=bn:00045157n&lang=DE&langTrans=DE	1				0
+nicht	nicht	PART	39	43								0
+entspricht	entsprechen	VERB	0	9	entspricht	B-bn:00085591v	https://babelnet.org/synset?word=bn:00085591v&lang=DE&langTrans=DE	1				0
+aber	aber	ADV	11	14								0
+im	im	ADP	16	17								0
+Ausland	Ausland	NOUN	19	25	Ausland	B-bn:00035825n	https://babelnet.org/synset?word=bn:00035825n&lang=DE&langTrans=DE	1				0
+vielerorts	vielerorts	ADV	27	36								0
+durehgeführt	durehgeführt	VERB	38	49						1	1	1
+wird	werden	AUX	0	3								0
+Ein	Ein	DET	5	7								0
+willkürliches	willkürlich	ADJ	9	21	willkürliches	B-bn:00097433a	https://babelnet.org/synset?word=bn:00097433a&lang=DE&langTrans=DE	1				0
+Stoppen	Stoppen	NOUN	23	29						1		0
+sei	sein	AUX	31	33								0
+nur	nur	ADV	35	37								0
+dort	dort	ADV	39	42								0
+erträglich	erträglich	ADJ	44	53	erträglich	B-bn:00111967a	https://babelnet.org/synset?word=bn:00111967a&lang=DE&langTrans=DE	1				0
+wo	wo	ADV	55	56								0
+noch	noch	ADV	58	61								0
+große	groß	ADJ	63	67	große	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=DE	1				0
+Gewinnmargen	Gewinnmargen	NOUN	69	80						1		0
+bestehen	bestehen	VERB	82	89	bestehen	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=DE&langTrans=DE		1	1		0
+was	was	PRON	91	93								0
+in	in	ADP	0	1								0
+der	der	DET	3	5								0
+Schweiz	Schweiz	PROPN	7	13	Schweiz	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=DE&langTrans=DE	1				0
+nicht	nicht	PART	15	19								0
+der	der	DET	21	23								0
+Fall	Fall	NOUN	25	28	Fall	B-bn:00042677n	https://babelnet.org/synset?word=bn:00042677n&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	30	32								0
+Der	der	DET	34	36								0
+Qualitätsgrad	Qualitätsgrad	NOUN	38	50						1		0
+des	der	DET	0	2								0
+Produktes	Produktes	NOUN	4	12	Produktes	B-bn:00053827n	https://babelnet.org/synset?word=bn:00053827n&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	14	16								0
+weitgehend	weitgehend	ADJ	18	27						1		0
+eine	einen	DET	29	32								0
+Frage	Frage	NOUN	34	38	Frage	B-bn:00047208n	https://babelnet.org/synset?word=bn:00047208n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	40	42								0
+sorgfältigen	sorgfältig	ADJ	44	55						1		0
+Behandlung	Behandlung	NOUN	57	66	Behandlung	B-bn:00047235n	https://babelnet.org/synset?word=bn:00047235n&lang=DE&langTrans=DE		1	1		0
+Besonders	Besonders	ADV	68	76						1		0
+die	der	DET	78	80								0
+Färber	Färber	NOUN	82	87	Färber	B-bn:00029283n	https://babelnet.org/synset?word=bn:00029283n&lang=DE&langTrans=DE	1				0
+konnten	können	VERB	0	6								0
+sich	sich	PRON	8	11								0
+aber	aber	ADV	13	16								0
+nur	nur	ADV	18	20								0
+zögernd	zögern	ADJ	22	28						1		0
+mit	mit	ADP	30	32								0
+dem	der	DET	34	36								0
+Gedanken	Gedanke	NOUN	38	45	Gedanken	B-bn:06784326n	https://babelnet.org/synset?word=bn:06784326n&lang=DE&langTrans=DE	1				0
+aussöhnen	aussöhnen	VERB	0	8						1		0
+daß	daß	SCONJ	10	12								0
+sie	ich	PRON	14	16								0
+für	für	ADP	18	20								0
+ein	einen	DET	22	24								0
+weniger	wenig	ADV	26	32	weniger	B-bn:00106059a	https://babelnet.org/synset?word=bn:00106059a&lang=DE&langTrans=DE	1				0
+vertvolles	vertvolles	VERB	34	43						1	1	1
+Material	Material	NOUN	0	7	Material	B-bn:00053802n	https://babelnet.org/synset?word=bn:00053802n&lang=DE&langTrans=DE		1	1		0
+mehr	mehr	DET	9	12								0
+Sorgfalt	Sorgfalt	NOUN	14	21	Sorgfalt	B-bn:00029048n	https://babelnet.org/synset?word=bn:00029048n&lang=DE&langTrans=DE		1	1		0
+aufbringen	aufbringen	VERB	23	32	aufbringen	B-bn:00084117v	https://babelnet.org/synset?word=bn:00084117v&lang=DE&langTrans=DE		1	1		0
+sollten	sollen	VERB	34	40								0
+Die	der	DET	42	44								0
+Zellwolle	Zellwolle	NOUN	0	8	Zellwolle	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+wird	werden	AUX	10	13								0
+aus	aus	ADP	15	17								0
+Stapelkaser	Stapelkaser	NOUN	19	29						1	1	1
+einem	einer	DET	31	35								0
+Gespinst	Gespinst	NOUN	37	44	Gespinst	B-bn:00073675n	https://babelnet.org/synset?word=bn:00073675n&lang=DE&langTrans=DE	1				0
+aus	aus	PART	46	48								0
+kurzen	kurz	ADJ	0	5	kurzen	B-bn:00098854a	https://babelnet.org/synset?word=bn:00098854a&lang=DE&langTrans=DE	1				0
+Kunstscidefäden	Kunstscidefäden	NOUN	7	21						1	1	1
+hergestellt	herstellen	VERB	23	33	hergestellt	B-bn:00085678v	https://babelnet.org/synset?word=bn:00085678v&lang=DE&langTrans=DE	1				0
+In	In	ADP	35	36								0
+der	der	DET	38	40								0
+Schweiz	Schweiz	PROPN	42	48						1		0
+liegt	liegen	VERB	0	4	liegt	B-bn:00085657v	https://babelnet.org/synset?word=bn:00085657v&lang=DE&langTrans=DE		1	1		0
+ihre	mein	DET	6	9								0
+Verwendung	Verwendung	NOUN	11	20	Verwendung	B-bn:00079366n	https://babelnet.org/synset?word=bn:00079366n&lang=DE&langTrans=DE		1	1		0
+noch	noch	ADV	22	25								0
+in	in	ADP	27	28								0
+den	der	DET	30	32								0
+Anfängen	Anfang	NOUN	34	41	Anfängen	B-bn:00046275n	https://babelnet.org/synset?word=bn:00046275n&lang=DE&langTrans=DE	1				0
+in	in	PART	43	44								0
+Schweden	Schwede	PROPN	0	7						1		0
+das	der	PRON	9	11								0
+doch	doch	ADV	13	16								0
+keine	kein	DET	18	22								0
+autarkische	autarkische	ADJ	24	34						1		0
+Not	Not	NOUN	36	38	Not	B-bn:00027787n	https://babelnet.org/synset?word=bn:00027787n&lang=DE&langTrans=DE	1				0
+kennt	kennen	VERB	40	44	kennt	B-bn:00090147v	https://babelnet.org/synset?word=bn:00090147v&lang=DE&langTrans=DE	1				0
+beträgt	betragen	VERB	0	6	beträgt	B-bn:00082286v	https://babelnet.org/synset?word=bn:00082286v&lang=DE&langTrans=DE		1	1		0
+sie	ich	PRON	8	10								0
+schon	schon	ADV	12	16	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=DE	1				0
+das	der	DET	18	20								0
+Zehnfache	Zehnfache	NOUN	22	30						1		0
+der	der	DET	32	34								0
+schweizerischen	schweizerisch	ADJ	36	50	schweizerischen	B-bn:00111553a	https://babelnet.org/synset?word=bn:00111553a&lang=DE&langTrans=DE	1				0
+Von	Von	ADP	0	2								0
+den	der	DET	4	6								0
+300	300	NUM	8	10								0
+Millionen	Million	NOUN	12	20						1		0
+lg	lg	ADP	22	23						1	1	1
+der	der	DET	25	27								0
+Weltproduktion	Weltproduktion	NOUN	29	42						1		0
+entfallen	entfallen	VERB	44	52						1		0
+50	50	NUM	54	55								0
+Millionen	Million	NOUN	57	65						1		0
+kg	kg	NOUN	67	68	kg	B-bn:00049021n	https://babelnet.org/synset?word=bn:00049021n&lang=DE&langTrans=DE	1				0
+auf	auf	ADP	70	72								0
+Italien	Italien	PROPN	74	80	Italien	B-bn:00047705n	https://babelnet.org/synset?word=bn:00047705n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	82	84								0
+100	100	NUM	86	88								0
+Millionen	Million	NOUN	90	98	Millionen	B-bn:00000013n	https://babelnet.org/synset?word=bn:00000013n&lang=DE&langTrans=DE	1				0
+g	g	NOUN	100	100								0
+aul	aul	PROPN	102	104	aul	B-bn:05380780n	https://babelnet.org/synset?word=bn:05380780n&lang=DE&langTrans=DE		1		1	0
+Deutschland	Deutschland	PROPN	106	116	Deutschland	B-bn:00026684n	https://babelnet.org/synset?word=bn:00026684n&lang=DE&langTrans=DE	1				0
+Seit	seit	ADP	118	121								0
+1935	1935	NUM	123	126								0
+hat	haben	AUX	128	130								0
+die	der	DET	132	134								0
+Zellwolle	Zellwolle	NOUN	136	144	Zellwolle	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+einen	ein	DET	146	150								0
+raschen	rasch	ADJ	152	158	raschen	B-bn:00102807a	https://babelnet.org/synset?word=bn:00102807a&lang=DE&langTrans=DE	1				0
+Anstieg	Anstieg	NOUN	160	166	Anstieg	B-bn:00046355n	https://babelnet.org/synset?word=bn:00046355n&lang=DE&langTrans=DE	1				0
+erlebt	erleben	VERB	168	173	erlebt	B-bn:00095806v	https://babelnet.org/synset?word=bn:00095806v&lang=DE&langTrans=DE	1				0
+ihre	mein	DET	175	178								0
+Produktionszikler	Produktionszikler	NOUN	180	196						1	1	1
+ist	sein	AUX	198	200								0
+heute	heute	ADV	202	206	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE	1				0
+auf	auf	ADP	208	210								0
+halber	halb	ADJ	212	217	halber	B-bn:00103878a	https://babelnet.org/synset?word=bn:00103878a&lang=DE&langTrans=DE	1				0
+Höhe	Höhe	NOUN	219	222	Höhe	B-bn:00043544n	https://babelnet.org/synset?word=bn:00043544n&lang=DE&langTrans=DE	1				0
+der	der	DET	224	226								0
+Kunstscide	Kunstscide	NOUN	228	237						1	1	1
+Die	der	DET	0	2								0
+schweizerische	schweizerische	ADJ	4	17	schweizerische	B-bn:00111553a	https://babelnet.org/synset?word=bn:00111553a&lang=DE&langTrans=DE	1				0
+Runstseidenindustrie	Runstseidenindustrie	NOUN	19	38						1	1	1
+die	der	DET	40	42								0
+zunächst	zunächst	ADV	44	51	zunächst	B-bn:00115376r	https://babelnet.org/synset?word=bn:00115376r&lang=DE&langTrans=DE	1				0
+vom	vom	ADP	53	55								0
+Export	Export	NOUN	57	62	Export	B-bn:00032366n	https://babelnet.org/synset?word=bn:00032366n&lang=DE&langTrans=DE	1				0
+lebte	leben	VERB	64	68	lebte	B-bn:00083191v	https://babelnet.org/synset?word=bn:00083191v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	0	2								0
+nur	nur	ADV	4	6								0
+allmählich	allmählich	ADJ	8	17						1		0
+im	im	ADP	19	20								0
+eigenen	eigen	ADJ	22	28								0
+Lande	landen	NOUN	30	34	Lande	B-bn:00023235n	https://babelnet.org/synset?word=bn:00023235n&lang=DE&langTrans=DE		1	1		0
+Absatz	Absatz	NOUN	36	41	Absatz	B-bn:00027799n	https://babelnet.org/synset?word=bn:00027799n&lang=DE&langTrans=DE	1				0
+fand	finden	VERB	43	46	fand	B-bn:00084231v	https://babelnet.org/synset?word=bn:00084231v&lang=DE&langTrans=DE	1				0
+stellte	stellen	VERB	0	6	stellte	B-bn:00090224v	https://babelnet.org/synset?word=bn:00090224v&lang=DE&langTrans=DE		1	1		0
+sich	sich	PRON	8	11								0
+zuerst	zuerst	ADV	13	18								0
+nur	nur	ADV	20	22								0
+auf	auf	ADP	24	26								0
+Seidenersatx	Seidenersatx	NOUN	28	39						1	1	1
+ein	einen	PART	41	43								0
+es	ich	PRON	0	1								0
+zeigten	zeigen	VERB	3	9	zeigten	B-bn:00086567v	https://babelnet.org/synset?word=bn:00086567v&lang=DE&langTrans=DE		1	1		0
+sich	sich	PRON	11	14								0
+aber	aber	ADV	16	19								0
+auch	auch	ADV	21	24								0
+ganz	ganz	ADV	26	29	ganz	B-bn:00114203r	https://babelnet.org/synset?word=bn:00114203r&lang=DE&langTrans=DE	1				0
+andere	ander	ADJ	31	36								0
+Verkaulsgebiete	Verkaulsgebiete	NOUN	38	52						1	1	1
+so	so	ADV	54	55								0
+bildete	bilden	VERB	57	63	bildete	B-bn:00083187v	https://babelnet.org/synset?word=bn:00083187v&lang=DE&langTrans=DE		1	1		0
+zum	zum	ADP	65	67								0
+Beispiel	Beispiel	NOUN	69	76	Beispiel	B-bn:00032099n	https://babelnet.org/synset?word=bn:00032099n&lang=DE&langTrans=DE	1				0
+das	der	DET	78	80								0
+Crinol	Crinol	NOUN	82	87						1		0
+oder	oder	CONJ	89	92								0
+Kunstscidenrothaar	Kunstscidenrothaar	NOUN	0	17						1	1	1
+lange	lang	ADJ	19	23	lange	B-bn:00106124a	https://babelnet.org/synset?word=bn:00106124a&lang=DE&langTrans=DE	1				0
+Jahre	Jahr	NOUN	25	29	Jahre	B-bn:00001939n	https://babelnet.org/synset?word=bn:00001939n&lang=DE&langTrans=DE					0
+hindurch	hindurch	ADV	31	38								0
+das	der	DET	0	2								0
+Ruhekissen	Ruhekissen	NOUN	4	13						1		0
+der	der	DET	15	17								0
+Viscosefabrik	Viscosefabrik	NOUN	19	31						1		0
+in	in	ADP	33	34								0
+Emmenbrücke	Emmenbrücke	NOUN	36	46						1		0
+bis	bis	SCONJ	0	2								0
+die	der	DET	4	6								0
+Wohlener	Wohlener	ADJ	8	15						1		0
+Hutlabrikation	Hutlabrikation	PROPN	17	30						1	1	1
+plötzlich	plötzlich	ADJ	32	40	plötzlich	B-bn:00111415a	https://babelnet.org/synset?word=bn:00111415a&lang=DE&langTrans=DE	1				0
+nichts	nichts	PRON	42	47								0
+mehr	mehr	PRON	0	3								0
+davon	davon	ADV	5	9	davon	B-bn:00117266r	https://babelnet.org/synset?word=bn:00117266r&lang=DE&langTrans=DE	1				0
+wissen	wissen	VERB	11	16	wissen	B-bn:00085261v	https://babelnet.org/synset?word=bn:00085261v&lang=DE&langTrans=DE	1				0
+wollte	wollen	VERB	18	23				 				0
+Nach	Nach	ADP	0	3								0
+minutiésen	minutiésen	ADJ	5	14						1	1	1
+Darlegungen	Darlegung	NOUN	16	26	Darlegungen	B-bn:00032369n	https://babelnet.org/synset?word=bn:00032369n&lang=DE&langTrans=DE	1				0
+über	über	ADP	28	31								0
+Festigkeitsgrad	Festigkeitsgrad	PROPN	33	47						1		0
+Dehnbarkeit	Dehnbarkeit	NOUN	49	59	Dehnbarkeit	B-bn:00074643n	https://babelnet.org/synset?word=bn:00074643n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	61	63								0
+Färbbarkeit	Färbbarkeit	NOUN	65	75	Färbbarkeit	B-bn:03170337n	https://babelnet.org/synset?word=bn:03170337n&lang=DE&langTrans=DE		1	1		0
+der	der	DET	77	79								0
+Viscose	Viscose	NOUN	81	87	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+schilderte	schildern	VERB	89	98						1		0
+v	v	PROPN	100	100						1		0
+Goumoéns	Goumoéns	PROPN	102	109						1	1	1
+die	der	PART	111	113								0
+Celta	Celta	PROPN	0	4	Celta	B-bn:15731327n	https://babelnet.org/synset?word=bn:15731327n&lang=DE&langTrans=DE		1	1		0
+oder	oder	CONJ	6	9								0
+Lustseide	Lustseide	PROPN	11	19						1	1	1
+deren	der	PRON	21	25								0
+Gewebe	Gewebe	NOUN	27	32	Gewebe	B-bn:00077386n	https://babelnet.org/synset?word=bn:00077386n&lang=DE&langTrans=DE		1	1		0
+aus	aus	PART	34	36								0
+Bündeln	Bündel	NOUN	0	6	Bündeln	B-bn:00013883n	https://babelnet.org/synset?word=bn:00013883n&lang=DE&langTrans=DE	1				0
+hohler	hohl	ADJ	8	13	hohler	B-bn:00104239a	https://babelnet.org/synset?word=bn:00104239a&lang=DE&langTrans=DE	1				0
+Fäden	Faden	NOUN	15	19	Fäden	B-bn:02452704n	https://babelnet.org/synset?word=bn:02452704n&lang=DE&langTrans=DE	1				0
+bestcht	bestcht	VERB	21	27						1	1	1
+sodaß	sodaß	ADJ	29	33								0
+diese	dies	DET	35	39								0
+Kunstseide	Kunstseide	NOUN	41	50	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+weich	weichen	ADJ	52	56	weich	B-bn:00110858a	https://babelnet.org/synset?word=bn:00110858a&lang=DE&langTrans=DE	1				0
+im	im	ADP	58	59								0
+Griff	greifen	NOUN	61	65	Griff	B-bn:05567935n	https://babelnet.org/synset?word=bn:05567935n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	67	69								0
+warm	warm	ADJ	71	74	warm	B-bn:00113698a	https://babelnet.org/synset?word=bn:00113698a&lang=DE&langTrans=DE	1				0
+im	im	ADP	76	77								0
+Tragen	Trage	NOUN	79	84	Tragen					1		0
+aber	aber	CONJ	0	3								0
+nicht	nicht	PART	5	9								0
+so	so	ADV	11	12								0
+haltbar	haltbar	ADJ	14	20								0
+ist	sein	AUX	22	24								0
+wie	wie	CONJ	26	28								0
+die	der	DET	30	32								0
+massive	massiv	ADJ	34	40						1		0
+Kunstscide	Kunstscide	NOUN	42	51						1	1	1
+Während	während	PROPN	53	59								0
+matte	matt	ADJ	61	65						1		0
+Kunstscide	Kunstscide	NOUN	67	76						1	1	1
+nichts	nichts	PRON	78	83								0
+mehr	mehr	ADV	85	88	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=DE		1			0
+Neues	Neues	NOUN	0	4	Neues	B-bn:05577082n	https://babelnet.org/synset?word=bn:05577082n&lang=DE&langTrans=DE		1	1		0
+bedeutet	bedeuten	VERB	6	13	bedeutet	B-bn:00089806v	https://babelnet.org/synset?word=bn:00089806v&lang=DE&langTrans=DE	1				0
+bleibt	bleiben	VERB	15	20	bleibt	B-bn:00085719v	https://babelnet.org/synset?word=bn:00085719v&lang=DE&langTrans=DE	1				0
+das	der	DET	22	24								0
+Knittern	Knittern	NOUN	26	33	Knittern	B-bn:00023645n	https://babelnet.org/synset?word=bn:00023645n&lang=DE&langTrans=DE	1				0
+eine	einen	DET	35	38								0
+böse	böse	ADJ	40	43	böse	B-bn:00097107a	https://babelnet.org/synset?word=bn:00097107a&lang=DE&langTrans=DE		1	1		0
+Sache	Sache	NOUN	0	4	Sache	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=DE&langTrans=DE	1				0
+obwohl	obwohl	SCONJ	6	11								0
+auch	auch	ADV	13	16								0
+hier	hier	ADV	18	21								0
+Fortschritte	Fortschritt	NOUN	23	34	Fortschritte	B-bn:00001548n	https://babelnet.org/synset?word=bn:00001548n&lang=DE&langTrans=DE	1				0
+gemacht	machen	VERB	36	42								0
+wurden	werden	AUX	44	49								0
+Die	der	DET	51	53								0
+Verbesserungen	Verbesserung	NOUN	55	68	Verbesserungen	B-bn:00003322n	https://babelnet.org/synset?word=bn:00003322n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	70	73								0
+heute	heute	ADV	75	79	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=DE		1	1		0
+eine	einen	PRON	81	84								0
+Sache	Sache	NOUN	0	4	Sache	B-bn:00001734n	https://babelnet.org/synset?word=bn:00001734n&lang=DE&langTrans=DE	1				0
+des	der	DET	6	8								0
+gesunden	gesund	ADJ	10	17	gesunden	B-bn:00104025a	https://babelnet.org/synset?word=bn:00104025a&lang=DE&langTrans=DE	1				0
+Menschenverstandes	Menschenverstandes	NOUN	19	36						1		0
+der	der	DET	38	40								0
+Sorgfalt	Sorgfalt	NOUN	42	49	Sorgfalt	B-bn:00029048n	https://babelnet.org/synset?word=bn:00029048n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	51	53								0
+der	der	DET	55	57								0
+Kontinuierlichen	Kontinuierliche	ADJ	59	74						1	1	1
+Beobachtung	Beobachtung	NOUN	76	86	Beobachtung	B-bn:00058495n	https://babelnet.org/synset?word=bn:00058495n&lang=DE&langTrans=DE	1				0
+Die	der	DET	88	90								0
+Cunstscide	Cunstscide	PROPN	0	9						1	1	1
+habe	habe	AUX	11	14								0
+den	der	DET	16	18								0
+großen	groß	ADJ	20	25	großen	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=DE	1				0
+Vorteil	Vorteil	NOUN	27	33	Vorteil	B-bn:00001559n	https://babelnet.org/synset?word=bn:00001559n&lang=DE&langTrans=DE	1				0
+daß	daß	SCONJ	35	37								0
+ihr	mein	DET	39	41								0
+Rohmaterial	Rohmaterial	NOUN	43	53	Rohmaterial	B-bn:16572586n	https://babelnet.org/synset?word=bn:16572586n&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	55	55								
+sei	sein	AUX	57	59								0
+es	ich	PRON	61	62								0
+Holz	holzen	NOUN	64	67	Holz	B-bn:00081492n	https://babelnet.org/synset?word=bn:00081492n&lang=DE&langTrans=DE	1				0
+oder	oder	CONJ	69	72								0
+Baumwolle	Baumwolle	NOUN	74	82	Baumwolle	B-bn:00023072n	https://babelnet.org/synset?word=bn:00023072n&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	84	84								
+regelmäßig	regelmäßig	ADJ	86	95	regelmäßig	B-bn:00099407a	https://babelnet.org/synset?word=bn:00099407a&lang=DE&langTrans=DE	1				0
+und	und	CONJ	97	99								0
+nicht	nicht	PART	101	105								0
+von	von	ADP	107	109								0
+den	der	DET	111	113								0
+Launen	Laune	NOUN	115	120	Launen	B-bn:00015704n	https://babelnet.org/synset?word=bn:00015704n&lang=DE&langTrans=DE	1				0
+eines	ein	DET	122	126								0
+Wurms	Wurm	NOUN	128	132	Wurms	B-bn:00067220n	https://babelnet.org/synset?word=bn:00067220n&lang=DE&langTrans=DE		1	1		0
+abhängig	abhängig	ADJ	0	7	abhängig	B-bn:00101192a	https://babelnet.org/synset?word=bn:00101192a&lang=DE&langTrans=DE	1				0
+sei	sein	AUX	9	11								0
+der	der	PRON	13	15								0
+verliebt	verlieben	VERB	17	24						1		0
+sein	mein	AUX	26	29								0
+oder	oder	CONJ	31	34								0
+Katarrh	Katarrh	PROPN	36	42	Katarrh	B-bn:00016684n	https://babelnet.org/synset?word=bn:00016684n&lang=DE&langTrans=DE	1				0
+haben	haben	AUX	44	48	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=DE		1	1		0
+kann	können	VERB	0	3								0
+In	In	ADP	5	6								0
+der	der	DET	8	10								0
+Schweiz	Schweiz	PROPN	12	18	Schweiz	B-bn:00069666n	https://babelnet.org/synset?word=bn:00069666n&lang=DE&langTrans=DE	1				0
+ist	sein	AUX	20	22								0
+die	der	DET	24	26								0
+Entwicklung	Entwicklung	NOUN	28	38	Entwicklung	B-bn:00026696n	https://babelnet.org/synset?word=bn:00026696n&lang=DE&langTrans=DE	1				0
+sukzcssive	sukzcssive	VERB	40	49						1	1	1
+vor	vor	ADP	0	2								0
+sich	sich	PRON	4	7								0
+gegangen	gehen	VERB	9	16	gegangen	B-bn:00085363v	https://babelnet.org/synset?word=bn:00085363v&lang=DE&langTrans=DE		1	1		0
+mit	mit	ADP	18	20								0
+den	der	DET	22	24								0
+besseren	gut	ADJ	26	33	besseren	B-bn:00103672a	https://babelnet.org/synset?word=bn:00103672a&lang=DE&langTrans=DE	1				0
+Apparaten	Apparat	NOUN	35	43						1		0
+wurden	werden	AUX	0	5								0
+die	der	DET	7	9								0
+„	„	PUNCT	11	11								0
+Eiter	eitern	NOUN	12	16	Eiter	B-bn:00065334n	https://babelnet.org/synset?word=bn:00065334n&lang=DE&langTrans=DE		1	1	1	1
+keiner	kein	PRON	18	23								0
+und	und	CONJ	25	27								0
+die	der	DET	29	31								0
+arbeitenden	arbeitend	ADJ	33	43						1		0
+Hlände	Hlände	NOUN	0	5						1	1	1
+sorglältiger	sorglältiger	ADJ	7	18						1	1	1
+Ein	Ein	DET	0	2								0
+sehr	sehr	ADV	4	7								0
+wichtiges	wichtig	ADJ	9	17	wichtiges	B-bn:00100716a	https://babelnet.org/synset?word=bn:00100716a&lang=DE&langTrans=DE	1				0
+Gebiet	gebieten	NOUN	19	24	Gebiet	B-bn:00005515n	https://babelnet.org/synset?word=bn:00005515n&lang=DE&langTrans=DE		1	1		0
+ist	sein	AUX	26	28								0
+die	der	DET	30	32								0
+Wirkerei	Wirkerei	NOUN	34	41	Wirkerei	B-bn:05153817n	https://babelnet.org/synset?word=bn:05153817n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	0	2								0
+der	der	DET	4	6								0
+Rundstuhl	Rundstuhl	NOUN	8	16						1		0
+als	als	ADP	18	20								0
+1910	1910	NUM	22	25								0
+jemand	jemand	PRON	27	32						1		0
+vom	vom	ADP	34	36								0
+Strümplewirken	Strümplewirken	NOUN	0	13						1	1	1
+sprach	sprechen	VERB	15	20	sprach	B-bn:00090943v	https://babelnet.org/synset?word=bn:00090943v&lang=DE&langTrans=DE	1				0
+antwortete	antworten	VERB	22	31	antwortete	B-bn:00082646v	https://babelnet.org/synset?word=bn:00082646v&lang=DE&langTrans=DE	1				0
+von	von	ADP	33	35						1		0
+Goumoéns	Goumoéns	PROPN	37	44						1	1	1
+„	„	PUNCT	0	0								0
+Sagen	Sage	VERB	1	5	Sagen	B-bn:00069438n	https://babelnet.org/synset?word=bn:00069438n&lang=DE&langTrans=DE		1	1		0
+Sie	ich	PRON	7	9								0
+lieber	lieb	ADV	11	16	lieber	B-bn:13763376r	https://babelnet.org/synset?word=bn:13763376r&lang=DE&langTrans=DE		1	1		0
+gleich	gleichen	ADV	18	23	gleich	B-bn:00114424r	https://babelnet.org/synset?word=bn:00114424r&lang=DE&langTrans=DE		1	1		0
+Regenschirme	Regenschirme	NOUN	25	36	Regenschirme	B-bn:00078920n	https://babelnet.org/synset?word=bn:00078920n&lang=DE&langTrans=DE	1				0
+Heute	Heute	ADV	38	42	Heute	B-bn:00058218n	https://babelnet.org/synset?word=bn:00058218n&lang=DE&langTrans=DE	1				0
+haben	haben	AUX	0	4	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=DE					0
+wir	ich	PRON	6	8								0
+beides	beide	PRON	10	15								0
+Zuletzt	Zuletzt	ADV	17	23						1		0
+kam	kommen	VERB	25	27	kam	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE		1	1		0
+die	der	DET	29	31								0
+Kettenwirkemaschine	Kettenwirkemaschine	NOUN	33	51						1	1	1
+Die	der	DET	53	55								0
+Sorgfalt	Sorgfalt	NOUN	57	64	Sorgfalt	B-bn:00029048n	https://babelnet.org/synset?word=bn:00029048n&lang=DE&langTrans=DE		1	1		0
+muß	muß	VERB	66	68								0
+nicht	nicht	PART	70	74								0
+nur	nur	ADV	76	78								0
+eine	einen	DET	80	83								0
+allgemeine	allgemein	ADJ	85	94	allgemeine	B-bn:00103518a	https://babelnet.org/synset?word=bn:00103518a&lang=DE&langTrans=DE	1				0
+sondern	sondern	CONJ	96	102								0
+auch	auch	ADV	104	107								0
+dem	der	DET	109	111								0
+besondern	besondern	ADJ	113	121						1		0
+Stoff	Stoff	NOUN	123	127	Stoff	B-bn:00053801n	https://babelnet.org/synset?word=bn:00053801n&lang=DE&langTrans=DE		1	1		0
+angepaßt	anpassen	VERB	129	136						1		0
+sein	mein	DET	0	3								0
+Azetatscide	Azetatscide	NOUN	5	15						1	1	1
+darf	dürfen	VERB	17	20	darf	B-bn:13644876v	https://babelnet.org/synset?word=bn:13644876v&lang=DE&langTrans=DE					0
+nicht	nicht	PART	22	26								0
+mit	mit	ADP	28	30								0
+heißen	heiß	ADJ	32	37	heißen	B-bn:13626957v	https://babelnet.org/synset?word=bn:13626957v&lang=DE&langTrans=DE		1	1		0
+Eisen	Eisen	NOUN	39	43	Eisen	B-bn:00006856n	https://babelnet.org/synset?word=bn:00006856n&lang=DE&langTrans=DE	1				0
+in	in	PART	45	46								0
+Berührung	Berührung	NOUN	0	8	Berührung	B-bn:00077726n	https://babelnet.org/synset?word=bn:00077726n&lang=DE&langTrans=DE	1				0
+kommen	kommen	VERB	10	15	kommen	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	17	19								0
+seine	mein	DET	21	25								0
+Seidenwäsche	Seidenwäsche	NOUN	27	38						1		0
+soll	soll	VERB	40	43	soll	B-bn:13655464v	https://babelnet.org/synset?word=bn:13655464v&lang=DE&langTrans=DE	1				0
+nicht	nicht	PART	0	4								0
+am	am	ADP	6	7								0
+Seil	seilen	NOUN	9	12	Seil	B-bn:00068266n	https://babelnet.org/synset?word=bn:00068266n&lang=DE&langTrans=DE	1				0
+angeklammert	anklammern	VERB	14	25						1		0
+werden	werden	AUX	27	32								0
+Bei	Bei	ADP	34	36								0
+den	der	DET	38	40								0
+Gestehungskosten	Gestehungskosten	NOUN	42	57	Gestehungskosten	B-bn:02009187n	https://babelnet.org/synset?word=bn:02009187n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	59	62								0
+es	ich	PRON	64	65								0
+viel	viel	ADV	67	70								0
+weniger	wenig	ADV	72	78	weniger	B-bn:00106059a	https://babelnet.org/synset?word=bn:00106059a&lang=DE&langTrans=DE	1				0
+die	der	DET	80	82								0
+Löhne	Löhne	NOUN	84	88	Löhne	B-bn:00029416n	https://babelnet.org/synset?word=bn:00029416n&lang=DE&langTrans=DE	1				0
+die	der	DET	90	92								0
+drücken	drücken	VERB	0	6	drücken	B-bn:00091986v	https://babelnet.org/synset?word=bn:00091986v&lang=DE&langTrans=DE	1				0
+—	--	PUNCT	8	8								
+sie	ich	PRON	10	12								0
+wurden	werden	AUX	14	19								0
+durch	durch	ADP	21	25								0
+die	der	DET	27	29								0
+Rationalisierung	Rationalisierung	NOUN	31	46	Rationalisierung	B-bn:00066255n	https://babelnet.org/synset?word=bn:00066255n&lang=DE&langTrans=DE		1	1		0
+kompensiert	kompensieren	VERB	0	10						1		0
+—	--	PUNCT	12	12								
+sondern	sondern	CONJ	14	20								0
+der	der	DET	22	24								0
+Eleinkeram	Eleinkeram	NOUN	26	35						1	1	1
+der	der	DET	37	39								0
+zu	zu	PART	41	42								0
+einem	einer	DET	0	4								0
+Vielerlei	viel	NOUN	6	14						1		0
+zwingt	zwingen	VERB	16	21	zwingt	B-bn:00085252v	https://babelnet.org/synset?word=bn:00085252v&lang=DE&langTrans=DE	1				0
+bei	bei	ADP	23	25								0
+dem	der	PRON	27	29								0
+weder	weder	CONJ	31	35								0
+Personal	Personal	NOUN	37	44	Personal	B-bn:04085145n	https://babelnet.org/synset?word=bn:04085145n&lang=DE&langTrans=DE	1				0
+noch	noch	ADV	0	3								0
+Apparate	Apparat	NOUN	5	12						1		0
+rationel	rationel	ADJ	14	21						1	1	1
+eingesetrt	eingesetrt	ADJ	23	32						1	1	1
+und	und	CONJ	34	36								0
+ausgenützt	ausgenützt	VERB	38	47						1		0
+werden	werden	AUX	0	5								0
+können	können	VERB	7	12								0
+Die	der	DET	14	16								0
+Rohstoslpreise	Rohstoslpreise	NOUN	18	31						1	1	1
+sind	sein	AUX	33	36								0
+nicht	nicht	PART	38	42								0
+schlecht	schlecht	ADJ	0	7	schlecht	B-bn:00097966a	https://babelnet.org/synset?word=bn:00097966a&lang=DE&langTrans=DE	1				0
+Dollschutz	Dollschutz	NOUN	9	18						1	1	1
+genießt	genießen	VERB	20	26	genießt	B-bn:00083145v	https://babelnet.org/synset?word=bn:00083145v&lang=DE&langTrans=DE	1				0
+die	der	DET	28	30								0
+Schweizer	Schweizer	ADJ	32	40	Schweizer	B-bn:00075601n	https://babelnet.org/synset?word=bn:00075601n&lang=DE&langTrans=DE		1	1		0
+Kunstseide	Kunstseide	NOUN	42	51	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+keinen	kein	DET	53	58								0
+dafür	dafür	ADV	60	64								0
+hat	haben	AUX	66	68								0
+in	in	ADP	70	71								0
+Einzelverträgen	Einzelverträgen	NOUN	73	87						1		0
+unser	sich	DET	89	93								0
+Vertragspartner	Vertragspartner	NOUN	0	14	Vertragspartner	B-bn:00022227n	https://babelnet.org/synset?word=bn:00022227n&lang=DE&langTrans=DE	1				0
+das	der	DET	16	18								0
+einseitige	einseitig	ADJ	20	29	einseitige	B-bn:00107862a	https://babelnet.org/synset?word=bn:00107862a&lang=DE&langTrans=DE	1				0
+Recht	Recht	NOUN	31	35	Recht	B-bn:00067807n	https://babelnet.org/synset?word=bn:00067807n&lang=DE&langTrans=DE	1				0
+so	so	ADV	37	38								0
+viel	viel	DET	40	43								0
+Soll	sollen	VERB	45	48						1	1	1
+zu	zu	PART	0	1								0
+verlangen	verlangen	VERB	3	11	verlangen	B-bn:00086546v	https://babelnet.org/synset?word=bn:00086546v&lang=DE&langTrans=DE	1				0
+wie	wie	CONJ	13	15								0
+er	ich	PRON	17	18								0
+will	wollen	VERB	20	23						1		0
+Bei	Bei	ADP	25	27								0
+der	der	DET	29	31								0
+Kunstseidenkontingentierung	Kunstseidenkontingentierung	NOUN	33	59						1		0
+ist	sein	AUX	61	63								0
+es	ich	PRON	65	66								0
+so	so	ADV	68	69								0
+daß	daß	SCONJ	71	73								0
+auch	auch	ADV	75	78								0
+die	der	DET	80	82								0
+Veredelungsfabrikate	Veredelungsfabrikate	NOUN	0	19						1		0
+die	der	DET	21	23								0
+ins	ins	ADP	25	27								0
+Ausland	Ausland	NOUN	29	35	Ausland	B-bn:00035825n	https://babelnet.org/synset?word=bn:00035825n&lang=DE&langTrans=DE	1				0
+gchen	gchen	VERB	37	41						1	1	1
+mitverrechnet	mitverrechnet	VERB	43	55						1		0
+werden	werden	AUX	57	62								0
+weil	weil	SCONJ	64	67								0
+das	der	PRON	69	71								0
+einsacher	einsacher	ADJ	73	81						1	1	1
+sei	sein	AUX	83	85								0
+Wenn	wenn	SCONJ	0	3								0
+man	man	PRON	5	7								0
+nur	nur	ADV	9	11								0
+die	der	DET	13	15								0
+eigentlichen	eigentlich	ADJ	17	28	eigentlichen	B-bn:00113632a	https://babelnet.org/synset?word=bn:00113632a&lang=DE&langTrans=DE	1				0
+Herstellungskosten	Herstellungskosten	NOUN	30	47	Herstellungskosten	B-bn:00064596n	https://babelnet.org/synset?word=bn:00064596n&lang=DE&langTrans=DE	1				0
+ohne	ohne	ADP	49	52								0
+Heizung	Heizung	NOUN	54	60	Heizung	B-bn:16910633n	https://babelnet.org/synset?word=bn:16910633n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	62	64								0
+Aehnliches	Aehnliches	NOUN	66	75						1		0
+rechnet	rechnen	VERB	77	83						1		0
+macht	machen	VERB	0	4								0
+der	der	DET	6	8								0
+Betrag	betragen	NOUN	10	15	Betrag	B-bn:00003601n	https://babelnet.org/synset?word=bn:00003601n&lang=DE&langTrans=DE	1				0
+der	der	DET	17	19								0
+bei	bei	ADP	21	23								0
+der	der	DET	25	27								0
+Kunstseidenproduktion	Kunstseidenproduktion	NOUN	29	49						1		0
+für	für	ADP	51	53								0
+Rohstoffe	Rohstoff	NOUN	55	63	Rohstoffe	B-bn:00066295n	https://babelnet.org/synset?word=bn:00066295n&lang=DE&langTrans=DE	1				0
+ins	ins	ADP	65	67								0
+Ausland	Ausland	NOUN	69	75	Ausland	B-bn:00035825n	https://babelnet.org/synset?word=bn:00035825n&lang=DE&langTrans=DE	1				0
+geht	gehen	VERB	77	80	geht	B-bn:00088912v	https://babelnet.org/synset?word=bn:00088912v&lang=DE&langTrans=DE	1				0
+35	35	NUM	82	83								0
+bis	bis	CONJ	85	87								0
+25	25	NUM	89	90								0
+Prozent	Prozent	NOUN	92	98	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+aus	aus	ADP	100	102								0
+er	ich	PRON	104	105								0
+könnte	können	VERB	107	112								0
+u	u	X	114	114								0
+U	U	X	116	116								0
+auf	auf	ADP	118	120								0
+20	20	NUM	122	123								0
+Prozent	Prozent	NOUN	125	131	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+herabgedrückt	herabgedrückt	VERB	133	145						1		0
+verden	verden	VERB	147	152	verden	B-bn:01043592n	https://babelnet.org/synset?word=bn:01043592n&lang=DE&langTrans=DE		1		1	0
+Bei	Bei	ADP	154	156								0
+der	der	DET	158	160								0
+Baumwolle	Baumwolle	NOUN	162	170	Baumwolle	B-bn:00023072n	https://babelnet.org/synset?word=bn:00023072n&lang=DE&langTrans=DE	1				0
+fließen	fließen	VERB	172	178	fließen	B-bn:00088349v	https://babelnet.org/synset?word=bn:00088349v&lang=DE&langTrans=DE	1				0
+40	40	NUM	180	181								0
+bis	bis	CONJ	183	185								0
+50	50	NUM	0	1								0
+Prozent	Prozent	NOUN	3	9	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	11	13								0
+bei	bei	ADP	15	17								0
+der	der	DET	19	21								0
+Wolle	wollen	NOUN	23	27	Wolle	B-bn:00081531n	https://babelnet.org/synset?word=bn:00081531n&lang=DE&langTrans=DE	1				0
+50	50	NUM	29	30								0
+bis	bis	CONJ	32	34								0
+60	60	NUM	36	37								0
+Prozent	Prozent	NOUN	39	45	Prozent	B-bn:00061135n	https://babelnet.org/synset?word=bn:00061135n&lang=DE&langTrans=DE	1				0
+ins	ins	ADP	0	2								0
+Ausland	Ausland	NOUN	4	10	Ausland	B-bn:00035825n	https://babelnet.org/synset?word=bn:00035825n&lang=DE&langTrans=DE	1				0
+1923	1923	NUM	12	15								0
+hat	haben	AUX	17	19								0
+die	der	DET	21	23								0
+Emmenbrücke	Emmenbrücke	NOUN	25	35						1		0
+in	in	ADP	37	38								0
+WidnauHeerbrugg	WidnauHeerbrugg	PROPN	40	54						1	1	1
+im	im	ADP	56	57								0
+Rheintal	Rheintal	PROPN	59	66						1		0
+eine	einen	DET	68	71								0
+Zweigsabrik	Zweigsabrik	NOUN	73	83						1	1	1
+eröffnet	eröffnen	VERB	0	7	eröffnet	B-bn:00091166v	https://babelnet.org/synset?word=bn:00091166v&lang=DE&langTrans=DE	1				0
+Inzwischen	Inzwischen	ADV	9	18	Inzwischen	B-bn:00047097n	https://babelnet.org/synset?word=bn:00047097n&lang=DE&langTrans=DE		1	1		0
+hatte	haben	AUX	20	24								0
+sich	sich	PRON	26	29								0
+auch	auch	ADV	31	34								0
+die	der	DET	36	38								0
+Feldmühle	Feldmühle	NOUN	40	48	Feldmühle	B-bn:05481929n	https://babelnet.org/synset?word=bn:05481929n&lang=DE&langTrans=DE		1	1		0
+Norschach	Norschach	PROPN	50	58						1		0
+auf	auf	ADP	60	62								0
+Kunstseide	Kunstseide	NOUN	64	73	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+umgestellt	umstellen	VERB	75	84								0
+Weitere	Weitere	ADJ	0	6								0
+Fabriken	Fabrik	NOUN	8	15	Fabriken	B-bn:00032675n	https://babelnet.org/synset?word=bn:00032675n&lang=DE&langTrans=DE	1				0
+befinden	befinden	VERB	17	24						1		0
+sich	sich	PRON	26	29								0
+in	in	ADP	31	32								0
+Arbon	Arbon	NOUN	34	38						1		0
+„	„	PUNCT	40	40								0
+Nova	Nova	PROPN	41	44	Nova	B-bn:00058195n	https://babelnet.org/synset?word=bn:00058195n&lang=DE&langTrans=DE		1	1		0
+SetaKupfer	SetaKupfer	NOUN	0	9						1	1	1
+und	und	CONJ	11	13								0
+Acetat	Acetat	NOUN	15	20	Acetat	B-bn:00000836n	https://babelnet.org/synset?word=bn:00000836n&lang=DE&langTrans=DE	1				0
+in	in	ADP	22	23								0
+Rheinfelden	Rheinfelden	NOUN	25	35	Rheinfelden	B-bn:00895669n	https://babelnet.org/synset?word=bn:00895669n&lang=DE&langTrans=DE	1				0
+Viscose	Viscose	NOUN	0	6	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+in	in	ADP	8	9								0
+Steckborn	Steckborn	PROPN	11	19						1		0
+Viscose	Viscose	PROPN	21	27	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+und	und	CONJ	29	31								0
+seit	seit	ADP	33	36								0
+1929	1929	NUM	38	41								0
+in	in	ADP	0	1								0
+Basel	Basel	PROPN	3	7						1		0
+Azetat	Azetat	NOUN	9	14	Azetat	B-bn:00000836n	https://babelnet.org/synset?word=bn:00000836n&lang=DE&langTrans=DE	1				0
+Das	der	DET	16	18								0
+ahr	ahr	ADP	20	22						1	1	1
+1932	1932	NUM	24	27								0
+brachte	bringen	VERB	29	35	brachte	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=DE		1	1		0
+einen	ein	PRON	37	41								0
+argen	arg	ADJ	0	4						1		0
+Rückschlag	Rückschlag	NOUN	6	15	Rückschlag	B-bn:00010894n	https://babelnet.org/synset?word=bn:00010894n&lang=DE&langTrans=DE	1				0
+1937	1937	NUM	17	20								0
+war	sein	AUX	22	24								0
+infolge	infolge	ADP	26	32								0
+der	der	DET	34	36								0
+Abwertung	Abwertung	NOUN	38	46	Abwertung	B-bn:00026686n	https://babelnet.org/synset?word=bn:00026686n&lang=DE&langTrans=DE	1				0
+ein	einen	DET	0	2								0
+Rekordjahr	Rekordjahr	NOUN	4	13						1		0
+1938	1938	NUM	15	18								0
+wird	werden	AUX	20	23								0
+wohl	wohl	ADV	25	28	wohl	B-bn:00116211r	https://babelnet.org/synset?word=bn:00116211r&lang=DE&langTrans=DE	1				0
+Einbußen	Einbuße	NOUN	30	37						1		0
+verzeichnen	verzeichnen	VERB	39	49						1		0
+In	In	ADP	51	52								0
+der	der	DET	54	56								0
+Schweiz	Schweiz	PROPN	58	64						1		0
+wurden	werden	AUX	66	71								0
+1936	1936	NUM	73	76								0
+an	an	ADP	78	79								0
+Viscose	Viscose	NOUN	81	87	Viscose	B-bn:00017063n	https://babelnet.org/synset?word=bn:00017063n&lang=DE&langTrans=DE	1				0
+1651000	1651000	NUM	0	6								0
+lg	lg	X	8	9						1	1	1
+1937	1937	NUM	11	14								0
+1806	1806	NUM	16	19	1806	B-bn:00049021n	https://babelnet.org/synset?word=bn:00049021n&lang=DE&langTrans=DE					0
+0	0	NUM	21	23								0
+kg	kg	X	25	26						1		0
+Aretat	Aretat	NOUN	28	33						1	1	1
+und	und	CONJ	35	37								0
+Kupferseide	Kupferseide	PROPN	0	10	Kupferseide	B-bn:02752962n	https://babelnet.org/synset?word=bn:02752962n&lang=DE&langTrans=DE	1				0
+1936	1936	NUM	12	15								0
+299	299	NUM	17	19								0
+0	0	NUM	21	23								0
+lg	lg	X	25	26						1	1	1
+und	und	CONJ	28	30								0
+1937	1937	NUM	32	35								0
+415	415	NUM	37	39								0
+0	0	NUM	41	43								0
+lg	lg	X	45	46						1	1	1
+verbraucht	verbrauchen	VERB	0	9	verbraucht	B-bn:00087859v	https://babelnet.org/synset?word=bn:00087859v&lang=DE&langTrans=DE	1				0
+Der	der	DET	11	13								0
+Totalkconsum	Totalkconsum	NOUN	15	26						1	1	1
+macht	machen	VERB	28	32						1		0
+für	für	ADP	34	36								0
+1936	1936	NUM	38	41								0
+3	3	NUM	0	0								0
+62	62	NUM	2	4								0
+0	0	NUM	6	8								0
+lg	lg	X	10	11						1	1	1
+und	und	CONJ	13	15								0
+für	für	ADP	17	19								0
+1937	1937	NUM	21	24								0
+3	3	NUM	26	26								0
+526	526	NUM	28	30								0
+0	0	NUM	32	34								0
+lg	lg	X	36	37						1	1	1
+aus	aus	PART	39	41								0
+Den	der	DET	0	2								0
+Siegeszug	Siegeszug	NOUN	4	12						1		0
+der	der	DET	14	16								0
+Kunstseide	Kunstseide	NOUN	18	27	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+darf	dürfen	VERB	29	32	darf	B-bn:13644876v	https://babelnet.org/synset?word=bn:13644876v&lang=DE&langTrans=DE	1				0
+man	man	PRON	34	36								0
+wesentlich	wesentlich	ADJ	38	47	wesentlich	B-bn:00111396a	https://babelnet.org/synset?word=bn:00111396a&lang=DE&langTrans=DE	1				0
+dem	der	DET	49	51								0
+Umstande	Umstand	NOUN	53	60						1		0
+zuschreiben	zuschreiben	VERB	62	72						1		0
+daß	daß	SCONJ	74	76								0
+sie	ich	PRON	78	80								0
+breitesten	breit	VERB	82	91	breitesten	B-bn:00098887a	https://babelnet.org/synset?word=bn:00098887a&lang=DE&langTrans=DE	1				0
+Kreisen	Kreis	NOUN	0	6	Kreisen	B-bn:00019169n	https://babelnet.org/synset?word=bn:00019169n&lang=DE&langTrans=DE		1	1		0
+die	der	DET	8	10								0
+Möglichkeit	Möglichkeit	NOUN	12	22	Möglichkeit	B-bn:00045632n	https://babelnet.org/synset?word=bn:00045632n&lang=DE&langTrans=DE		1	1		0
+gibt	geben	VERB	24	27	gibt	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=DE&langTrans=DE	1				0
+sich	sich	PRON	29	32								0
+geschmackvoll	geschmackvoll	VERB	34	46						1		0
+und	und	CONJ	0	2								0
+lestlich	lestlich	ADJ	4	11						1	1	1
+zu	zu	PART	13	14								0
+kleiden	kleiden	VERB	16	22	kleiden	B-bn:00087291v	https://babelnet.org/synset?word=bn:00087291v&lang=DE&langTrans=DE	1				0
+und	und	CONJ	24	26								0
+„	„	PUNCT	28	28								0
+unterzukleiden	unterzukleiden	VERB	29	42						1		0
+scidene	scidene	ADJ	0	6						1	1	1
+Kleider	Kleid	NOUN	8	14	Kleider	B-bn:00028682n	https://babelnet.org/synset?word=bn:00028682n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	16	18								0
+Wäsche	Wäsche	NOUN	20	25	Wäsche	B-bn:00050216n	https://babelnet.org/synset?word=bn:00050216n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	27	30								0
+nicht	nicht	PART	32	36								0
+mehr	mehr	ADV	38	41	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=DE		1			0
+das	der	PRON	43	45								0
+Monopol	Monopol	VERB	0	6	Monopol	B-bn:00055743n	https://babelnet.org/synset?word=bn:00055743n&lang=DE&langTrans=DE	1				0
+einer	einer	DET	8	12								0
+dünnen	dünn	ADJ	14	19	dünnen	B-bn:00111843a	https://babelnet.org/synset?word=bn:00111843a&lang=DE&langTrans=DE	1				0
+Oberschicht	Oberschicht	NOUN	21	31	Oberschicht	B-bn:00030376n	https://babelnet.org/synset?word=bn:00030376n&lang=DE&langTrans=DE	1				0
+Oberst	Oberst	PROPN	33	38	Oberst	B-bn:00020706n	https://babelnet.org/synset?word=bn:00020706n&lang=DE&langTrans=DE		1	1		0
+Stehli	Stehli	PROPN	40	45						1		0
+schloß	schließen	VERB	0	5								0
+sein	mein	DET	7	10								0
+wehmütiges	wehmütig	ADJ	12	21						1		0
+aber	aber	ADV	23	26								0
+nicht	nicht	PART	28	32								0
+übelwollendes	übelwollendes	ADJ	34	46						1		0
+Diskussionsvotum	Diskussionsvotum	NOUN	0	15						1		0
+zum	zum	ADP	17	19								0
+Erfolg	erfolgen	NOUN	21	26	Erfolg	B-bn:00075023n	https://babelnet.org/synset?word=bn:00075023n&lang=DE&langTrans=DE	1				0
+der	der	DET	28	30								0
+Kunstseide	Kunstseide	NOUN	32	41	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+mit	mit	PART	43	45								0
+dem	der	DET	0	2								0
+Stoßseufzer	Stoßseufzer	NOUN	4	14	Stoßseufzer	B-bn:08459551n	https://babelnet.org/synset?word=bn:08459551n&lang=DE&langTrans=DE		1	1		0
+es	ich	PRON	16	17								0
+könne	können	VERB	19	23								0
+„	„	PUNCT	25	25								0
+einem	einer	DET	26	30								0
+alten	alt	ADJ	32	36	alten	B-bn:00107787a	https://babelnet.org/synset?word=bn:00107787a&lang=DE&langTrans=DE	1				0
+Seidenfabrikanten	Seidenfabrikanten	NOUN	38	54						1		0
+in	in	ADP	56	57								0
+der	der	DET	59	61								0
+Seele	Seele	NOUN	63	67	Seele	B-bn:00072886n	https://babelnet.org/synset?word=bn:00072886n&lang=DE&langTrans=DE	1				0
+weh	weh	ADV	69	71						1		0
+tun	tun	VERB	73	75	tun	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=DE&langTrans=DE		1	1		0
+wenn	wenn	SCONJ	77	80								0
+er	ich	PRON	82	83								0
+sehe	sehen	VERB	85	88	sehe	B-bn:00093430v	https://babelnet.org/synset?word=bn:00093430v&lang=DE&langTrans=DE	1				0
+was	was	PRON	0	2								0
+für	für	ADP	4	6								0
+schöne	schöne	ADJ	8	13	schöne	B-bn:00098286a	https://babelnet.org/synset?word=bn:00098286a&lang=DE&langTrans=DE	1				0
+Sachen	Sache	NOUN	15	20	Sachen	B-bn:00076924n	https://babelnet.org/synset?word=bn:00076924n&lang=DE&langTrans=DE	1				0
+die	der	DET	22	24								0
+Kunstseidenindustrie	Kunstseidenindustrie	NOUN	26	45						1		0
+fertig	fertigen	ADJ	47	52						1		0
+bringe	bringen	VERB	54	59	bringe	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=DE		1	1		0
+Immerhin	Immerhin	ADV	61	68								0
+komme	kommen	VERB	70	74	komme	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=DE	1				0
+beim	beim	ADP	76	79								0
+Färben	Färben	NOUN	81	86	Färben	B-bn:00029282n	https://babelnet.org/synset?word=bn:00029282n&lang=DE&langTrans=DE	1				0
+noch	noch	ADV	88	91								0
+allerhand	allerhand	PRON	0	8								0
+an	an	ADP	10	11								0
+den	der	DET	13	15								0
+Tag	tagen	NOUN	17	19	Tag	B-bn:00000086n	https://babelnet.org/synset?word=bn:00000086n&lang=DE&langTrans=DE		1	1		0
+Dr	Dr	PROPN	21	22	Dr	B-bn:00027995n	https://babelnet.org/synset?word=bn:00027995n&lang=DE&langTrans=DE		1	1		0
+Dürsteler	Dürsteler	PROPN	24	32						1		0
+entkräftete	entkräften	VERB	34	44	entkräftete	B-bn:00092473v	https://babelnet.org/synset?word=bn:00092473v&lang=DE&langTrans=DE	1				0
+diesen	dies	DET	46	51								0
+Trost	Trost	NOUN	53	57	Trost	B-bn:00020542n	https://babelnet.org/synset?word=bn:00020542n&lang=DE&langTrans=DE	1				0
+indem	indem	SCONJ	59	63								0
+er	ich	PRON	65	66								0
+in	in	ADP	68	69								0
+seinem	mein	DET	71	76								0
+Schlußwort	Schlußwort	NOUN	78	87						1		0
+beifügte	beifügen	VERB	0	7						1		0
+auch	auch	ADV	9	12								0
+dem	der	DET	14	16								0
+Seidenfärber	Seidenfärber	NOUN	18	29						1		0
+könne	können	VERB	31	35								0
+es	ich	PRON	37	38								0
+in	in	ADP	40	41								0
+der	der	DET	43	45								0
+Seele	Seele	NOUN	0	4	Seele	B-bn:00065006n	https://babelnet.org/synset?word=bn:00065006n&lang=DE&langTrans=DE	1				0
+weh	weh	ADV	6	8						1		0
+tun	tun	VERB	10	12	tun	B-bn:00087107v	https://babelnet.org/synset?word=bn:00087107v&lang=DE&langTrans=DE		1	1		0
+wenn	wenn	SCONJ	14	17								0
+er	ich	PRON	19	20								0
+sche	sche	ADJ	22	25						1	1	1
+welche	welch	DET	27	32								0
+Fortschritte	Fortschritt	NOUN	34	45	Fortschritte	B-bn:00001548n	https://babelnet.org/synset?word=bn:00001548n&lang=DE&langTrans=DE	1				0
+sogar	sogar	ADV	0	4								0
+im	im	ADP	6	7								0
+Färben	Färben	NOUN	9	14	Färben	B-bn:00029282n	https://babelnet.org/synset?word=bn:00029282n&lang=DE&langTrans=DE	1				0
+der	der	DET	16	18								0
+Kunstseide	Kunstseide	NOUN	20	29	Kunstseide	B-bn:00066318n	https://babelnet.org/synset?word=bn:00066318n&lang=DE&langTrans=DE	1				0
+erzielt	erzielen	VERB	31	37	erzielt	B-bn:00089351v	https://babelnet.org/synset?word=bn:00089351v&lang=DE&langTrans=DE	1				0
+worden	werden	AUX	39	44								0
+N	N	X	0	0								0
+B	B	X	2	2								0
+Einige	einigen	DET	4	9								0
+wissenschaktliche	wissenschaktliche	ADJ	11	27						1	1	1
+Begriffe	Begriff	NOUN	29	36	Begriffe	B-bn:00058174n	https://babelnet.org/synset?word=bn:00058174n&lang=DE&langTrans=DE		1	1		0
+und	und	CONJ	38	40								0
+Präzisierungen	Präzisierungen	NOUN	42	55						1		0
+dieses	dies	DET	57	62								0
+Berichtes	Bericht	NOUN	64	72	Berichtes	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=DE&langTrans=DE	1				0
+sind	sein	AUX	74	77								0
+der	der	DET	79	81								0
+schönen	schön	ADJ	83	89	schönen	B-bn:00098286a	https://babelnet.org/synset?word=bn:00098286a&lang=DE&langTrans=DE	1				0
+Monographie	Monographie	NOUN	91	101	Monographie	B-bn:00055716n	https://babelnet.org/synset?word=bn:00055716n&lang=DE&langTrans=DE	1				0
+entnommen	entnehmen	VERB	103	111	entnommen	B-bn:00087243v	https://babelnet.org/synset?word=bn:00087243v&lang=DE&langTrans=DE		1	1		0
+die	der	DET	113	115								0
+Prof	Prof	PROPN	117	120	Prof	B-bn:00064601n	https://babelnet.org/synset?word=bn:00064601n&lang=DE&langTrans=DE		1	1		0
+Dr	Dr	X	122	123	Dr	B-bn:00027995n	https://babelnet.org/synset?word=bn:00027995n&lang=DE&langTrans=DE		1	1		0
+H	H	X	125	125						1		0
+Ed	Ed	PROPN	127	128	Ed	B-bn:03875751n	https://babelnet.org/synset?word=bn:03875751n&lang=DE&langTrans=DE		1	1		0
+Fierz	Fierz	NOUN	130	134						1		0
+E	E	X	0	0						1		0
+TH	TH	PROPN	2	3	TH	B-bn:00028009n	https://babelnet.org/synset?word=bn:00028009n&lang=DE&langTrans=DE		1	1		0
+Zürich	Zürich	PROPN	5	10						1		0
+der	der	DET	12	14								0
+Runstseide	Runstseide	NOUN	16	25						1	1	1
+gewidmet	widmen	VERB	27	34	gewidmet	B-bn:00085427v	https://babelnet.org/synset?word=bn:00085427v&lang=DE&langTrans=DE	1				0
+hat	haben	AUX	36	38								0
+Verlag	Verlag	NOUN	0	5	Verlag	B-bn:00065111n	https://babelnet.org/synset?word=bn:00065111n&lang=DE&langTrans=DE	1				0
+Gebr	Gebr	PROPN	7	10						1		0
+Fretx	Fretx	PROPN	12	16						1		0
+Zürich	Zürich	PROPN	18	23	Zürich	B-bn:00082104n	https://babelnet.org/synset?word=bn:00082104n&lang=DE&langTrans=DE	1				0
+1930	1930	NUM	25	28								0
+												
+												
+							TOTAL	396.00	184.00	601.00	128.00	125.00
+								Precision	68.28%		Korrelation	20.80%
+								Recall	39.72%			
+								F-Mass	50.22%			

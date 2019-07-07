@@ -1,0 +1,1373 @@
+token	lemma	pos	onset	offset	entity	babelfy_id (iob)	link	TP	FP	FN	OCR
+Der	der	DET	0	2							
+Weltkrieg	Weltkrieg	NOUN	4	12	Weltkrieg	B-bn:00081630n	https://babelnet.org/synset?word=bn:00081630n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	13	13							
+Deutsch-französischer	Deutsch-französischer	ADJ	15	35						1	
+Kriegsschanplatz	Kriegsschanplatz	NOUN	37	52						1	1
+Berlin	Berlin	PROPN	54	59	Berlin	B-bn:00010025n	https://babelnet.org/synset?word=bn:00010025n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	60	60							
+9	9	ADJ	62	62							
+.	.	ADJ	63	63							
+Sept.	September	NOUN	65	69						1	
+(	(	PUNCT	71	71							
+Wolff	Wolff	PROPN	72	76							
+.	.	PUNCT	77	77							
+Amtlich	Amtlich	ADJ	79	85							
+.	.	PUNCT	86	86							
+)	)	PUNCT	87	87							
+Großes	Großes	NOUN	89	94	Großes	B-bn:16896588n	https://babelnet.org/synset?word=bn:16896588n&lang=DE&langTrans=EN	1			
+Hauptquartier	Hauptquartier	PROPN	96	108	Hauptquartier	I-bn:16896588n	https://babelnet.org/synset?word=bn:16896588n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	109	109							
+Oertliche	Oertliche	ADJ	111	119						1	
+Kämpfe	kämpfen	NOUN	121	126	Kämpfe	B-bn:00005731n	https://babelnet.org/synset?word=bn:00005731n&lang=DE&langTrans=EN	1			
+nördlich	nördlich	ADJ	128	135						1	
+vom	vom	ADP	137	139							
+Ploegsteertwalde	Ploegsteertwalde	PROPN	141	156						1	
+und	und	CONJ	158	160							
+am	am	ADP	162	163							
+La	La	PROPN	165	166							
+Basséekanal	Basséekanal	PROPN	168	178						1	
+.	.	PUNCT	179	179							
+Nördlich	Nördlich	PROPN	181	188	Nördlich	B-bn:00029051n	https://babelnet.org/synset?word=bn:00029051n&lang=DE&langTrans=EN	1			
+von	von	ADP	190	192							
+Armentières	Armentières	PROPN	194	204	Armentières	B-bn:00185011n	https://babelnet.org/synset?word=bn:00185011n&lang=DE&langTrans=EN	1			
+griff	griff	VERB	206	210	griff	B-bn:00088996v	https://babelnet.org/synset?word=bn:00088996v&lang=DE&langTrans=EN		1	1	
+der	der	DET	212	214							
+Feind	Feind	NOUN	216	220	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+von	von	ADP	222	224							
+neuem	neu	PROPN	226	230							
+an	an	PART	232	233							
+.	.	PUNCT	234	234							
+Wir	ich	PRON	236	238							
+wiesen	weisen	VERB	240	245							
+ihn	ich	PRON	247	249							
+ab	ab	PART	251	252							
+und	und	CONJ	254	256							
+machten	machen	VERB	258	264							
+Gefangene	Gefangene	NOUN	266	274	Gefangene	B-bn:00015767n	https://babelnet.org/synset?word=bn:00015767n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	275	275							
+Im	Im	ADP	277	278							
+Kanalabschnitt	Kanalabschnitt	NOUN	280	293							
+von	von	ADP	295	297							
+Gleux-Haprincourt	Gleux-Haprincourt	NOUN	299	315						1	
+Artillerietätigkeit	Artillerietätigkeit	NOUN	317	335						1	
+und	und	CONJ	337	339							
+Erkundungsgefechte	Erkundungsgefechte	NOUN	341	358						1	
+.	.	PUNCT	359	359							
+Südlich	Südlich	ADJ	361	367	Südlich	B-bn:00072994n	https://babelnet.org/synset?word=bn:00072994n&lang=DE&langTrans=EN		1	1	
+der	der	DET	369	371							
+Straße	Straße	NOUN	373	378	Straße	B-bn:00067975n	https://babelnet.org/synset?word=bn:00067975n&lang=DE&langTrans=EN	1			
+PéronneCambrai	PéronneCambrai	PROPN	380	393							
+setzte	setzen	VERB	395	400	setzte	B-bn:00093013v	https://babelnet.org/synset?word=bn:00093013v&lang=DE&langTrans=EN		1	1	
+der	der	DET	402	404							
+Feind	Feind	NOUN	406	410	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+seine	mein	DET	412	416							
+Angriffe	Angriff	NOUN	418	425	Angriffe	B-bn:00006994n	https://babelnet.org/synset?word=bn:00006994n&lang=DE&langTrans=EN	1			
+unter	unter	ADP	427	431							
+Einsatz	Einsatz	NOUN	433	439	Einsatz	B-bn:00026366n	https://babelnet.org/synset?word=bn:00026366n&lang=DE&langTrans=EN	1			
+starker	stark	ADJ	441	447	starker	B-bn:00111312a	https://babelnet.org/synset?word=bn:00111312a&lang=DE&langTrans=EN	1			
+Kräfte	Kraft	NOUN	449	454	Kräfte	B-bn:00035768n	https://babelnet.org/synset?word=bn:00035768n&lang=DE&langTrans=EN		1	1	
+gegen	gegen	ADP	456	460							
+die	der	DET	462	464							
+Linie	Linie	NOUN	466	470	Linie	B-bn:00051290n	https://babelnet.org/synset?word=bn:00051290n&lang=DE&langTrans=EN	1			
+Goureaucourt-Epehy	Goureaucourt-Epehy	PROPN	472	489						1	
+nördlich	nördlich	ADJ	491	498	nördlich	B-bn:00116373r	https://babelnet.org/synset?word=bn:00116373r&lang=DE&langTrans=EN	1			
+von	von	ADP	500	502							
+Templeux	Templeux	PROPN	504	511						1	
+fort	fort	PART	513	516							
+.	.	PUNCT	517	517							
+Sie	ich	PRON	519	521							
+scheiterten	scheitern	VERB	523	533	scheiterten	B-bn:00087967v	https://babelnet.org/synset?word=bn:00087967v&lang=DE&langTrans=EN	1			
+unter	unter	ADP	535	539							
+schweren	schwer	ADJ	541	548	schweren	B-bn:00104052a	https://babelnet.org/synset?word=bn:00104052a&lang=DE&langTrans=EN		1	1	
+Verlusten	Verlust	NOUN	550	558	Verlusten	B-bn:00052050n	https://babelnet.org/synset?word=bn:00052050n&lang=DE&langTrans=EN	1			
+für	für	ADP	560	562							
+den	der	DET	564	566							
+Gegner	Gegner	NOUN	568	573	Gegner	B-bn:00001582n	https://babelnet.org/synset?word=bn:00001582n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	574	574							
+Unsere	mein	DET	576	581							
+Vortruppen	Vortruppen	NOUN	583	592						1	
+verwehrten	verwehren	VERB	594	603							
+gestern	gestern	ADV	605	611	gestern	B-bn:00117652r	https://babelnet.org/synset?word=bn:00117652r&lang=DE&langTrans=EN	1			
+überlegenem	überlegen	ADJ	613	623	überlegenem	B-bn:00111465a	https://babelnet.org/synset?word=bn:00111465a&lang=DE&langTrans=EN	1			
+Feinde	feinden	NOUN	625	630	Feinde	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+das	der	DET	632	634							
+Vordringen	Vordringen	NOUN	636	645							
+über	über	ADP	647	650							
+St.	St.	PROPN	652	654	St.	B-bn:16805283n	https://babelnet.org/synset?word=bn:16805283n&lang=DE&langTrans=EN	1			
+Simon	Simon	PROPN	656	660						1	
+und	und	CONJ	662	664							
+den	der	DET	666	668							
+Crozatkanal	Crozatkanal	NOUN	670	680						1	
+.	.	PUNCT	681	681							
+Erkundungsgefechte	Erkundungsgefechte	NOUN	683	700						1	
+zwischen	zwischen	ADP	702	709							
+Oise	Oise	NOUN	711	714						1	
+und	und	CONJ	716	718							
+Ailette	Ailette	NOUN	720	726	Ailette	B-bn:01748214n	https://babelnet.org/synset?word=bn:01748214n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	727	727							
+Zwischen	Zwischen	ADP	729	736							
+Ailette	Ailette	PROPN	738	744	Ailette	B-bn:01748214n	https://babelnet.org/synset?word=bn:01748214n&lang=DE&langTrans=EN	1			
+und	und	CONJ	746	748							
+Aisne	Aisne	PROPN	750	754						1	
+brach	brechen	VERB	756	760	brach	B-bn:00083901v	https://babelnet.org/synset?word=bn:00083901v&lang=DE&langTrans=EN		1		
+der	der	DET	762	764							
+Feind	Feind	NOUN	766	770	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+nach	nach	ADP	772	775							
+mehrfach	mehrfach	ADJ	777	784	mehrfach	B-bn:00108712a	https://babelnet.org/synset?word=bn:00108712a&lang=DE&langTrans=EN	1			
+vergeblichen	vergeblich	ADJ	786	797	vergeblichen	B-bn:00103448a	https://babelnet.org/synset?word=bn:00103448a&lang=DE&langTrans=EN	1			
+Teilangriffen	Teilangriffen	NOUN	799	811						1	
+gegen	gegen	ADP	813	817							
+Abend	Abend	NOUN	819	823	Abend	B-bn:00031998n	https://babelnet.org/synset?word=bn:00031998n&lang=DE&langTrans=EN	1			
+zu	zu	ADP	825	826							
+geschlossenem	geschlossen	ADJ	828	840	geschlossenem	B-bn:00110898a	https://babelnet.org/synset?word=bn:00110898a&lang=DE&langTrans=EN	1			
+Angriff	Angriff	NOUN	842	848	Angriff	B-bn:00006994n	https://babelnet.org/synset?word=bn:00006994n&lang=DE&langTrans=EN	1			
+vor	vor	PART	850	852							
+.	.	PUNCT	853	853							
+Er	ich	PRON	855	856							
+wurde	werden	AUX	858	862							
+auf	auf	ADP	864	866							
+der	der	DET	868	870							
+ganzen	ganz	ADJ	872	877	ganzen	B-bn:00102277a	https://babelnet.org/synset?word=bn:00102277a&lang=DE&langTrans=EN	1			
+Front	Front	NOUN	879	883	Front	B-bn:00009184n	https://babelnet.org/synset?word=bn:00009184n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	884	884							
+teilweise	teilweise	ADV	886	894	teilweise	B-bn:00116535r	https://babelnet.org/synset?word=bn:00116535r&lang=DE&langTrans=EN	1			
+in	in	ADP	896	897							
+Nahkämpfen	Nahkampf	NOUN	899	908	Nahkämpfen	B-bn:00709282n	https://babelnet.org/synset?word=bn:00709282n&lang=DE&langTrans=EN	1			
+und	und	CONJ	910	912							
+durch	durch	ADP	914	918							
+Gegenstoß	Gegenstoß	NOUN	920	928						1	
+,	,	PUNCT	929	929							
+blutig	blutig	ADJ	931	936	blutig	B-bn:00098590a	https://babelnet.org/synset?word=bn:00098590a&lang=DE&langTrans=EN	1			
+abgewiesen	abweisen	VERB	938	947							
+.	.	PUNCT	948	948							
+Zwischen	Zwischen	ADP	950	957							
+Aisne	Aisne	PROPN	959	963						1	
+und	und	CONJ	965	967							
+Vesle	Vesle	NOUN	969	973	Vesle	B-bn:02219006n	https://babelnet.org/synset?word=bn:02219006n&lang=DE&langTrans=EN	1			
+scheiterten	scheitern	ADJ	975	985	scheiterten	B-bn:00087967v	https://babelnet.org/synset?word=bn:00087967v&lang=DE&langTrans=EN	1			
+Teilangriffe	Teilangriffe	NOUN	987	998						1	
+.	.	PUNCT	999	999							
+In	In	ADP	1001	1002							
+der	der	DET	1004	1006							
+Champagne	Champagne	PROPN	1008	1016						1	
+Teilvorstöße	Teilvorstöße	NOUN	1018	1029						1	
+des	der	DET	1031	1033							
+Gegners	Gegner	NOUN	1035	1041	Gegners	B-bn:00001582n	https://babelnet.org/synset?word=bn:00001582n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	1042	1042							
+Aus	Aus	ADP	1044	1046							
+einem	einer	DET	1048	1052							
+englischen	englisch	ADJ	1054	1063	englischen	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Geschwader	Geschwader	NOUN	1065	1074	Geschwader	B-bn:03139712n	https://babelnet.org/synset?word=bn:03139712n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	1075	1075							
+das	der	DET	1077	1079							
+zum	zum	ADP	1081	1083							
+Angriff	Angriff	NOUN	1085	1091	Angriff	B-bn:00006994n	https://babelnet.org/synset?word=bn:00006994n&lang=DE&langTrans=EN	1			
+auf	auf	ADP	1093	1095							
+Mannheim	Mannheim	PROPN	1097	1104	Mannheim	B-bn:00053243n	https://babelnet.org/synset?word=bn:00053243n&lang=DE&langTrans=EN	1			
+vorstieß	vorstoßen	VERB	1106	1113							
+,	,	PUNCT	1114	1114							
+vurden	vurden	ADJ	1116	1121							
+fünf	fünf	NUM	1123	1126							
+Flugzeuge	Flugzeug	NOUN	1128	1136	Flugzeuge	B-bn:00001697n	https://babelnet.org/synset?word=bn:00001697n&lang=DE&langTrans=EN	1			
+abgeschossen	abschießen	VERB	1138	1149							
+.	.	PUNCT	1150	1150							
+Im	Im	ADP	1152	1153							
+August	August	NOUN	1155	1160	August	B-bn:00007140n	https://babelnet.org/synset?word=bn:00007140n&lang=DE&langTrans=EN	1			
+wurden	werden	AUX	1162	1167							
+an	an	ADP	1169	1170							
+den	der	DET	1172	1174							
+deutschen	deutsch	ADJ	1176	1184	deutschen	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Fronten	Front	NOUN	1186	1192	Fronten	B-bn:00009184n	https://babelnet.org/synset?word=bn:00009184n&lang=DE&langTrans=EN	1			
+565	565	NUM	1194	1196							
+feindliche	feindlich	ADJ	1198	1207	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Flugzeuge	Flugzeug	NOUN	1209	1217	Flugzeuge	B-bn:00001697n	https://babelnet.org/synset?word=bn:00001697n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	1218	1218							
+davon	davon	ADV	1220	1224	davon	B-bn:00114455r	https://babelnet.org/synset?word=bn:00114455r&lang=DE&langTrans=EN		1		
+62	62	NUM	1226	1227							
+durch	durch	ADP	1229	1233							
+unsere	mein	DET	1235	1240							
+Flugzeugabwehrgeschütze	Flugzeugabwehrgeschütze	NOUN	1242	1264						1	
+,	,	PUNCT	1265	1265							
+und	und	CONJ	1267	1269							
+53	53	NUM	1271	1272							
+Fesselballone	Fesselballone	NOUN	1274	1286	Fesselballone	B-bn:03851171n	https://babelnet.org/synset?word=bn:03851171n&lang=DE&langTrans=EN	1			
+abgeschossen	abschießen	VERB	1288	1299							
+.	.	PUNCT	1300	1300							
+Hiervon	Hiervon	ADV	1302	1308							
+sind	sein	AUX	1310	1313							
+252	252	NUM	1315	1317							
+Flugzeuge	Flugzeug	NOUN	1319	1327	Flugzeuge	B-bn:00001697n	https://babelnet.org/synset?word=bn:00001697n&lang=DE&langTrans=EN	1			
+in	in	ADP	1329	1330							
+unserm	unserm	DET	1332	1337							
+Besitz	Besitz	NOUN	1339	1344	Besitz	B-bn:00059958n	https://babelnet.org/synset?word=bn:00059958n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	1345	1345							
+Der	der	DET	1347	1349							
+Rest	Rest	NOUN	1351	1354	Rest	B-bn:00008047n	https://babelnet.org/synset?word=bn:00008047n&lang=DE&langTrans=EN	1			
+ist	sein	AUX	1356	1358							
+jenseits	jenseits	ADP	1360	1367							
+der	der	DET	1369	1371							
+feindlichen	feindlich	ADJ	1373	1383	feindlichen	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Linien	Linie	PROPN	1385	1390	Linien	B-bn:00051290n	https://babelnet.org/synset?word=bn:00051290n&lang=DE&langTrans=EN	1			
+erkennbar	erkennbar	ADJ	1392	1400	erkennbar	B-bn:00104510a	https://babelnet.org/synset?word=bn:00104510a&lang=DE&langTrans=EN	1			
+abgestürzt	abstürzen	VERB	1402	1411							
+.	.	PUNCT	1412	1412							
+Wir	ich	PRON	1414	1416							
+haben	haben	AUX	1418	1422	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+im	im	ADP	1424	1425							
+Kampfe	Kampf	NOUN	1427	1432	Kampfe	B-bn:00005731n	https://babelnet.org/synset?word=bn:00005731n&lang=DE&langTrans=EN	1			
+143	143	NUM	1434	1436							
+Flugzeuge	Flugzeug	NOUN	1438	1446	Flugzeuge	B-bn:00001697n	https://babelnet.org/synset?word=bn:00001697n&lang=DE&langTrans=EN	1			
+und	und	CONJ	1448	1450							
+86	86	NUM	1452	1453							
+,	,	PUNCT	1454	1454							
+also	also	ADV	1456	1459							
+mehr	mehr	PRON	1461	1464	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=EN	1			
+als	als	CONJ	1466	1468							
+die	der	DET	1470	1472							
+Gegner	Gegner	NOUN	1474	1479	Gegner	B-bn:00001582n	https://babelnet.org/synset?word=bn:00001582n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	1480	1480							
+Fesselballone	Fesselballone	NOUN	1482	1494	Fesselballone	B-bn:03851171n	https://babelnet.org/synset?word=bn:03851171n&lang=DE&langTrans=EN	1			
+verloren	verlieren	VERB	1496	1503							
+.	.	PUNCT	1504	1504							
+Paris	Paris	PROPN	1506	1510	Paris	B-bn:00015540n	https://babelnet.org/synset?word=bn:00015540n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	1511	1511							
+9	9	ADJ	1513	1513							
+.	.	ADJ	1514	1514							
+Sept.	September	NOUN	1516	1520						1	
+(	(	PUNCT	1522	1522							
+Havas	Havas	PROPN	1523	1527	Havas	B-bn:03224612n	https://babelnet.org/synset?word=bn:03224612n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	1528	1528							
+Amtlich	Amtlich	ADJ	1530	1536							
+.	.	PUNCT	1537	1537							
+)	)	PUNCT	1538	1538							
+3	3	NUM	1540	1540							
+Uhr	Uhr	NOUN	1542	1544	Uhr	B-bn:00019887n	https://babelnet.org/synset?word=bn:00019887n&lang=DE&langTrans=EN		1	1	
+nachmittags	nachmittags	ADV	1546	1556	nachmittags	B-bn:00116519r	https://babelnet.org/synset?word=bn:00116519r&lang=DE&langTrans=EN	1			
+.	.	PUNCT	1557	1557							
+Nördlich	Nördlich	ADJ	1559	1566	Nördlich	B-bn:00029051n	https://babelnet.org/synset?word=bn:00029051n&lang=DE&langTrans=EN	1			
+der	der	DET	1568	1570							
+Somme	Somme	NOUN	1572	1576	Somme	B-bn:00009164n	https://babelnet.org/synset?word=bn:00009164n&lang=DE&langTrans=EN	1			
+erweiterten	erweitern	VERB	1578	1588	erweiterten	B-bn:00084121v	https://babelnet.org/synset?word=bn:00084121v&lang=DE&langTrans=EN	1			
+wir	ich	PRON	1590	1592							
+unser	sich	DET	1594	1598							
+Vorrücken	Vorrücken	NOUN	1600	1608	Vorrücken	B-bn:03447942n	https://babelnet.org/synset?word=bn:03447942n&lang=DE&langTrans=EN		1		
+östlich	östlich	ADJ	1610	1616	östlich	B-bn:00101967a	https://babelnet.org/synset?word=bn:00101967a&lang=DE&langTrans=EN	1			
+von	von	ADP	1618	1620							
+Avaisnes	Avaisnes	PROPN	1622	1629						1	
+in	in	ADP	1631	1632							
+der	der	DET	1634	1636							
+Richtung	Richtung	NOUN	1638	1645	Richtung	B-bn:00027353n	https://babelnet.org/synset?word=bn:00027353n&lang=DE&langTrans=EN	1			
+auf	auf	ADP	1647	1649							
+Clastres	Clastres	NOUN	1651	1658	Clastres	B-bn:00758921n	https://babelnet.org/synset?word=bn:00758921n&lang=DE&langTrans=EN	1			
+und	und	CONJ	1660	1662							
+besetzten	besetzen	VERB	1664	1672	besetzten	B-bn:00099061a	https://babelnet.org/synset?word=bn:00099061a&lang=DE&langTrans=EN		1		
+namentlich	namentlich	ADV	1674	1683							
+das	der	DET	1685	1687							
+Lamottegehöft	Lamottegehöft	NOUN	1689	1701						1	
+.	.	PUNCT	1702	1702							
+Unsere	mein	DET	1704	1709							
+Abteilungen	Abteilung	NOUN	1711	1721	Abteilungen	B-bn:00026308n	https://babelnet.org/synset?word=bn:00026308n&lang=DE&langTrans=EN	1			
+überquerten	überquert	VERB	1723	1733	überquerten	B-bn:00085906v	https://babelnet.org/synset?word=bn:00085906v&lang=DE&langTrans=EN	1			
+den	der	DET	1735	1737							
+Crozatkanal	Crozatkanal	NOUN	1739	1749						1	
+gegenüber	gegenüber	ADP	1751	1759							
+von	von	ADP	1761	1763							
+Liez	Liez	NOUN	1765	1768						1	
+.	.	PUNCT	1769	1769							
+Zwischen	Zwischen	ADP	1771	1778							
+Oise	Oise	NOUN	1780	1783							1
+und	und	CONJ	1785	1787							
+Aisne	Aisne	NOUN	1789	1793							
+war	sein	AUX	1795	1797							1
+die	der	DET	1799	1801							
+Nacht	Nacht	NOUN	1803	1807	Nacht	B-bn:00025236n	https://babelnet.org/synset?word=bn:00025236n&lang=DE&langTrans=EN	1			
+durch	durch	ADP	1809	1813							
+heftige	heftig	ADJ	1815	1821	heftige	B-bn:00102943a	https://babelnet.org/synset?word=bn:00102943a&lang=DE&langTrans=EN		1		
+feindliche	feindlich	ADJ	1823	1832	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Artillerieund	Artillerieund	NOUN	1834	1846							
+Infanteriegegenwirkung	Infanteriegegenwirkung	NOUN	1848	1869							
+gekennzeichnet	kennzeichnen	VERB	1871	1884							
+.	.	PUNCT	1885	1885							
+Zwei	Zwei	NUM	1887	1890							
+starke	starke	ADJ	1892	1897	starke	B-bn:00111312a	https://babelnet.org/synset?word=bn:00111312a&lang=DE&langTrans=EN	1			
+deutsche	deutsch	ADJ	1899	1906	deutsche	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Angriffe	Angriff	NOUN	1908	1915	Angriffe	B-bn:00006994n	https://babelnet.org/synset?word=bn:00006994n&lang=DE&langTrans=EN	1			
+in	in	ADP	1917	1918							
+der	der	DET	1920	1922							
+Gegend	Gegend	NOUN	1924	1929	Gegend	B-bn:15243038n	https://babelnet.org/synset?word=bn:15243038n&lang=DE&langTrans=EN	1			
+von	von	ADP	1931	1933							
+Laffaux	Laffaux	PROPN	1935	1941	Laffaux	B-bn:00759119n	https://babelnet.org/synset?word=bn:00759119n&lang=DE&langTrans=EN	1			
+wurden	werden	AUX	1943	1948							
+abgewiesen	abweisen	VERB	1950	1959							
+,	,	PUNCT	1960	1960							
+wobei	wobei	ADV	1962	1966							
+80	80	NUM	1968	1969							
+Gefangene	Gefangene	NOUN	1971	1979	Gefangene	B-bn:00015767n	https://babelnet.org/synset?word=bn:00015767n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	1980	1980							
+die	der	PRON	1982	1984							
+fünf	fünf	NUM	1986	1989							
+verschiedenen	verschieden	ADJ	1991	2003	verschiedenen	B-bn:00101554a	https://babelnet.org/synset?word=bn:00101554a&lang=DE&langTrans=EN	1			
+Regimentern	Regiment	NOUN	2005	2015	Regimentern	B-bn:00066880n	https://babelnet.org/synset?word=bn:00066880n&lang=DE&langTrans=EN	1			
+angehören	angehören	VERB	2017	2025							
+,	,	PUNCT	2026	2026							
+in	in	ADP	2028	2029							
+unserer	mein	DET	2031	2037							
+Hand	Hand	NOUN	2039	2042	Hand	B-bn:00042759n	https://babelnet.org/synset?word=bn:00042759n&lang=DE&langTrans=EN	1			
+blieben	bleiben	VERB	2044	2050	blieben	B-bn:00085719v	https://babelnet.org/synset?word=bn:00085719v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2051	2051							
+In	In	ADP	2053	2054							
+der	der	DET	2056	2058							
+Champagne	Champagne	NOUN	2060	2068						1	
+führten	führen	VERB	2070	2076	führten	B-bn:00087631v	https://babelnet.org/synset?word=bn:00087631v&lang=DE&langTrans=EN	1			
+die	der	DET	2078	2080							
+Franzosen	Franzose	NOUN	2082	2090	Franzosen	B-bn:00036427n	https://babelnet.org/synset?word=bn:00036427n&lang=DE&langTrans=EN	1			
+in	in	ADP	2092	2093							
+der	der	DET	2095	2097							
+Gegend	Gegend	NOUN	2099	2104	Gegend	B-bn:15243038n	https://babelnet.org/synset?word=bn:15243038n&lang=DE&langTrans=EN	1			
+des	der	DET	2106	2108						1	
+Mont-sans-Nom	Mont-sans-Nom	NOUN	2110	2122							
+einen	ein	DET	2124	2128							
+Handstreich	Handstreich	NOUN	2130	2140	Handstreich	B-bn:00638728n	https://babelnet.org/synset?word=bn:00638728n&lang=DE&langTrans=EN	1			
+aus	aus	PART	2142	2144							
+und	und	CONJ	2146	2148							
+machten	machen	VERB	2150	2156							
+Gesangene	Gesangene	NOUN	2158	2166						1	1
+.	.	PUNCT	2167	2167							
+Ein	Ein	DET	2169	2171							
+deutscher	deutsch	ADJ	2173	2181	deutscher	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Handstreich	Handstreich	NOUN	2183	2193	Handstreich	B-bn:00638728n	https://babelnet.org/synset?word=bn:00638728n&lang=DE&langTrans=EN	1			
+östlich	östlich	ADJ	2195	2201	östlich	B-bn:00101967a	https://babelnet.org/synset?word=bn:00101967a&lang=DE&langTrans=EN	1			
+von	von	ADP	2203	2205							
+Auberive	Auberive	NOUN	2207	2214	Auberive	B-bn:00807126n	https://babelnet.org/synset?word=bn:00807126n&lang=DE&langTrans=EN	1			
+scheiterte	scheitern	VERB	2216	2225	scheiterte	B-bn:00087967v	https://babelnet.org/synset?word=bn:00087967v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2226	2226							
+Paris	Paris	PROPN	2228	2232	Paris	B-bn:00015540n	https://babelnet.org/synset?word=bn:00015540n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	2233	2233							
+9	9	ADJ	2235	2235							
+.	.	ADJ	2236	2236							
+Sept.	September	NOUN	2238	2242						1	
+(	(	PUNCT	2244	2244							
+Havas	Havas	PROPN	2245	2249	Havas	B-bn:03224612n	https://babelnet.org/synset?word=bn:03224612n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2250	2250							
+)	)	PUNCT	2251	2251							
+Amerikanische	amerikanisch	NOUN	2253	2265						1	
+amtliche	amtlich	ADJ	2267	2274	amtliche	B-bn:00107770a	https://babelnet.org/synset?word=bn:00107770a&lang=DE&langTrans=EN	1			
+Mitteilung	Mitteilung	NOUN	2276	2285	Mitteilung	B-bn:00022378n	https://babelnet.org/synset?word=bn:00022378n&lang=DE&langTrans=EN	1			
+vom	vom	ADP	2287	2289							
+8	8	ADJ	2291	2291							
+.	.	ADJ	2292	2292							
+September	September	NOUN	2294	2302	September	B-bn:00070537n	https://babelnet.org/synset?word=bn:00070537n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	2303	2303							
+abends	abends	ADV	2305	2310						1	
+9	9	NUM	2312	2312							
+Uhr	Uhr	NOUN	2314	2316	Uhr	B-bn:00019887n	https://babelnet.org/synset?word=bn:00019887n&lang=DE&langTrans=EN		1	1	
+.	.	PUNCT	2317	2317							
+Außer	außer	ADP	2319	2323							
+einigen	einig	DET	2325	2331							
+Patrouillenkämpfen	Patrouillenkämpfen	NOUN	2333	2350						1	
+und	und	CONJ	2352	2354							
+lebhaftem	lebhaft	ADJ	2356	2364							
+Artilleriekampf	Artilleriekampf	NOUN	2366	2380						1	
+südlich	südlich	ADJ	2382	2388						1	
+der	der	DET	2390	2392							
+Aisne	Aisne	NOUN	2394	2398						1	
+ist	sein	AUX	2400	2402							
+nichts	nichts	PRON	2404	2409							
+zu	zu	PART	2411	2412							
+melden	melden	VERB	2414	2419							
+in	in	ADP	2421	2422							
+den	der	DET	2424	2426							
+von	von	ADP	2428	2430							
+unsern	unsern	ADJ	2432	2437							
+Truppen	Truppe	NOUN	2439	2445	Truppen	B-bn:00021288n	https://babelnet.org/synset?word=bn:00021288n&lang=DE&langTrans=EN		1	1	
+besetzten	besetzen	ADJ	2447	2455	besetzten	B-bn:00099061a	https://babelnet.org/synset?word=bn:00099061a&lang=DE&langTrans=EN		1	1	
+Abschnitten	Abschnitt	NOUN	2457	2467	Abschnitten	B-bn:00070190n	https://babelnet.org/synset?word=bn:00070190n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2468	2468							
+Italienischer	Italienischer	ADJ	2470	2482						1	
+Kriegsschauplatz	Kriegsschauplatz	NOUN	2484	2499	Kriegsschauplatz	B-bn:00076797n	https://babelnet.org/synset?word=bn:00076797n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2500	2500							
+Wien	Wien	PROPN	2502	2505	Wien	B-bn:00007269n	https://babelnet.org/synset?word=bn:00007269n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	2506	2506							
+9	9	ADJ	2508	2508							
+.	.	ADJ	2509	2509							
+Sept.	September	NOUN	2511	2515						1	
+(	(	PUNCT	2517	2517							
+W.	W.	PROPN	2518	2519							
+K.-B.	K.-B.	PROPN	2521	2525							
+)	)	PUNCT	2526	2526							
+Amtlich	Amtlich	ADJ	2528	2534							
+wird	werden	AUX	2536	2539							
+mitgeteilt	mitteilen	VERB	2541	2550	mitgeteilt	B-bn:00082416v	https://babelnet.org/synset?word=bn:00082416v&lang=DE&langTrans=EN	1			
+:	:	PUNCT	2551	2551							
+Auf	Auf	ADP	2553	2555							
+dem	der	DET	2557	2559							
+Monte	Monte	NOUN	2561	2565	Monte	B-bn:00036086n	https://babelnet.org/synset?word=bn:00036086n&lang=DE&langTrans=EN		1	1	
+Pertica	Pertica	PROPN	2567	2573	Pertica	B-bn:15961549n	https://babelnet.org/synset?word=bn:15961549n&lang=DE&langTrans=EN		1	1	
+wurden	werden	AUX	2575	2580							
+vorgestern	vorgestern	ADV	2582	2591	vorgestern	B-bn:13603346a	https://babelnet.org/synset?word=bn:13603346a&lang=DE&langTrans=EN		1	1	
+abend	abend	ADV	2593	2597	abend	B-bn:00031998n	https://babelnet.org/synset?word=bn:00031998n&lang=DE&langTrans=EN	1			
+und	und	CONJ	2599	2601							
+gestern	gestern	ADV	2603	2609	gestern	B-bn:00117652r	https://babelnet.org/synset?word=bn:00117652r&lang=DE&langTrans=EN	1			
+früh	früh	ADJ	2611	2614	früh	B-bn:00101935a	https://babelnet.org/synset?word=bn:00101935a&lang=DE&langTrans=EN		1	1	
+italienische	italienische	ADJ	2616	2627	italienische	B-bn:00105493a	https://babelnet.org/synset?word=bn:00105493a&lang=DE&langTrans=EN	1			
+Angriffe	Angriff	NOUN	2629	2636	Angriffe	B-bn:00006994n	https://babelnet.org/synset?word=bn:00006994n&lang=DE&langTrans=EN	1			
+durch	durch	ADP	2638	2642							
+unser	sich	DET	2644	2648							
+Feuer	feuern	NOUN	2650	2654	Feuer	B-bn:00034623n	https://babelnet.org/synset?word=bn:00034623n&lang=DE&langTrans=EN		1	1	
+abgeschlagen	abschlagen	VERB	2656	2667							
+.	.	PUNCT	2668	2668							
+Der	der	DET	2670	2672							
+Feind	Feind	NOUN	2674	2678	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+erlitt	erleiden	VERB	2680	2685	erlitt	B-bn:00087618v	https://babelnet.org/synset?word=bn:00087618v&lang=DE&langTrans=EN	1			
+schwere	schwer	ADJ	2687	2693	schwere	B-bn:00104050a	https://babelnet.org/synset?word=bn:00104050a&lang=DE&langTrans=EN		1	1	
+Verluste	Verlust	NOUN	2695	2702	Verluste	B-bn:00052050n	https://babelnet.org/synset?word=bn:00052050n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2703	2703							
+Balkankriegsschauplatz	Balkankriegsschauplatz	NOUN	2705	2726							
+.	.	PUNCT	2727	2727							
+Paris	Paris	PROPN	2729	2733	Paris	B-bn:00015540n	https://babelnet.org/synset?word=bn:00015540n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	2734	2734							
+8	8	ADJ	2736	2736							
+.	.	ADJ	2737	2737							
+Sept.	September	NOUN	2739	2743						1	
+(	(	PUNCT	2745	2745							
+Havas	Havas	PROPN	2746	2750	Havas	B-bn:03224612n	https://babelnet.org/synset?word=bn:03224612n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	2751	2751							
+)	)	PUNCT	2752	2752							
+Amtlicher	Amtlicher	ADJ	2754	2762							
+Bericht	Bericht	NOUN	2764	2770	Bericht	B-bn:00067181n	https://babelnet.org/synset?word=bn:00067181n&lang=DE&langTrans=EN	1			
+der	der	DET	2772	2774							
+Orientarmee	Orientarmee	NOUN	2776	2786						1	
+vom	vom	ADP	2788	2790							
+6.September	6.September	PROPN	2792	2802						1	
+.	.	PUNCT	2803	2803							
+Ziemlich	Ziemlich	ADV	2805	2812							
+lebhafte	lebhafte	ADJ	2814	2821	lebhafte	B-bn:00103413a	https://babelnet.org/synset?word=bn:00103413a&lang=DE&langTrans=EN	1			
+Artillerietätigkeit	Artillerietätigkeit	NOUN	2823	2841							
+,	,	PUNCT	2842	2842							
+besonders	besonders	ADV	2844	2852	besonders	B-bn:00115235r	https://babelnet.org/synset?word=bn:00115235r&lang=DE&langTrans=EN	1			
+auf	auf	ADP	2854	2856							
+beiden	beid	DET	2858	2863							
+Ufern	Ufer	NOUN	2865	2869	Ufern	B-bn:00071235n	https://babelnet.org/synset?word=bn:00071235n&lang=DE&langTrans=EN	1			
+des	der	DET	2871	2873							
+Wardar	Wardar	NOUN	2875	2880	Wardar	B-bn:03160528n	https://babelnet.org/synset?word=bn:03160528n&lang=DE&langTrans=EN	1			
+und	und	CONJ	2882	2884							
+im	im	ADP	2886	2887							
+Czernabogen	Czernabogen	NOUN	2889	2899						1	
+.	.	PUNCT	2900	2900							
+Oestlich	Oestlich	PROPN	2902	2909						1	
+vom	vom	ADP	2911	2913							
+Doiransee	Doiransee	PROPN	2915	2923						1	
+brachte	bringen	VERB	2925	2931	brachte	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=EN		1	1	
+uns	sich	PRON	2933	2935							
+ein	einen	DET	2937	2939							
+englischer	englisch	ADJ	2941	2950	englischer	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Handstreich	Handstreich	NOUN	2952	2962	Handstreich	B-bn:00638728n	https://babelnet.org/synset?word=bn:00638728n&lang=DE&langTrans=EN	1			
+mehrere	mehrer	DET	2964	2970							
+Gefangene	Gefangene	NOUN	2972	2980	Gefangene	B-bn:00015767n	https://babelnet.org/synset?word=bn:00015767n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	2981	2981							
+darunter	darunter	ADV	2983	2990	darunter	B-bn:00114401r	https://babelnet.org/synset?word=bn:00114401r&lang=DE&langTrans=EN		1	1	
+einen	ein	DET	2992	2996							
+Offizier	Offizier	NOUN	2998	3005	Offizier	B-bn:00054972n	https://babelnet.org/synset?word=bn:00054972n&lang=DE&langTrans=EN	1			
+ein	einen	PART	3007	3009							
+.	.	PUNCT	3010	3010							
+In	In	ADP	3012	3013							
+der	der	DET	3015	3017							
+Gegend	Gegend	NOUN	3019	3024	Gegend	B-bn:15243038n	https://babelnet.org/synset?word=bn:15243038n&lang=DE&langTrans=EN	1			
+des	der	DET	3026	3028							
+Prespasees	Prespasees	NOUN	3030	3039						1	
+wurde	werden	AUX	3041	3045							
+eine	einen	DET	3047	3050							
+feindliche	feindlich	ADJ	3052	3061	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Erkundungsabteilung	Erkundungsabteilung	NOUN	3063	3081						1	
+durch	durch	ADP	3083	3087							
+unser	sich	DET	3089	3093							
+Feuer	feuern	NOUN	3095	3099	Feuer	B-bn:00034623n	https://babelnet.org/synset?word=bn:00034623n&lang=DE&langTrans=EN		1		
+abgewiesen	abweisen	VERB	3101	3110							
+.	.	PUNCT	3111	3111							
+Die	der	DET	3113	3115							
+französischen	französisch	ADJ	3117	3129	französischen	B-bn:00103321a	https://babelnet.org/synset?word=bn:00103321a&lang=DE&langTrans=EN	1			
+und	und	CONJ	3131	3133							
+englischen	englisch	ADJ	3135	3144	englischen	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Flieger	Flieger	NOUN	3146	3152	Flieger	B-bn:00001688n	https://babelnet.org/synset?word=bn:00001688n&lang=DE&langTrans=EN		1	1	
+bombardierten	bombardieren	VERB	3154	3166	bombardierten	B-bn:00083756v	https://babelnet.org/synset?word=bn:00083756v&lang=DE&langTrans=EN	1			
+feindliche	feindlich	ADJ	3168	3177	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Lager	lagern	NOUN	3179	3183	Lager	B-bn:00074453n	https://babelnet.org/synset?word=bn:00074453n&lang=DE&langTrans=EN		1		
+in	in	ADP	3185	3186							
+der	der	DET	3188	3190							
+Gegend	Gegend	NOUN	3192	3197	Gegend	B-bn:15243038n	https://babelnet.org/synset?word=bn:15243038n&lang=DE&langTrans=EN	1			
+von	von	ADP	3199	3201							
+Monastir	Monastir	PROPN	3203	3210	Monastir	B-bn:03497139n	https://babelnet.org/synset?word=bn:03497139n&lang=DE&langTrans=EN	1			
+und	und	CONJ	3212	3214							
+der	der	DET	3216	3218							
+Struma	Struma	PROPN	3220	3225						1	
+.	.	PUNCT	3226	3226							
+Türkischer	Türkischer	ADJ	3228	3237						1	
+Kriegsschauplatz	Kriegsschauplatz	NOUN	3239	3254	Kriegsschauplatz	B-bn:00076797n	https://babelnet.org/synset?word=bn:00076797n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	3255	3255							
+Das	der	DET	3257	3259							
+Anwerben	Anwerben	NOUN	3261	3268							
+der	der	DET	3270	3272							
+jüdischen	jüdisch	ADJ	3274	3282	jüdischen	B-bn:00105531a	https://babelnet.org/synset?word=bn:00105531a&lang=DE&langTrans=EN	1			
+Soldaten	Soldat	NOUN	3284	3291	Soldaten	B-bn:00072698n	https://babelnet.org/synset?word=bn:00072698n&lang=DE&langTrans=EN	1			
+in	in	ADP	3293	3294							
+Jernsalem	Jernsalem	PROPN	3296	3304						1	1
+.	.	PUNCT	3305	3305							
+H.	H.	PROPN	3307	3308	H.	B-bn:09029500n	https://babelnet.org/synset?word=bn:09029500n&lang=DE&langTrans=EN		1	1	
+A.	A.	PROPN	3310	3311	A.	B-bn:16308576n	https://babelnet.org/synset?word=bn:16308576n&lang=DE&langTrans=EN		1	1	
+G.	G.	PROPN	3313	3314	G.	I-bn:16308576n	https://babelnet.org/synset?word=bn:16308576n&lang=DE&langTrans=EN		1	1	
+Um	um	ADP	3316	3317							
+die	der	DET	3319	3321							
+jungen	jung	ADJ	3323	3328	jungen	B-bn:00104589a	https://babelnet.org/synset?word=bn:00104589a&lang=DE&langTrans=EN	1			
+Juden	Jude	NOUN	3330	3334	Juden	B-bn:00043492n	https://babelnet.org/synset?word=bn:00043492n&lang=DE&langTrans=EN	1			
+Jerusalems	Jerusalem	NOUN	3336	3345	Jerusalems	B-bn:00015555n	https://babelnet.org/synset?word=bn:00015555n&lang=DE&langTrans=EN	1			
+für	für	ADP	3347	3349							
+den	der	DET	3351	3353							
+Kriegsdienst	Kriegsdienst	NOUN	3355	3366	Kriegsdienst	B-bn:00005737n	https://babelnet.org/synset?word=bn:00005737n&lang=DE&langTrans=EN		1		
+mit	mit	ADP	3368	3370							
+der	der	DET	3372	3374							
+British	British	PROPN	3376	3382						1	
+Eapedltlonary	Eapedltlonary	PROPN	3384	3396						1	1
+Force	Force	PROPN	3398	3402	Force	B-bn:02882478n	https://babelnet.org/synset?word=bn:02882478n&lang=DE&langTrans=EN		1	1	
+anzuwerben	anwerben	VERB	3404	3413							
+,	,	PUNCT	3414	3414							
+wurden	werden	AUX	3416	3421							
+verschiedene	verschieden	ADJ	3423	3434	verschiedene	B-bn:00101554a	https://babelnet.org/synset?word=bn:00101554a&lang=DE&langTrans=EN	1			
+Aufrufe	aufrufen	NOUN	3436	3442							
+auf	auf	ADP	3444	3446							
+den	der	DET	3448	3450							
+Straßen	Straße	NOUN	3452	3458	Straßen	B-bn:00067975n	https://babelnet.org/synset?word=bn:00067975n&lang=DE&langTrans=EN	1			
+ausgestellt	ausstellen	VERB	3460	3470							
+.	.	PUNCT	3471	3471							
+Einer	ein	PRON	3473	3477							
+derselben	derselbe	PRON	3479	3487							
+,	,	PUNCT	3488	3488							
+der	der	PRON	3490	3492							
+in	in	ADP	3494	3495							
+der	der	DET	3497	3499							
+hebräischen	hebräischen	ADJ	3501	3511	hebräischen	B-bn:00104078a	https://babelnet.org/synset?word=bn:00104078a&lang=DE&langTrans=EN	1			
+Ausgabe	Ausgabe	NOUN	3513	3519	Ausgabe	B-bn:00047687n	https://babelnet.org/synset?word=bn:00047687n&lang=DE&langTrans=EN	1			
+der	der	DET	3521	3523							
+„	„	ADJ	3525	3525							
+Palestine	Palestine	NOUN	3526	3534						1	
+News	News	PROPN	3536	3539	News	B-bn:00057554n	https://babelnet.org/synset?word=bn:00057554n&lang=DE&langTrans=EN	1			
+"	"	PROPN	3540	3540							
+wiedergegeben	wiedergeben	VERB	3542	3554							
+ist	sein	AUX	3556	3558							
+,	,	PUNCT	3559	3559							
+läßt	lassen	VERB	3561	3564							
+sich	sich	PRON	3566	3569							
+auf	auf	ADP	3571	3573							
+folgende	folgend	ADJ	3575	3582	folgende	B-bn:00111392a	https://babelnet.org/synset?word=bn:00111392a&lang=DE&langTrans=EN	1			
+Weise	Weise	NOUN	3584	3588	Weise	B-bn:00033729n	https://babelnet.org/synset?word=bn:00033729n&lang=DE&langTrans=EN	1			
+wörtlich	wörtlich	ADJ	3590	3597	wörtlich	B-bn:00113549a	https://babelnet.org/synset?word=bn:00113549a&lang=DE&langTrans=EN		1	1	
+übersetzen	übersetzen	VERB	3599	3608	übersetzen	B-bn:00089840v	https://babelnet.org/synset?word=bn:00089840v&lang=DE&langTrans=EN	1			
+:	:	PUNCT	3609	3609							
+„	„	X	3611	3611							
+Höre	Höre	NOUN	3612	3615	Höre	B-bn:00071028n	https://babelnet.org/synset?word=bn:00071028n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	3616	3616	,	I-bn:00071028n	https://babelnet.org/synset?word=bn:00071028n&lang=DE&langTrans=EN	1			
+Israel	Israel	PROPN	3618	3623	Israel	I-bn:00071028n	https://babelnet.org/synset?word=bn:00071028n&lang=DE&langTrans=EN	1			
+!	!	PUNCT	3624	3624							
+Höre	Höre	NOUN	3626	3629	Höre	B-bn:05285432n	https://babelnet.org/synset?word=bn:05285432n&lang=DE&langTrans=EN		1		
+!	!	PUNCT	3630	3630							
+Was	Was	PRON	3632	3634							
+sagt	sagen	VERB	3636	3639	sagt	B-bn:00093287v	https://babelnet.org/synset?word=bn:00093287v&lang=DE&langTrans=EN	1			
+dir	sich	PRON	3641	3643							
+dein	mein	DET	3645	3648							
+Herz	Herz	PROPN	3650	3653	Herz	B-bn:00043383n	https://babelnet.org/synset?word=bn:00043383n&lang=DE&langTrans=EN	1			
+?	?	PUNCT	3654	3654							
+Ist	sein	AUX	3656	3658							
+dies	dies	PRON	3660	3663							
+nicht	nicht	PART	3665	3669							
+die	der	DET	3671	3673	die	B-bn:05207652n	https://babelnet.org/synset?word=bn:05207652n&lang=DE&langTrans=EN		1		
+Stunde	Stunde	NOUN	3675	3680	Stunde	I-bn:05207652n	https://babelnet.org/synset?word=bn:05207652n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	3681	3681							
+unser	sich	DET	3683	3687							
+Land	Land	NOUN	3689	3692	Land	B-bn:00023235n	https://babelnet.org/synset?word=bn:00023235n&lang=DE&langTrans=EN		1	1	
+zu	zu	ADP	3694	3695							
+erobern	erobern	VERB	3697	3703	erobern	B-bn:00082739v	https://babelnet.org/synset?word=bn:00082739v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	3704	3704							
+und	und	CONJ	3706	3708							
+dessen	der	DET	3710	3715							
+Besitz	Besitz	NOUN	3717	3722	Besitz	B-bn:00059958n	https://babelnet.org/synset?word=bn:00059958n&lang=DE&langTrans=EN	1			
+vor	vor	ADP	3724	3726							
+der	der	DET	3728	3730							
+ganzen	ganz	ADJ	3732	3737	ganzen	B-bn:00102277a	https://babelnet.org/synset?word=bn:00102277a&lang=DE&langTrans=EN	1			
+Welt	Welt	NOUN	3739	3742	Welt	B-bn:00029428n	https://babelnet.org/synset?word=bn:00029428n&lang=DE&langTrans=EN		1	1	
+zu	zu	ADP	3744	3745							
+sichern	sichern	VERB	3747	3753	sichern	B-bn:00090229v	https://babelnet.org/synset?word=bn:00090229v&lang=DE&langTrans=EN		1	1	
+?	?	PUNCT	3754	3754							
+Höre	Höre	NOUN	3756	3759	Höre	B-bn:05285432n	https://babelnet.org/synset?word=bn:05285432n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	3760	3760							
+was	was	PRON	3762	3764							
+sagt	sagen	VERB	3766	3769	sagt	B-bn:00093287v	https://babelnet.org/synset?word=bn:00093287v&lang=DE&langTrans=EN	1			
+dir	sich	PRON	3771	3773							
+dein	mein	DET	3775	3778							
+Verstand	Verstand	NOUN	3780	3787	Verstand	B-bn:00053345n	https://babelnet.org/synset?word=bn:00053345n&lang=DE&langTrans=EN	1			
+?	?	PUNCT	3788	3788							
+Sollen	sollen	VERB	3790	3795	Sollen	B-bn:00029239n	https://babelnet.org/synset?word=bn:00029239n&lang=DE&langTrans=EN		1		
+die	der	DET	3797	3799							
+Engländer	Engländer	NOUN	3801	3809	Engländer	B-bn:00055686n	https://babelnet.org/synset?word=bn:00055686n&lang=DE&langTrans=EN	1			
+sich	sich	PRON	3811	3814							
+hier	hier	ADV	3816	3819							
+vor	vor	ADP	3821	3823							
+unseren	mein	DET	3825	3831							
+Augen	Auge	NOUN	3833	3837	Augen	B-bn:00032512n	https://babelnet.org/synset?word=bn:00032512n&lang=DE&langTrans=EN	1			
+schlagen	schlagen	VERB	3839	3846	schlagen	B-bn:00083247v	https://babelnet.org/synset?word=bn:00083247v&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	3847	3847							
+während	während	SCONJ	3849	3855							
+wir	ich	PRON	3857	3859							
+zu	zu	ADP	3861	3862							
+Hause	hausen	NOUN	3864	3868	Hause	B-bn:00044994n	https://babelnet.org/synset?word=bn:00044994n&lang=DE&langTrans=EN	1			
+bleiben	bleiben	VERB	3870	3876	bleiben	B-bn:00085719v	https://babelnet.org/synset?word=bn:00085719v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	3877	3877							
+bis	bis	SCONJ	3879	3881							
+sie	ich	PRON	3883	3885							
+uns	sich	PRON	3887	3889							
+das	der	DET	3891	3893							
+Land	Land	NOUN	3895	3898	Land	B-bn:00023235n	https://babelnet.org/synset?word=bn:00023235n&lang=DE&langTrans=EN		1		
+wiedergeben	wiedergeben	VERB	3900	3910							
+,	,	PUNCT	3911	3911							
+das	der	PRON	3913	3915							
+sie	ich	PRON	3917	3919							
+mit	mit	ADP	3921	3923							
+ihrem	mein	DET	3925	3929							
+Blut	Blut	NOUN	3931	3934	Blut	B-bn:00011346n	https://babelnet.org/synset?word=bn:00011346n&lang=DE&langTrans=EN	1			
+erlöst	erlösen	VERB	3936	3941							
+haben	haben	AUX	3943	3947	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+?	?	PUNCT	3948	3948							
+Und	und	CONJ	3950	3952							
+höre	hören	VERB	3954	3957	höre	B-bn:00089277v	https://babelnet.org/synset?word=bn:00089277v&lang=DE&langTrans=EN		1		
+noch	noch	ADV	3959	3962	noch	B-bn:00114171r	https://babelnet.org/synset?word=bn:00114171r&lang=DE&langTrans=EN	1			
+einmal	einmal	ADV	3964	3969	einmal	I-bn:00114171r	https://babelnet.org/synset?word=bn:00114171r&lang=DE&langTrans=EN	1			
+!	!	PUNCT	3970	3970							
+Was	Was	PRON	3972	3974							
+sagt	sagen	VERB	3976	3979	sagt	B-bn:00093287v	https://babelnet.org/synset?word=bn:00093287v&lang=DE&langTrans=EN	1			
+dir	sich	PRON	3981	3983							
+dein	mein	DET	3985	3988							
+Ehrgefühl	Ehrgefühl	NOUN	3990	3998	Ehrgefühl	B-bn:00044654n	https://babelnet.org/synset?word=bn:00044654n&lang=DE&langTrans=EN	1			
+?	?	PUNCT	3999	3999							
+Dürfen	dürfen	VERB	4001	4006							
+wir	ich	PRON	4008	4010							
+von	von	ADP	4012	4014							
+unsern	unsern	ADJ	4016	4021							
+Befreiern	Befreier	NOUN	4023	4031						1	
+,	,	PUNCT	4032	4032							
+unseren	mein	DET	4034	4040							
+wahrhaftigen	wahrhaftig	ADJ	4042	4053							
+Befreiern	Befreier	NOUN	4055	4063						1	
+,	,	PUNCT	4064	4064							
+ein	einen	DET	4066	4068							
+Blutgeschenk	Blutgeschenk	NOUN	4070	4081						1	
+,	,	PUNCT	4082	4082							
+ein	einen	DET	4084	4086							
+solches	solch	DET	4088	4094							
+freies	frei	ADJ	4096	4101	freies	B-bn:00103299a	https://babelnet.org/synset?word=bn:00103299a&lang=DE&langTrans=EN	1			
+Geschenk	Geschenk	NOUN	4103	4110	Geschenk	B-bn:00040436n	https://babelnet.org/synset?word=bn:00040436n&lang=DE&langTrans=EN	1			
+annehmen	annehmen	VERB	4112	4119	annehmen	B-bn:00082198v	https://babelnet.org/synset?word=bn:00082198v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4120	4120							
+ohne	ohne	SCONJ	4122	4125							
+auch	auch	ADV	4127	4130							
+unser	sich	DET	4132	4136							
+WLeben	WLeben	NOUN	4138	4143						1	1
+zusammen	zusammen	ADV	4145	4152	zusammen	B-bn:00117320r	https://babelnet.org/synset?word=bn:00117320r&lang=DE&langTrans=EN	1			
+mit	mit	ADP	4154	4156							
+ihnen	ich	PRON	4158	4162							
+darüber	darüber	ADV	4164	4170	darüber	B-bn:00114080r	https://babelnet.org/synset?word=bn:00114080r&lang=DE&langTrans=EN		1	1	
+zu	zu	PART	4172	4173							
+opfern	opfern	VERB	4175	4180	opfern	B-bn:00089606v	https://babelnet.org/synset?word=bn:00089606v&lang=DE&langTrans=EN		1	1	
+?	?	PUNCT	4181	4181							
+Das	der	DET	4183	4185							
+Blut	Blut	NOUN	4187	4190	Blut	B-bn:00011346n	https://babelnet.org/synset?word=bn:00011346n&lang=DE&langTrans=EN	1			
+unserer	mein	DET	4192	4198							
+heldenmütigen	heldenmütig	ADJ	4200	4212							
+Vorfahren	Vorfahr	NOUN	4214	4222	Vorfahren	B-bn:00003890n	https://babelnet.org/synset?word=bn:00003890n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4223	4223							
+die	der	PRON	4225	4227							
+vor	vor	ADP	4229	4231							
+zweitausend	zweitausend	ADJ	4233	4243							
+Jahren	Jahr	NOUN	4245	4250	Jahren	B-bn:00078738n	https://babelnet.org/synset?word=bn:00078738n&lang=DE&langTrans=EN	1			
+lebten	leben	VERB	4252	4257	lebten	B-bn:00083191v	https://babelnet.org/synset?word=bn:00083191v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4258	4258							
+und	und	CONJ	4260	4262							
+das	der	DET	4264	4266							
+Blut	Blut	NOUN	4268	4271	Blut	B-bn:00011346n	https://babelnet.org/synset?word=bn:00011346n&lang=DE&langTrans=EN	1			
+der	der	DET	4273	4275							
+Engländer	Engländer	NOUN	4277	4285	Engländer	B-bn:00055686n	https://babelnet.org/synset?word=bn:00055686n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	4286	4286							
+die	der	PRON	4288	4290							
+für	für	ADP	4292	4294							
+uns	sich	PRON	4296	4298							
+heute	heute	ADV	4300	4304	heute	B-bn:00117315r	https://babelnet.org/synset?word=bn:00117315r&lang=DE&langTrans=EN	1			
+kämpfen	kämpfen	VERB	4306	4312	kämpfen	B-bn:00085711v	https://babelnet.org/synset?word=bn:00085711v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4313	4313							
+—	—	PROPN	4315	4315							
+das	der	DET	4317	4319							
+Blut	Blut	NOUN	4321	4324	Blut	B-bn:00011346n	https://babelnet.org/synset?word=bn:00011346n&lang=DE&langTrans=EN	1			
+von	von	ADP	4326	4328							
+Märtyrern	Märtyrern	NOUN	4330	4338	Märtyrern	B-bn:00053594n	https://babelnet.org/synset?word=bn:00053594n&lang=DE&langTrans=EN	1			
+ruft	rufen	VERB	4340	4343							
+uns	sich	PRON	4345	4347							
+aus	aus	ADP	4349	4351							
+diesem	dies	DET	4353	4358							
+Boden	Boden	NOUN	4360	4364	Boden	B-bn:00035304n	https://babelnet.org/synset?word=bn:00035304n&lang=DE&langTrans=EN		1	1	
+zu	zu	PART	4366	4367							
+:	:	PUNCT	4368	4368							
+Laßt	Laßt	VERB	4370	4373							
+euch	sich	PRON	4375	4378							
+einschreiben	einschreiben	VERB	4380	4391							
+.	.	PUNCT	4392	4392							
+Laßt	Laßt	VERB	4394	4397							
+uns	sich	PRON	4399	4401							
+zum	zum	ADP	4403	4405							
+Kampf	Kampf	NOUN	4407	4411	Kampf	B-bn:00005731n	https://babelnet.org/synset?word=bn:00005731n&lang=DE&langTrans=EN	1			
+zusammen	zusammen	ADV	4413	4420	zusammen	B-bn:00117320r	https://babelnet.org/synset?word=bn:00117320r&lang=DE&langTrans=EN	1			
+mit	mit	ADP	4422	4424							
+unseren	mein	DET	4426	4432							
+Befreiern	Befreier	NOUN	4434	4442						1	
+schreiten	schreiten	VERB	4444	4452	schreiten	B-bn:00094451v	https://babelnet.org/synset?word=bn:00094451v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	4453	4453							
+An	an	ADP	4455	4456							
+Gott	Gott	NOUN	4458	4461	Gott	B-bn:00040878n	https://babelnet.org/synset?word=bn:00040878n&lang=DE&langTrans=EN	1			
+ist	sein	AUX	4463	4465							
+die	der	DET	4467	4469							
+Rettung	Rettung	NOUN	4471	4477	Rettung	B-bn:00026061n	https://babelnet.org/synset?word=bn:00026061n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	4478	4478							
+Seid	sein	AUX	4480	4483							
+stark	stark	ADJ	4485	4489	stark	B-bn:00111312a	https://babelnet.org/synset?word=bn:00111312a&lang=DE&langTrans=EN	1			
+!	!	PUNCT	4490	4490							
+"	"	X	4491	4491							
+Die	der	DET	4493	4495							
+Anwerbungstätigkeit	Anwerbungstätigkeit	NOUN	4497	4515							
+ist	sein	AUX	4517	4519							
+über	über	ADP	4521	4524							
+Erwartung	Erwartung	NOUN	4526	4534	Erwartung	B-bn:01775990n	https://babelnet.org/synset?word=bn:01775990n&lang=DE&langTrans=EN	1			
+erfolgreich	erfolgreich	ADJ	4536	4546							
+gewesen	sein	AUX	4548	4554							
+.	.	PUNCT	4555	4555							
+Erst	Erst	ADV	4557	4560							
+am	am	ADP	4562	4563							
+Ende	enden	NOUN	4565	4568	Ende	B-bn:00030720n	https://babelnet.org/synset?word=bn:00030720n&lang=DE&langTrans=EN	1			
+Mai	Mai	NOUN	4570	4572	Mai	B-bn:00053941n	https://babelnet.org/synset?word=bn:00053941n&lang=DE&langTrans=EN	1			
+wurde	werden	AUX	4574	4578							
+die	der	DET	4580	4582							
+Erlaubnis	Erlaubnis	NOUN	4584	4592	Erlaubnis	B-bn:04079239n	https://babelnet.org/synset?word=bn:04079239n&lang=DE&langTrans=EN	1			
+erteilt	erteilen	VERB	4594	4600							
+,	,	PUNCT	4601	4601							
+mit	mit	ADP	4603	4605							
+dem	der	DET	4607	4609							
+Anwerben	Anwerben	NOUN	4611	4618							
+zu	zu	PART	4620	4621							
+beginnen	beginnen	VERB	4623	4630	beginnen	B-bn:00083342v	https://babelnet.org/synset?word=bn:00083342v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4631	4631							
+und	und	CONJ	4633	4635							
+schon	schon	ADV	4637	4641	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=EN	1			
+Ende	enden	NOUN	4643	4646	Ende	B-bn:00030720n	https://babelnet.org/synset?word=bn:00030720n&lang=DE&langTrans=EN	1			
+Juli	Juli	NOUN	4648	4651							
+haben	haben	AUX	4653	4657	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+sich	sich	PRON	4659	4662							
+über	über	ADP	4664	4667							
+tausend	tausend	NUM	4669	4675							
+Männer	Mann	NOUN	4677	4682	Männer	B-bn:00001533n	https://babelnet.org/synset?word=bn:00001533n&lang=DE&langTrans=EN	1			
+gemeldet	melden	VERB	4684	4691							
+.	.	PUNCT	4692	4692							
+Nicht	Nicht	PART	4694	4698							
+nur	nur	ADV	4700	4702							
+in	in	ADP	4704	4705							
+den	der	DET	4707	4709							
+Kolonien	Kolonie	NOUN	4711	4718	Kolonien	B-bn:00020720n	https://babelnet.org/synset?word=bn:00020720n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4719	4719							
+sondern	sondern	CONJ	4721	4727							
+auch	auch	ADV	4729	4732							
+in	in	ADP	4734	4735							
+Jerusalem	Jerusalem	PROPN	4737	4745	Jerusalem	B-bn:00015555n	https://babelnet.org/synset?word=bn:00015555n&lang=DE&langTrans=EN	1			
+herrscht	herrschen	VERB	4747	4754	herrscht	B-bn:00085403v	https://babelnet.org/synset?word=bn:00085403v&lang=DE&langTrans=EN		1	1	
+die	der	DET	4756	4758							
+größte	groß	ADJ	4760	4765	größte	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=EN	1			
+Begeisterung	Begeisterung	NOUN	4767	4778	Begeisterung	B-bn:00042286n	https://babelnet.org/synset?word=bn:00042286n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	4779	4779							
+(	(	PUNCT	4781	4781							
+AngloJewish	AngloJewish	PROPN	4782	4792						1	
+Preßagentur	Preßagentur	PROPN	4794	4804						1	
+.	.	PUNCT	4805	4805							
+)	)	PUNCT	4806	4806							
+Luftkrieg	Luftkrieg	PROPN	4808	4816	Luftkrieg	B-bn:03136858n	https://babelnet.org/synset?word=bn:03136858n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	4817	4817							
+Wien	Wien	PROPN	4819	4822	Wien	B-bn:00007269n	https://babelnet.org/synset?word=bn:00007269n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4823	4823							
+8	8	ADJ	4825	4825							
+.	.	ADJ	4826	4826							
+Sept.	September	NOUN	4828	4832							1
+(	(	PUNCT	4834	4834							
+W.	W.	PROPN	4835	4836							
+K.-B.	K.-B.	PROPN	4838	4842							
+)	)	PUNCT	4843	4843							
+Aus	Aus	ADP	4845	4847							
+dem	der	DET	4849	4851							
+Kriegspressequartier	Kriegspressequartier	NOUN	4853	4872	Kriegspressequartier	B-bn:05141010n	https://babelnet.org/synset?word=bn:05141010n&lang=DE&langTrans=EN	1			
+wird	werden	AUX	4874	4877							
+gemeldet	melden	VERB	4879	4886							
+:	:	PUNCT	4887	4887							
+Am	Am	ADP	4889	4890							
+7	7	ADJ	4892	4892							
+.	.	ADJ	4893	4893							
+September	September	NOUN	4895	4903	September	B-bn:00070537n	https://babelnet.org/synset?word=bn:00070537n&lang=DE&langTrans=EN	1			
+vormittags	vormittags	ADV	4905	4914	vormittags	B-bn:00007205n	https://babelnet.org/synset?word=bn:00007205n&lang=DE&langTrans=EN		1	1	
+versuchten	versuchen	ADJ	4916	4925	versuchten	B-bn:00082844v	https://babelnet.org/synset?word=bn:00082844v&lang=DE&langTrans=EN	1			
+drei	drei	NUM	4927	4930							
+feindliche	feindlich	ADJ	4932	4941	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Flieger	Flieger	NOUN	4943	4949	Flieger	B-bn:00001688n	https://babelnet.org/synset?word=bn:00001688n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	4950	4950							
+aus	aus	ADP	4952	4954							
+dem	der	DET	4956	4958							
+Gailtal	Gailtal	PROPN	4960	4966	Gailtal	B-bn:04066850n	https://babelnet.org/synset?word=bn:04066850n&lang=DE&langTrans=EN	1			
+kommend	kommen	ADJ	4968	4974	kommend	B-bn:00082788v	https://babelnet.org/synset?word=bn:00082788v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	4975	4975							
+Villach	Villach	NOUN	4977	4983	Villach	B-bn:00895784n	https://babelnet.org/synset?word=bn:00895784n&lang=DE&langTrans=EN	1			
+anzugreifen	angreifen	VERB	4985	4995	anzugreifen	B-bn:00082838v	https://babelnet.org/synset?word=bn:00082838v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	4996	4996							
+Die	der	DET	4998	5000							
+Flugzeuge	Flugzeug	NOUN	5002	5010	Flugzeuge	B-bn:00001697n	https://babelnet.org/synset?word=bn:00001697n&lang=DE&langTrans=EN	1			
+wurden	werden	AUX	5012	5017							
+mit	mit	ADP	5019	5021							
+heftigem	heftig	ADJ	5023	5030	heftigem	B-bn:00102943a	https://babelnet.org/synset?word=bn:00102943a&lang=DE&langTrans=EN	1			
+Feuer	feuern	NOUN	5032	5036	Feuer	B-bn:00034623n	https://babelnet.org/synset?word=bn:00034623n&lang=DE&langTrans=EN		1	1	
+empfangen	empfangen	VERB	5038	5046	empfangen	B-bn:00089891v	https://babelnet.org/synset?word=bn:00089891v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	5047	5047							
+Unsere	mein	DET	5049	5054							
+Abwehrflieger	Abwehrflieger	NOUN	5056	5068						1	
+drängten	drängen	VERB	5070	5077	drängten	B-bn:00093679v	https://babelnet.org/synset?word=bn:00093679v&lang=DE&langTrans=EN	1			
+den	der	DET	5079	5081							
+Feind	Feind	NOUN	5083	5087	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+von	von	ADP	5089	5091							
+der	der	DET	5093	5095							
+Stadt	Stadt	NOUN	5097	5101	Stadt	B-bn:03335997n	https://babelnet.org/synset?word=bn:03335997n&lang=DE&langTrans=EN	1			
+ab	ab	PART	5103	5104							
+und	und	CONJ	5106	5108							
+zwangen	zwingen	VERB	5110	5116	zwangen	B-bn:00085252v	https://babelnet.org/synset?word=bn:00085252v&lang=DE&langTrans=EN	1			
+ihn	ich	PRON	5118	5120							
+zur	zur	ADP	5122	5124							
+Rückkehr	Rückkehr	NOUN	5126	5133	Rückkehr	B-bn:00046318n	https://babelnet.org/synset?word=bn:00046318n&lang=DE&langTrans=EN		1	1	
+.	.	PUNCT	5134	5134							
+Der	der	DET	5136	5138							
+Feind	Feind	NOUN	5140	5144	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+vermochte	vermochte	VERB	5146	5154							
+daher	daher	ADV	5156	5160	daher	B-bn:00115635r	https://babelnet.org/synset?word=bn:00115635r&lang=DE&langTrans=EN	1			
+nur	nur	ADV	5162	5164							
+einige	einig	DET	5166	5171							
+Bomben	Bombe	NOUN	5173	5178	Bomben	B-bn:00011917n	https://babelnet.org/synset?word=bn:00011917n&lang=DE&langTrans=EN	1			
+in	in	ADP	5180	5181							
+aller	all	DET	5183	5187							
+Hast	haben	NOUN	5189	5192							
+abzuwerfen	abwerfen	VERB	5194	5203	abzuwerfen	B-bn:00094939v	https://babelnet.org/synset?word=bn:00094939v&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	5204	5204							
+von	von	ADP	5206	5208							
+denen	der	PRON	5210	5214							
+nur	nur	ADV	5216	5218							
+zwei	zwei	NUM	5220	5223							
+explodierten	explodieren	VERB	5225	5236	explodierten	B-bn:00083680v	https://babelnet.org/synset?word=bn:00083680v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	5237	5237							
+ohne	ohne	ADP	5239	5242							
+nennenswerten	nennenswert	ADJ	5244	5256							
+Schaden	Schaden	NOUN	5258	5264	Schaden	B-bn:00025084n	https://babelnet.org/synset?word=bn:00025084n&lang=DE&langTrans=EN	1			
+anzurichten	anrichten	VERB	5266	5276							
+.	.	PUNCT	5277	5277							
+London	London	PROPN	5279	5284						1	
+,	,	PUNCT	5285	5285							
+8	8	ADJ	5287	5287							
+.	.	ADJ	5288	5288							
+Sept.	September	NOUN	5290	5294						1	
+(	(	PUNCT	5296	5296							
+Havas	Havas	PROPN	5297	5301	Havas	B-bn:03224612n	https://babelnet.org/synset?word=bn:03224612n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	5302	5302							
+)	)	PUNCT	5303	5303							
+Amtliche	Amtliche	ADJ	5305	5312							
+englische	englische	ADJ	5314	5322	englische	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Meldung	Meldung	NOUN	5324	5330	Meldung	B-bn:00021236n	https://babelnet.org/synset?word=bn:00021236n&lang=DE&langTrans=EN	1			
+über	über	ADP	5332	5335							
+das	der	DET	5337	5339							
+Flugwesen	Flugwesen	NOUN	5341	5349	Flugwesen	B-bn:01016879n	https://babelnet.org/synset?word=bn:01016879n&lang=DE&langTrans=EN		1	1	
+:	:	PUNCT	5350	5350							
+Am	Am	ADP	5352	5353							
+7	7	ADJ	5355	5355							
+.	.	ADJ	5356	5356							
+September	September	NOUN	5358	5366	September	B-bn:00070537n	https://babelnet.org/synset?word=bn:00070537n&lang=DE&langTrans=EN	1			
+beschrankten	beschrankten	ADJ	5368	5379							
+Wolken	Wolke	NOUN	5381	5386	Wolken	B-bn:00020002n	https://babelnet.org/synset?word=bn:00020002n&lang=DE&langTrans=EN	1			
+und	und	CONJ	5388	5390							
+Gewitter	gewittern	NOUN	5392	5399	Gewitter	B-bn:00030169n	https://babelnet.org/synset?word=bn:00030169n&lang=DE&langTrans=EN	1			
+unsere	mein	DET	5401	5406							
+Fliegertätigkeit	Fliegertätigkeit	NOUN	5408	5423						1	
+.	.	PUNCT	5424	5424							
+Nichtsdestoweniger	Nichtsdestoweniger	NOUN	5426	5443	Nichtsdestoweniger	B-bn:05580814n	https://babelnet.org/synset?word=bn:05580814n&lang=DE&langTrans=EN	1			
+nahm	nehmen	VERB	5445	5448	nahm	B-bn:00088762v	https://babelnet.org/synset?word=bn:00088762v&lang=DE&langTrans=EN		1	1	
+sie	ich	PRON	5450	5452							
+viel	viel	ADV	5454	5457							
+eg	eg	X	5459	5460							
+--	--	PART	5461	5462							
+ungsarbeit	ungsarbeit	ADJ	5463	5472							
+vor	vor	PART	5474	5476							
+,	,	PUNCT	5477	5477							
+wie	wie	ADV	5479	5481							
+auch	auch	ADV	5483	5486							
+Erkundungen	Erkundungen	NOUN	5488	5498	Erkundungen	B-bn:05366384n	https://babelnet.org/synset?word=bn:05366384n&lang=DE&langTrans=EN	1			
+und	und	CONJ	5500	5502							
+Verbindungspatrouillen	Verbindungspatrouillen	NOUN	5504	5525							
+.	.	PUNCT	5526	5526							
+8	8	NUM	5528	5528							
+feindliche	feindlich	ADJ	5530	5539	feindliche	B-bn:00104343a	https://babelnet.org/synset?word=bn:00104343a&lang=DE&langTrans=EN	1			
+Apparate	Apparat	NOUN	5541	5548						1	
+und	und	CONJ	5550	5552							
+1	1	NUM	5554	5554							
+Ballon	Ballon	NOUN	5556	5561	Ballon	B-bn:00008187n	https://babelnet.org/synset?word=bn:00008187n&lang=DE&langTrans=EN		1	1	
+wurden	werden	AUX	5563	5568							
+durch	durch	ADP	5570	5574							
+unsere	mein	DET	5576	5581							
+Flieger	Flieger	NOUN	5583	5589	Flieger	B-bn:00001688n	https://babelnet.org/synset?word=bn:00001688n&lang=DE&langTrans=EN		1	1	
+zerstört	zerstören	VERB	5591	5598	zerstört	B-bn:00086699v	https://babelnet.org/synset?word=bn:00086699v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	5599	5599							
+Während	während	ADP	5601	5607							
+der	der	DET	5609	5611							
+letzten	letzt	ADJ	5613	5619	letzten	B-bn:00105740a	https://babelnet.org/synset?word=bn:00105740a&lang=DE&langTrans=EN		1	1	
+24	24	NUM	5621	5622							
+Stunden	Stunde	NOUN	5624	5630	Stunden	B-bn:00000127n	https://babelnet.org/synset?word=bn:00000127n&lang=DE&langTrans=EN	1			
+wurden	werden	AUX	5632	5637							
+von	von	ADP	5639	5641							
+uns	sich	PRON	5643	5645							
+13	13	NUM	5647	5648							
+Tonnen	Tonne	NOUN	5650	5655	Tonnen	B-bn:00054662n	https://babelnet.org/synset?word=bn:00054662n&lang=DE&langTrans=EN	1			
+Bomben	Bombe	NOUN	5657	5662	Bomben	B-bn:00011917n	https://babelnet.org/synset?word=bn:00011917n&lang=DE&langTrans=EN	1			
+abgeworfen	abwerfen	VERB	5664	5673	abgeworfen	B-bn:00094939v	https://babelnet.org/synset?word=bn:00094939v&lang=DE&langTrans=EN		1	1	
+.	.	PUNCT	5674	5674							
+Alle	all	DET	5676	5679							
+unsere	mein	DET	5681	5686							
+Nachtbombardierungsgeschwader	Nachtbombardierungsgeschwader	NOUN	5688	5716							
+sind	sein	AUX	5718	5721							
+unbeschädigt	unbeschädigt	ADJ	5723	5734							
+zurückgekehrt	zurückkehren	VERB	5736	5748	zurückgekehrt	B-bn:00092969v	https://babelnet.org/synset?word=bn:00092969v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	5749	5749							
+Handels-	Handels-	X	5751	5758	Handels-	B-bn:00077860n	https://babelnet.org/synset?word=bn:00077860n&lang=DE&langTrans=EN		1	1	
+und	und	CONJ	5760	5762							
+Kreuzerkrieg	Kreuzerkrieg	NOUN	5764	5775						1	
+.	.	PUNCT	5776	5776							
+Berlin	Berlin	PROPN	5778	5783	Berlin	B-bn:00010025n	https://babelnet.org/synset?word=bn:00010025n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	5784	5784							
+9	9	ADJ	5786	5786							
+.	.	ADJ	5787	5787							
+Sept.	September	NOUN	5789	5793						1	
+(	(	PUNCT	5795	5795							
+Wolff	Wolff	PROPN	5796	5800							
+.	.	PUNCT	5801	5801							
+Amtlich	Amtlich	ADJ	5803	5809							
+.	.	PUNCT	5810	5810							
+)	)	PUNCT	5811	5811							
+Im	Im	ADP	5813	5814							
+englischen	englisch	ADJ	5816	5825	englischen	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Sperrgebiet	Sperrgebiet	NOUN	5827	5837	Sperrgebiet	B-bn:00057811n	https://babelnet.org/synset?word=bn:00057811n&lang=DE&langTrans=EN	1			
+wurden	werden	AUX	5839	5844							
+durch	durch	ADP	5846	5850							
+unsere	mein	DET	5852	5857							
+Unterseeboote	Unterseeboote	NOUN	5859	5871	Unterseeboote	B-bn:00062349n	https://babelnet.org/synset?word=bn:00062349n&lang=DE&langTrans=EN	1			
+11	11	NUM	5873	5878							
+Brt	Brt	NOUN	5880	5882	Brt	B-bn:01797370n	https://babelnet.org/synset?word=bn:01797370n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	5883	5883							
+versenkt	versenken	VERB	5885	5892							
+.	.	PUNCT	5893	5893							
+Die	der	DET	5895	5897							
+Bekämpfung	Bekämpfung	NOUN	5899	5908						1	
+der	der	DET	5910	5912							
+Anterseeboote	Anterseeboote	NOUN	5914	5926						1	1
+.	.	PUNCT	5927	5927							
+Wie	wie	ADV	5929	5931							
+bereits	bereits	ADV	5933	5939	bereits	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=EN	1			
+in	in	ADP	5941	5942							
+Nr.	Nummer	NOUN	5944	5946							
+1180	1180	NUM	5948	5951							
+der	der	DET	5953	5955							
+„	„	PROPN	5957	5957							
+N.	N.	PROPN	5958	5959						1	
+Z.	Z.	PROPN	5961	5962	Z.	B-bn:05585223n	https://babelnet.org/synset?word=bn:05585223n&lang=DE&langTrans=EN		1	1	
+Z.	Z.	X	5964	5965						1	
+"	"	X	5966	5966							
+gemeldet	melden	VERB	5968	5975							
+wurde	werden	AUX	5977	5981							
+,	,	PUNCT	5982	5982							
+veröffentlicht	veröffentlichen	VERB	5984	5997	veröffentlicht	B-bn:00088545v	https://babelnet.org/synset?word=bn:00088545v&lang=DE&langTrans=EN	1			
+die	der	DET	5999	6001							
+britische	britische	ADJ	6003	6011	britische	B-bn:00098883a	https://babelnet.org/synset?word=bn:00098883a&lang=DE&langTrans=EN	1			
+Admiralität	Admiralität	NOUN	6013	6023	Admiralität	B-bn:00001445n	https://babelnet.org/synset?word=bn:00001445n&lang=DE&langTrans=EN	1			
+die	der	DET	6025	6027							
+Namen	Name	NOUN	6029	6033	Namen	B-bn:00056758n	https://babelnet.org/synset?word=bn:00056758n&lang=DE&langTrans=EN	1			
+der	der	DET	6035	6037							
+Kommandanten	Kommandanten	NOUN	6039	6050	Kommandanten	B-bn:00020955n	https://babelnet.org/synset?word=bn:00020955n&lang=DE&langTrans=EN	1			
+der	der	DET	6052	6054							
+hundertfünfzig	hundertfünfzig	ADJ	6056	6069							
+versenkten	versenken	ADJ	6071	6080							
+deutschen	deutsch	ADJ	6082	6090	deutschen	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Unterseeboote	Unterseeboote	NOUN	6092	6104	Unterseeboote	B-bn:00062349n	https://babelnet.org/synset?word=bn:00062349n&lang=DE&langTrans=EN	1			
+.	.	PUNCT	6105	6105							
+Diese	Diese	DET	6107	6111							
+Liste	listen	NOUN	6113	6117	Liste	B-bn:01056813n	https://babelnet.org/synset?word=bn:01056813n&lang=DE&langTrans=EN	1			
+ist	sein	AUX	6119	6121							
+uns	sich	PRON	6123	6125							
+nun	nun	ADV	6127	6129							
+durch	durch	ADP	6131	6135							
+das	der	DET	6137	6139						1	
+Reuterbureau	Reuterbureau	PROPN	6141	6152							
+übermittelt	übermitteln	VERB	6154	6164	übermittelt	B-bn:00085769v	https://babelnet.org/synset?word=bn:00085769v&lang=DE&langTrans=EN	1			
+worden	werden	AUX	6166	6171							
+;	;	PUNCT	6172	6172							
+wir	ich	PRON	6174	6176							
+müssen	müssen	VERB	6178	6183	müssen	B-bn:13601282v	https://babelnet.org/synset?word=bn:13601282v&lang=DE&langTrans=EN	1			
+es	ich	PRON	6185	6186							
+uns	sich	PRON	6188	6190							
+wegen	wegen	ADP	6192	6196							
+Raummangels	Raummangels	NOUN	6198	6208							
+versagen	versagen	VERB	6210	6217							
+,	,	PUNCT	6218	6218							
+sie	ich	PRON	6220	6222							
+zu	zu	ADP	6224	6225							
+reproduzieren	reproduzieren	VERB	6227	6239							
+.	.	PUNCT	6240	6240							
+Das	der	DET	6242	6244							
+Wolffbureau	Wolffbureau	NOUN	6246	6256						1	
+gibt	geben	VERB	6258	6261	gibt	B-bn:00082267v	https://babelnet.org/synset?word=bn:00082267v&lang=DE&langTrans=EN		1	1	
+zu	zu	ADP	6263	6264	zu	I-bn:00082267v	https://babelnet.org/synset?word=bn:00082267v&lang=DE&langTrans=EN		1	1	
+dieser	dies	DET	6266	6271							
+Veröffentlichung	Veröffentlichung	NOUN	6273	6288	Veröffentlichung	B-bn:00065106n	https://babelnet.org/synset?word=bn:00065106n&lang=DE&langTrans=EN	1			
+einen	ein	DET	6290	6294							
+Kommentar	Kommentar	NOUN	6296	6304	Kommentar	B-bn:00020978n	https://babelnet.org/synset?word=bn:00020978n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	6305	6305							
+dem	der	PRON	6307	6309							
+wir	ich	PRON	6311	6313							
+folgendes	folgend	ADJ	6315	6323	folgendes	B-bn:00111392a	https://babelnet.org/synset?word=bn:00111392a&lang=DE&langTrans=EN	1			
+entnehmen	entnehmen	VERB	6325	6333	entnehmen	B-bn:00087243v	https://babelnet.org/synset?word=bn:00087243v&lang=DE&langTrans=EN		1	1	
+:	:	PUNCT	6334	6334							
+Berlin	Berlin	PROPN	6336	6341	Berlin	B-bn:00010025n	https://babelnet.org/synset?word=bn:00010025n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	6342	6342							
+9	9	ADJ	6344	6344							
+.	.	ADJ	6345	6345							
+Sept.	September	NOUN	6347	6351						1	
+(	(	PUNCT	6353	6353							
+Wolff	Wolff	PROPN	6354	6358							
+.	.	PUNCT	6359	6359							
+)	)	PUNCT	6360	6360							
+Sp	Sp	PROPN	6362	6363	Sp	B-bn:05409854n	https://babelnet.org/synset?word=bn:05409854n&lang=DE&langTrans=EN		1		
+.	.	PUNCT	6364	6364							
+Die	der	DET	6366	6368							
+britische	britische	ADJ	6370	6378	britische	B-bn:00098883a	https://babelnet.org/synset?word=bn:00098883a&lang=DE&langTrans=EN	1			
+Admiralität	Admiralität	NOUN	6380	6390	Admiralität	B-bn:00001445n	https://babelnet.org/synset?word=bn:00001445n&lang=DE&langTrans=EN	1			
+gibt	geben	VERB	6392	6395	gibt	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=DE&langTrans=EN		1	1	
+bekannt	bekennen	PART	6397	6403	bekannt	B-bn:00105645a	https://babelnet.org/synset?word=bn:00105645a&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	6404	6404							
+daß	daß	SCONJ	6406	6408							
+sie	ich	PRON	6410	6412							
+zur	zur	ADP	6414	6416							
+Führung	Führung	NOUN	6418	6424	Führung	B-bn:00050373n	https://babelnet.org/synset?word=bn:00050373n&lang=DE&langTrans=EN		1	1	
+des	der	DET	6426	6428							
+Wahrheitsbeweises	Wahrheitsbeweises	NOUN	6430	6446						1	
+für	für	ADP	6448	6450							
+die	der	DET	6452	6454							
+Behauptung	Behauptung	NOUN	6456	6465	Behauptung	B-bn:05232909n	https://babelnet.org/synset?word=bn:05232909n&lang=DE&langTrans=EN	1			
+des	der	DET	6467	6469							
+englischen	englisch	ADJ	6471	6480	englischen	B-bn:00102248a	https://babelnet.org/synset?word=bn:00102248a&lang=DE&langTrans=EN	1			
+Premierministers	Premierministers	NOUN	6482	6497	Premierministers	B-bn:00063133n	https://babelnet.org/synset?word=bn:00063133n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	6498	6498							
+daß	daß	SCONJ	6500	6502							
+150	150	NUM	6504	6506							
+Unterfeeboote	Unterfeeboote	NOUN	6508	6520						1	1
+von	von	ADP	6522	6524							
+ihnen	ich	PRON	6526	6530							
+vernichtet	vernichten	VERB	6532	6541	vernichtet	B-bn:00086699v	https://babelnet.org/synset?word=bn:00086699v&lang=DE&langTrans=EN	1			
+worden	werden	AUX	6543	6548							
+seien	sein	AUX	6550	6554							
+,	,	PUNCT	6555	6555							
+150	150	NUM	6557	6559							
+Namen	Name	NOUN	6561	6565	Namen	B-bn:00056758n	https://babelnet.org/synset?word=bn:00056758n&lang=DE&langTrans=EN	1			
+von	von	ADP	6567	6569							
+gefallenen	gefallen	ADJ	6571	6580							
+,	,	PUNCT	6581	6581							
+internierten	internieren	ADJ	6583	6594							
+und	und	CONJ	6596	6598							
+gefangenen	gefangen	ADJ	6600	6609							
+Kommandanten	Kommandanten	NOUN	6611	6622	Kommandanten	B-bn:00020955n	https://babelnet.org/synset?word=bn:00020955n&lang=DE&langTrans=EN	1			
+deutscher	deutsch	ADJ	6624	6632	deutscher	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Unterseeboote	Unterseeboote	NOUN	6634	6646	Unterseeboote	B-bn:00062349n	https://babelnet.org/synset?word=bn:00062349n&lang=DE&langTrans=EN	1			
+veroffentlicht	veroffentlicht	VERB	6648	6661							
+.	.	PUNCT	6662	6662							
+Zunächst	Zunächst	ADV	6664	6671							
+sei	sein	AUX	6673	6675							
+festgestellt	feststellen	VERB	6677	6688	festgestellt	B-bn:00082814v	https://babelnet.org/synset?word=bn:00082814v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	6689	6689							
+daß	daß	SCONJ	6691	6693							
+in	in	ADP	6695	6696							
+der	der	DET	6698	6700							
+Liste	listen	NOUN	6702	6706	Liste	B-bn:01056813n	https://babelnet.org/synset?word=bn:01056813n&lang=DE&langTrans=EN	1			
+keine	kein	DET	6708	6712							
+Offiziere	Offizier	NOUN	6714	6722	Offiziere	B-bn:00054972n	https://babelnet.org/synset?word=bn:00054972n&lang=DE&langTrans=EN	1			
+genannt	nennen	VERB	6724	6730	genannt	B-bn:00084385v	https://babelnet.org/synset?word=bn:00084385v&lang=DE&langTrans=EN	1			
+sind	sein	AUX	6732	6735							
+,	,	PUNCT	6736	6736							
+über	über	ADP	6738	6741							
+deren	der	DET	6743	6747							
+Schicksal	Schicksal	NOUN	6749	6757	Schicksal	B-bn:00026603n	https://babelnet.org/synset?word=bn:00026603n&lang=DE&langTrans=EN	1			
+die	der	DET	6759	6761							
+Angehörigen	Angehörige	NOUN	6763	6773	Angehörigen	B-bn:00057586n	https://babelnet.org/synset?word=bn:00057586n&lang=DE&langTrans=EN	1			
+nicht	nicht	PART	6775	6779							
+bereits	bereits	ADV	6781	6787	bereits	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=EN	1			
+Nachricht	Nachricht	NOUN	6789	6797	Nachricht	B-bn:00057546n	https://babelnet.org/synset?word=bn:00057546n&lang=DE&langTrans=EN		1	1	
+erhalten	erhalten	VERB	6799	6806	erhalten	B-bn:00089246v	https://babelnet.org/synset?word=bn:00089246v&lang=DE&langTrans=EN	1			
+haben	haben	AUX	6808	6812	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+.	.	PUNCT	6813	6813							
+Die	der	DET	6815	6817							
+Veröffentlichung	Veröffentlichung	NOUN	6819	6834	Veröffentlichung	B-bn:00065106n	https://babelnet.org/synset?word=bn:00065106n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	6835	6835							
+die	der	PRON	6837	6839							
+eine	einen	DET	6841	6844							
+Reihe	reihen	NOUN	6846	6850	Reihe	B-bn:00068424n	https://babelnet.org/synset?word=bn:00068424n&lang=DE&langTrans=EN	1			
+falscher	falsch	ADJ	6852	6859	falscher	B-bn:00104880a	https://babelnet.org/synset?word=bn:00104880a&lang=DE&langTrans=EN	1			
+Angaben	angeben	NOUN	6861	6867	Angaben	B-bn:15756479n	https://babelnet.org/synset?word=bn:15756479n&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	6868	6868							
+besonders	besonders	ADV	6870	6878	besonders	B-bn:00115235r	https://babelnet.org/synset?word=bn:00115235r&lang=DE&langTrans=EN	1			
+über	über	ADP	6880	6883							
+die	der	DET	6885	6887							
+Dienststellung	Dienststellung	NOUN	6889	6902	Dienststellung	B-bn:16732311n	https://babelnet.org/synset?word=bn:16732311n&lang=DE&langTrans=EN	1			
+der	der	DET	6904	6906							
+aufgeführten	aufgeführt	ADJ	6908	6919							
+Offiziere	Offizier	NOUN	6921	6929	Offiziere	B-bn:00054972n	https://babelnet.org/synset?word=bn:00054972n&lang=DE&langTrans=EN	1			
+enthält	enthalten	VERB	6931	6937	enthält	B-bn:00083225v	https://babelnet.org/synset?word=bn:00083225v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	6938	6938							
+und	und	CONJ	6940	6942							
+schon	schon	ADV	6944	6948	schon	B-bn:00114245r	https://babelnet.org/synset?word=bn:00114245r&lang=DE&langTrans=EN	1			
+dadurch	dadurch	ADV	6950	6956							
+Rückschlüsse	Rückschlüsse	NOUN	6958	6969	Rückschlüsse	B-bn:00045936n	https://babelnet.org/synset?word=bn:00045936n&lang=DE&langTrans=EN	1			
+auf	auf	ADP	6971	6973							
+die	der	DET	6975	6977							
+Zahl	zahlen	NOUN	6979	6982	Zahl	B-bn:00058285n	https://babelnet.org/synset?word=bn:00058285n&lang=DE&langTrans=EN	1			
+der	der	DET	6984	6986							
+verlornen	verlornen	ADJ	6988	6996							
+Boote	booten	NOUN	6998	7002	Boote	B-bn:00011674n	https://babelnet.org/synset?word=bn:00011674n&lang=DE&langTrans=EN	1			
+ausschließt	ausschließen	VERB	7004	7014	ausschließt	B-bn:00085183v	https://babelnet.org/synset?word=bn:00085183v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7015	7015							
+ist	sein	AUX	7017	7019							
+natürlich	natürlich	ADV	7021	7029	natürlich	B-bn:00099185a	https://babelnet.org/synset?word=bn:00099185a&lang=DE&langTrans=EN		1	1	
+dazu	dazu	ADV	7031	7034							
+bestimmt	bestimmen	VERB	7036	7043	bestimmt	B-bn:00086681v	https://babelnet.org/synset?word=bn:00086681v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7044	7044							
+bei	bei	ADP	7046	7048							
+uns	sich	PRON	7050	7052							
+einen	ein	DET	7054	7058							
+niederschmetternden	niederschmetternd	ADJ	7060	7078							
+Eindruck	Eindruck	NOUN	7080	7087	Eindruck	B-bn:00009717n	https://babelnet.org/synset?word=bn:00009717n&lang=DE&langTrans=EN	1			
+zu	zu	ADP	7089	7090							
+machen	machen	VERB	7092	7097							
+,	,	PUNCT	7098	7098							
+uns	sich	PRON	7100	7102							
+zu	zu	PART	7104	7105							
+verleiten	verleiten	VERB	7107	7115	verleiten	B-bn:00090574v	https://babelnet.org/synset?word=bn:00090574v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7116	7116							
+durch	durch	ADP	7118	7122							
+amtliche	amtlich	ADJ	7124	7131	amtliche	B-bn:00107770a	https://babelnet.org/synset?word=bn:00107770a&lang=DE&langTrans=EN	1			
+Berichtigung	Berichtigung	NOUN	7133	7144	Berichtigung	B-bn:00022869n	https://babelnet.org/synset?word=bn:00022869n&lang=DE&langTrans=EN	1			
+wertvolles	wertvoll	ADJ	7146	7155	wertvolles	B-bn:00113489a	https://babelnet.org/synset?word=bn:00113489a&lang=DE&langTrans=EN	1			
+militärisches	militärisch	ADJ	7157	7169						1	
+Nachrichtenmaterial	Nachrichtenmaterial	NOUN	7171	7189						1	
+zu	zu	PART	7191	7192							
+geben	geben	VERB	7194	7198	geben	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	7199	7199							
+Das	der	DET	7201	7203							
+deutsche	deutsch	ADJ	7205	7212	deutsche	B-bn:00103560a	https://babelnet.org/synset?word=bn:00103560a&lang=DE&langTrans=EN	1			
+Volk	Volk	NOUN	7214	7217	Volk	B-bn:00061450n	https://babelnet.org/synset?word=bn:00061450n&lang=DE&langTrans=EN	1			
+weiß	weiß	VERB	7219	7222	weiß	B-bn:00085261v	https://babelnet.org/synset?word=bn:00085261v&lang=DE&langTrans=EN	1			
+zu	zu	PART	7224	7225							
+genau	genau	ADJ	7227	7231	genau	B-bn:00096292a	https://babelnet.org/synset?word=bn:00096292a&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7232	7232							
+in	in	ADP	7234	7235							
+wie	wie	CONJ	7237	7239							
+schwerem	schwer	ADJ	7241	7248							
+Kampfe	Kampf	NOUN	7250	7255	Kampfe	B-bn:00005731n	https://babelnet.org/synset?word=bn:00005731n&lang=DE&langTrans=EN	1			
+unsere	mein	DET	7257	7262							
+tapfern	tapfern	ADJ	7264	7270							
+Unterseebootsbesatzungen	Unterseebootsbesatzungen	NOUN	7272	7295						1	
+seit	seit	ADP	7297	7300							
+mehr	mehr	DET	7302	7305	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=EN	1			
+als	als	CONJ	7307	7309							
+vier	vier	NUM	7311	7314							
+Kriegsjahren	Kriegsjahren	NOUN	7316	7327	Kriegsjahren	B-bn:05259754n	https://babelnet.org/synset?word=bn:05259754n&lang=DE&langTrans=EN	1			
+stehen	stehen	VERB	7329	7334	stehen	B-bn:00092759v	https://babelnet.org/synset?word=bn:00092759v&lang=DE&langTrans=EN		1	1	
+und	und	CONJ	7336	7338							
+daß	daß	SCONJ	7340	7342							
+in	in	ADP	7344	7345							
+zunehmendem	zunehmend	ADJ	7347	7357							
+Maße	maßen	NOUN	7359	7362	Maße	B-bn:01258038n	https://babelnet.org/synset?word=bn:01258038n&lang=DE&langTrans=EN		1	1	
+von	von	ADP	7364	7366							
+ihnen	ich	PRON	7368	7372							
+haben	haben	AUX	7374	7378	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+Opfer	opfern	NOUN	7380	7384	Opfer	B-bn:00079940n	https://babelnet.org/synset?word=bn:00079940n&lang=DE&langTrans=EN	1			
+gebracht	bringen	VERB	7386	7393	gebracht	B-bn:00084058v	https://babelnet.org/synset?word=bn:00084058v&lang=DE&langTrans=EN		1	1	
+werden	werden	AUX	7395	7400							
+müssen	müssen	VERB	7402	7407	müssen	B-bn:13601282v	https://babelnet.org/synset?word=bn:13601282v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	7408	7408							
+Haben	haben	AUX	7410	7414							
+doch	doch	ADV	7416	7419							
+die	der	DET	7421	7423							
+Gegner	Gegner	NOUN	7425	7430	Gegner	B-bn:00001582n	https://babelnet.org/synset?word=bn:00001582n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7431	7431							
+besonders	besonders	ADV	7433	7441	besonders	B-bn:00115235r	https://babelnet.org/synset?word=bn:00115235r&lang=DE&langTrans=EN	1			
+England	England	PROPN	7443	7449	England	B-bn:00030861n	https://babelnet.org/synset?word=bn:00030861n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	7450	7450							
+sich	sich	PRON	7452	7455							
+nicht	nicht	PART	7457	7461							
+gescheut	scheuen	VERB	7463	7470							
+,	,	PUNCT	7471	7471							
+zur	zur	ADP	7473	7475							
+Bekämpfung	Bekämpfung	NOUN	7477	7486						1	
+der	der	DET	7488	7490							
+durch	durch	ADP	7492	7496							
+die	der	DET	7498	7500							
+Unterseeboote	Unterseeboote	NOUN	7502	7514	Unterseeboote	B-bn:00062349n	https://babelnet.org/synset?word=bn:00062349n&lang=DE&langTrans=EN	1			
+drohenden	drohend	ADJ	7516	7524	drohenden	B-bn:00098000a	https://babelnet.org/synset?word=bn:00098000a&lang=DE&langTrans=EN	1			
+Gefahr	Gefahr	NOUN	7526	7531	Gefahr	B-bn:00025171n	https://babelnet.org/synset?word=bn:00025171n&lang=DE&langTrans=EN	1			
+neben	neben	ADP	7533	7537							
+rechtmäßigen	rechtmäßig	ADJ	7539	7550	rechtmäßigen	B-bn:00099205a	https://babelnet.org/synset?word=bn:00099205a&lang=DE&langTrans=EN	1			
+Mitteln	Mittel	NOUN	7552	7558	Mitteln	B-bn:00016459n	https://babelnet.org/synset?word=bn:00016459n&lang=DE&langTrans=EN		1	1	
+auch	auch	ADV	7560	7563							
+zu	zu	ADP	7565	7566							
+Maßnahmen	Maßnahme	NOUN	7568	7576	Maßnahmen	B-bn:05394553n	https://babelnet.org/synset?word=bn:05394553n&lang=DE&langTrans=EN	1			
+zu	zu	PART	7578	7579							
+greifen	greifen	VERB	7581	7587	greifen	B-bn:00088996v	https://babelnet.org/synset?word=bn:00088996v&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	7588	7588							
+deren	der	DET	7590	7594							
+Niedertracht	Niedertracht	NOUN	7596	7607	Niedertracht	B-bn:00061552n	https://babelnet.org/synset?word=bn:00061552n&lang=DE&langTrans=EN	1			
+einen	ein	DET	7609	7613							
+Schandfleck	Schandfleck	NOUN	7615	7625	Schandfleck	B-bn:00032560n	https://babelnet.org/synset?word=bn:00032560n&lang=DE&langTrans=EN	1			
+mehr	mehr	ADV	7627	7630	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=EN		1		
+auf	auf	ADP	7632	7634							
+Englands	England	PROPN	7636	7643	Englands	B-bn:00030861n	https://babelnet.org/synset?word=bn:00030861n&lang=DE&langTrans=EN	1			
+Schild	Schild	NOUN	7645	7650	Schild	B-bn:00013602n	https://babelnet.org/synset?word=bn:00013602n&lang=DE&langTrans=EN	1			
+darstellen	darstellen	VERB	7652	7661	darstellen	B-bn:00086611v	https://babelnet.org/synset?word=bn:00086611v&lang=DE&langTrans=EN	1			
+.	.	PUNCT	7662	7662							
+Man	Man	PRON	7664	7666	Man	B-bn:02768838n	https://babelnet.org/synset?word=bn:02768838n&lang=DE&langTrans=EN	1			
+wird	werden	AUX	7668	7671							
+unsern	unsern	ADJ	7673	7678							
+Verlust	Verlust	NOUN	7680	7686	Verlust	B-bn:00052050n	https://babelnet.org/synset?word=bn:00052050n&lang=DE&langTrans=EN	1			
+an	an	ADP	7688	7689							
+Unterseebooten	Unterseebooten	NOUN	7691	7704	Unterseebooten	B-bn:00062349n	https://babelnet.org/synset?word=bn:00062349n&lang=DE&langTrans=EN	1			
+bedauern	bedauern	VERB	7706	7713	bedauern	B-bn:00092684v	https://babelnet.org/synset?word=bn:00092684v&lang=DE&langTrans=EN	1			
+;	;	PUNCT	7714	7714							
+jedoch	jedoch	ADV	7716	7721	jedoch	B-bn:00114216r	https://babelnet.org/synset?word=bn:00114216r&lang=DE&langTrans=EN	1			
+ist	sein	AUX	7723	7725							
+er	ich	PRON	7727	7728							
+für	für	ADP	7730	7732							
+jeden	jed	DET	7734	7738							
+Fachmann	Fachmann	NOUN	7740	7747	Fachmann	B-bn:05280293n	https://babelnet.org/synset?word=bn:05280293n&lang=DE&langTrans=EN	1			
+durch	durch	ADP	7749	7753							
+die	der	DET	7755	7757							
+wachsende	wachsend	ADJ	7759	7767						1	
+Zunahme	Zunahme	NOUN	7769	7775	Zunahme	B-bn:00000766n	https://babelnet.org/synset?word=bn:00000766n&lang=DE&langTrans=EN	1			
+der	der	DET	7777	7779							
+Gegenmaßregeln	Gegenmaßregeln	NOUN	7781	7794							
+und	und	CONJ	7796	7798							
+die	der	DET	7800	7802							
+größere	groß	ADJ	7804	7810	größere	B-bn:00098342a	https://babelnet.org/synset?word=bn:00098342a&lang=DE&langTrans=EN	1			
+Zahl	zahlen	NOUN	7812	7815	Zahl	B-bn:00058285n	https://babelnet.org/synset?word=bn:00058285n&lang=DE&langTrans=EN	1			
+der	der	DET	7817	7819							
+am	am	ADP	7821	7822							
+Feinde	feinden	NOUN	7824	7829	Feinde	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+befindlichen	befindliche	ADJ	7831	7842							
+Unterfeeboote	Unterfeeboote	NOUN	7844	7856						1	1
+durchaus	durchaus	ADV	7858	7865							
+erklärlich	erklärlich	ADJ	7867	7876							
+.	.	PUNCT	7877	7877							
+Zu	zu	ADP	7879	7880							
+ernstern	ernstern	ADJ	7882	7889							
+Bedenken	Bedenken	NOUN	7891	7898	Bedenken	B-bn:00026192n	https://babelnet.org/synset?word=bn:00026192n&lang=DE&langTrans=EN		1	1	
+könnten	können	VERB	7900	7906	könnten	B-bn:13644876v	https://babelnet.org/synset?word=bn:13644876v&lang=DE&langTrans=EN		1		
+unsere	mein	DET	7908	7913							
+Verluste	Verlust	NOUN	7915	7922	Verluste	B-bn:00052050n	https://babelnet.org/synset?word=bn:00052050n&lang=DE&langTrans=EN	1			
+nur	nur	ADV	7924	7926							
+dann	dann	ADV	7928	7931							
+Anlaß	Anlaß	NOUN	7933	7937							
+geben	geben	VERB	7939	7943	geben	B-bn:00088815v	https://babelnet.org/synset?word=bn:00088815v&lang=DE&langTrans=EN		1	1	
+,	,	PUNCT	7944	7944							
+wenn	wenn	SCONJ	7946	7949							
+der	der	DET	7951	7953							
+Zuwachs	Zuwachs	NOUN	7955	7961	Zuwachs	B-bn:05285637n	https://babelnet.org/synset?word=bn:05285637n&lang=DE&langTrans=EN		1	1	
+an	an	ADP	7963	7964							
+Booten	Boot	NOUN	7966	7971	Booten	B-bn:00011674n	https://babelnet.org/synset?word=bn:00011674n&lang=DE&langTrans=EN	1			
+die	der	DET	7973	7975							
+Zahl	zahlen	NOUN	7977	7980	Zahl	B-bn:00058285n	https://babelnet.org/synset?word=bn:00058285n&lang=DE&langTrans=EN	1			
+der	der	DET	7982	7984							
+vernichteten	vernichten	ADJ	7986	7997							
+nicht	nicht	PART	7999	8003							
+überträfe	übertreffen	VERB	8005	8013	überträfe	B-bn:00083461v	https://babelnet.org/synset?word=bn:00083461v&lang=DE&langTrans=EN		1	1	
+.	.	PUNCT	8014	8014							
+Daß	Daß	SCONJ	8016	8018							
+wir	ich	PRON	8020	8022							
+aber	aber	ADV	8024	8027							
+mehr	mehr	DET	8029	8032	mehr	B-bn:00116285r	https://babelnet.org/synset?word=bn:00116285r&lang=DE&langTrans=EN	1			
+Boote	booten	NOUN	8034	8038	Boote	B-bn:00011674n	https://babelnet.org/synset?word=bn:00011674n&lang=DE&langTrans=EN	1			
+bauen	bauen	VERB	8040	8044	bauen	B-bn:00084198v	https://babelnet.org/synset?word=bn:00084198v&lang=DE&langTrans=EN	1			
+als	als	CONJ	8046	8048							
+verlieren	verlieren	VERB	8050	8058	verlieren	B-bn:00090485v	https://babelnet.org/synset?word=bn:00090485v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	8059	8059							
+ist	sein	AUX	8061	8063							
+von	von	ADP	8065	8067							
+amtlicher	amtlich	ADJ	8069	8077	amtlicher	B-bn:00107770a	https://babelnet.org/synset?word=bn:00107770a&lang=DE&langTrans=EN	1			
+Stelle	stellen	NOUN	8079	8084	Stelle	B-bn:00063743n	https://babelnet.org/synset?word=bn:00063743n&lang=DE&langTrans=EN		1	1	
+wiederholt	wiederholen	ADJ	8086	8095							
+unzweideutig	unzweideutig	ADJ	8097	8108	unzweideutig	B-bn:00112306a	https://babelnet.org/synset?word=bn:00112306a&lang=DE&langTrans=EN	1			
+festgestellt	feststellen	VERB	8110	8121	festgestellt	B-bn:00082814v	https://babelnet.org/synset?word=bn:00082814v&lang=DE&langTrans=EN	1			
+worden	werden	AUX	8123	8128							
+.	.	PUNCT	8129	8129							
+Jede	jed	DET	8131	8134							
+neu	neu	ADJ	8136	8138	neu	B-bn:00107267a	https://babelnet.org/synset?word=bn:00107267a&lang=DE&langTrans=EN		1	1	
+an	an	ADP	8140	8141							
+den	der	DET	8143	8145							
+Feind	Feind	NOUN	8147	8151	Feind	B-bn:00030814n	https://babelnet.org/synset?word=bn:00030814n&lang=DE&langTrans=EN	1			
+kommende	kommend	ADJ	8153	8160							
+Unterseebootsbesatzung	Unterseebootsbesatzung	NOUN	8162	8183						1	
+wird	werden	AUX	8185	8188							
+den	der	DET	8190	8192							
+Geg	Geg	NOUN	8194	8196						1	1
+nern	nern	VERB	8198	8201						1	1
+zeigen	zeigen	VERB	8203	8208	zeigen	B-bn:00086567v	https://babelnet.org/synset?word=bn:00086567v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	8209	8209							
+daß	daß	SCONJ	8211	8213							
+ihr	mein	DET	8215	8217							
+Wille	Wille	NOUN	8219	8223	Wille	B-bn:16772028n	https://babelnet.org/synset?word=bn:16772028n&lang=DE&langTrans=EN	1			
+,	,	PUNCT	8224	8224							
+das	der	DET	8226	8228							
+Ziel	zielen	NOUN	8230	8233	Ziel	B-bn:00030721n	https://babelnet.org/synset?word=bn:00030721n&lang=DE&langTrans=EN	1			
+zu	zu	PART	8235	8236							
+erreichen	erreichen	VERB	8238	8246	erreichen	B-bn:00082226v	https://babelnet.org/synset?word=bn:00082226v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	8247	8247							
+ungebrochen	ungebrochen	ADJ	8249	8259							
+ist	sein	AUX	8261	8263							
+.	.	PUNCT	8264	8264							
+Sie	ich	PRON	8266	8268							
+werden	werden	AUX	8270	8275							
+durch	durch	ADP	8277	8281							
+ihren	mein	DET	8283	8287							
+Mut	Mut	NOUN	8289	8291	Mut	B-bn:00012839n	https://babelnet.org/synset?word=bn:00012839n&lang=DE&langTrans=EN	1			
+und	und	CONJ	8293	8295							
+ihre	mein	DET	8297	8300							
+Unerschrockenheit	Unerschrockenheit	NOUN	8302	8318	Unerschrockenheit	B-bn:00042293n	https://babelnet.org/synset?word=bn:00042293n&lang=DE&langTrans=EN	1			
+das	der	DET	8320	8322							
+Andenken	Andenken	NOUN	8324	8331	Andenken	B-bn:15966693n	https://babelnet.org/synset?word=bn:15966693n&lang=DE&langTrans=EN		1	1	
+aller	all	DET	8333	8337							
+derer	derer	PRON	8339	8343							
+ehren	ehren	VERB	8345	8349	ehren	B-bn:00089449v	https://babelnet.org/synset?word=bn:00089449v&lang=DE&langTrans=EN	1			
+,	,	PUNCT	8350	8350							
+die	der	PRON	8352	8354							
+ihr	mein	DET	8356	8358							
+Leben	Leben	NOUN	8360	8364	Leben	B-bn:00051054n	https://babelnet.org/synset?word=bn:00051054n&lang=DE&langTrans=EN	1			
+gelassen	lassen	VERB	8366	8373	gelassen	B-bn:00084198v	https://babelnet.org/synset?word=bn:00084198v&lang=DE&langTrans=EN		1	1	
+haben	haben	AUX	8375	8379	haben	B-bn:00085002v	https://babelnet.org/synset?word=bn:00085002v&lang=DE&langTrans=EN		1		
+für	für	ADP	8381	8383							
+die	der	DET	8385	8387							
+Verteidigung	Verteidigung	NOUN	8389	8400	Verteidigung	B-bn:00025878n	https://babelnet.org/synset?word=bn:00025878n&lang=DE&langTrans=EN	1			
+des	der	DET	8402	8404							
+Vaterlandes	Vaterlandes	NOUN	8406	8416						1	
+.	.	PUNCT	8417	8417							
+Total								336	92	159	26
