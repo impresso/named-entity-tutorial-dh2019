@@ -1,6 +1,6 @@
 # Named Entity Processing for Digital Humanities 
        
-**DH2019 Tutorial**
+**[DH2019 Tutorial](https://www.conftool.pro/dh2019/index.php?page=browseSessions&form_session=568&presentations=show)**
 
 ## Context
 
@@ -22,6 +22,43 @@ Participants will also learn how to run an existing NER system and, more interes
 - rule-based
 - deep-learning
 
+## Logistics
+
+- Date: Tuesday 9 July from 9am to 4pm
+- Venue: [TivoliVredenburg](https://www.tivolivredenburg.nl/english/) building, **room 'Hertz'**
+- Important: please come with a fully charged laptop
+
+## General schedule
+
+| Time        | Activity                |
+| ----------- | ----------------------- |
+| 08h45-09h00 | Welcome of participants |
+| 09h00-10h30 | Theoretical part        |
+| 10h30-11h00 | *Coffee break*          |
+| 11h00-12h00 | Theoretical part        |
+| 12h00-13h00 | Hands-on                |
+| 13h00-14h00 | *Lunch break*           |
+| 14h00-14h45 | Hands-on                |
+| 14h45-15h15 | *Coffee break*          |
+| 15h15-16h00 | Hands-on                |
+
+## Detailed program
+
+| Time        | Topic                                            |
+| ----------- | ------------------------------------------------ |
+| 09h00-09h05 | *Introduction, welcome*                          |
+| 09h05-09h20 | Segment 1: Context, Definition and Applications  |
+| 09h20-09h45 | Segment 2: Resources for Named Entities          |
+| 09h45-10h30 | Segment 3: Recognizing and classifying           |
+| 11h00-11h20 | Segment 4: Linking                               |
+| 11h20-11h30 | Segment 5: Evaluating                            |
+| 11h30-12h00 | Segment 6: Zoom on DH                            |
+| 12h00-12h30 | Hands-on: System set up                          |
+| 12h30-13h00 | Hands-on: Experimenting APIs and applying models |
+| 14h00-14h45 | Hands-on: Experimenting APIs and applying models |
+| 15h15-16h00 | Hands-on: Experimenting APIs and applying models |
+
+
 ## Material
 
 In the hands-on session we will make use of two datasets consisting of historical texts:
@@ -29,10 +66,6 @@ In the hands-on session we will make use of two datasets consisting of historica
 2. impresso dataset (Swiss and Luxembourgish historical newspapers in French and German).
 
 Additionally, we will provide a list of alternative datasets, both historical and contemporary, that participants can decide to work with, in full respect of copyrights. Finally, participants are welcome to bring to the workshop their own datasets in order to apply the code and tools we will present to them.
-
-## Detailed program
-
-*to come soon!*
 
 ## Technical set-up
 
