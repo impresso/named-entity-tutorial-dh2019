@@ -1,0 +1,288 @@
+2019-07-05 21:15:00,595: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:15:00,597: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:15:00,597: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:15:00,597: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../resources/data/grammar_person.grm
+2019-07-05 21:15:00,599: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Could not initialize cascaded grammar from file: ../resources/data/grammar_person.grm
+2019-07-05 21:15:00,599: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Error encountered while loading the resources specified in the configuration properties: 
+2019-07-05 21:16:17,160: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:16:17,161: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:16:17,161: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:16:17,161: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../resources/data/grammar_person.grm
+2019-07-05 21:16:17,162: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Could not initialize cascaded grammar from file: ../resources/data/grammar_person.grm
+2019-07-05 21:16:17,162: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Error encountered while loading the resources specified in the configuration properties: 
+2019-07-05 21:17:17,797: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:17:17,797: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:17:17,798: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:17:17,798: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:17:17,810: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/data/modules_grammar
+2019-07-05 21:17:17,810: INFO main piskorski.util.functions.Files - InputDirectory: ../compiled-resources/data/modules_grammar is not a directory.
+2019-07-05 21:17:17,810: ERROR main piskorski.util.functions.Files - Problems while accessing: ../compiled-resources/data/modules_grammar
+2019-07-05 21:17:17,811: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Errors while accessing the directory: ../compiled-resources/data/modules_grammar containing module configuration files.
+2019-07-05 21:17:17,811: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Error encountered while loading the resources specified in the configuration properties: 
+2019-07-05 21:18:04,650: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:18:04,651: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:18:04,651: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:18:04,651: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:18:04,662: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:18:04,663: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:18:04,688: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:18:04,688: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:18:04,696: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:18:04,696: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:18:04,701: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:18:04,703: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:18:04,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:18:04,705: INFO main it.jrc.lt.regexpfs.module.Module - Type: event_pattern is not defined in the grammar
+2019-07-05 21:18:04,705: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Type inconsistency in module: gazetteerPersons
+2019-07-05 21:18:04,705: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Incosistencies in the loaded resources were encountered
+2019-07-05 21:21:23,528: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:21:23,529: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:21:23,529: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:21:23,529: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:21:23,542: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:21:23,542: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:21:23,568: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:21:23,568: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:21:23,575: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:21:23,575: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:21:23,580: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:21:23,583: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:21:23,584: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:21:23,584: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:21:23,584: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:21:23,584: INFO main it.jrc.lt.regexpfs.module.Module - Type: event_pattern is not defined in the grammar
+2019-07-05 21:21:23,584: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Type inconsistency in module: gazetteerPersons
+2019-07-05 21:21:23,584: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Incosistencies in the loaded resources were encountered
+2019-07-05 21:23:19,224: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:23:19,225: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:23:19,225: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:23:19,225: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:23:19,237: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:23:19,238: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:23:19,260: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:23:19,260: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:23:19,267: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:23:19,267: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:23:19,272: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:23:19,274: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.module.Module - Type: event_pattern is not defined in the grammar
+2019-07-05 21:23:19,275: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Type inconsistency in module: gazetteerPersons
+2019-07-05 21:23:19,275: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Incosistencies in the loaded resources were encountered
+2019-07-05 21:24:48,837: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:24:48,837: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:24:48,837: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:24:48,837: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:24:48,850: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:24:48,850: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:24:48,877: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:24:48,878: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:24:48,884: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:24:48,884: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:24:48,889: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:24:48,891: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:24:48,891: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:24:48,891: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:24:48,891: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:24:48,891: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.module.Module - Type: event_pattern is not defined in the grammar
+2019-07-05 21:24:48,892: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Type inconsistency in module: gazetteerPersons
+2019-07-05 21:24:48,892: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Incosistencies in the loaded resources were encountered
+2019-07-05 21:31:34,640: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:31:34,641: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:31:34,641: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:31:34,642: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:31:34,658: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:31:34,659: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:31:34,686: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:31:34,686: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:31:34,692: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:31:34,692: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:31:34,700: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:31:34,702: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:31:34,703: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:31:34,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-05 21:31:34,704: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed
+2019-07-05 21:33:07,424: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:33:07,425: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:33:07,425: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:33:07,425: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:33:07,437: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:33:07,438: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:33:07,460: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:33:07,460: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:33:07,466: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:33:07,467: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:33:07,472: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:33:07,474: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:33:07,475: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:33:07,475: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:33:07,475: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:33:07,475: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-05 21:33:07,475: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed
+2019-07-05 21:33:07,475: INFO main piskorski.util.functions.Files - InputDirectory: ../experiments/input/grammar_person_input.txt is not a directory.
+2019-07-05 21:33:07,475: ERROR main piskorski.util.functions.Files - Problems while accessing: ../experiments/input/grammar_person_input.txt
+2019-07-05 21:33:07,475: ERROR main it.jrc.lt.regexpfs.GrammarInterpreter - Errors encountered while reading the directory: ../experiments/input/grammar_person_input.txt
+2019-07-05 21:33:41,258: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:33:41,258: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:33:41,258: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:33:41,258: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:33:41,271: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:33:41,272: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:33:41,295: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:33:41,295: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:33:41,301: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:33:41,301: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:33:41,306: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:33:41,309: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:33:41,309: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:33:41,310: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:33:41,311: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:33:41,311: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-05 21:33:41,311: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed
+2019-07-05 21:34:23,188: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:34:23,188: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:34:23,189: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:34:23,189: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:34:23,201: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:34:23,202: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:34:23,225: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:34:23,225: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:34:23,231: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:34:23,231: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:34:23,236: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:34:23,238: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:34:23,238: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:34:23,238: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: OFF
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: ON
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:34:23,239: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-05 21:34:23,240: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed
+2019-07-05 21:34:38,830: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-05 21:34:38,831: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-05 21:34:38,831: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-05 21:34:38,831: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-05 21:34:38,843: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-05 21:34:38,843: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-05 21:34:38,867: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-05 21:34:38,867: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-05 21:34:38,872: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-05 21:34:38,872: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-05 21:34:38,877: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-05 21:34:38,878: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: OFF
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-05 21:34:38,879: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-05 21:34:38,880: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed
+2019-07-06 12:42:31,588: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter
+2019-07-06 12:42:31,590: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources started
+2019-07-06 12:42:31,590: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Reading configuration properties
+2019-07-06 12:42:31,590: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Load cascaded grammar from the file: ../compiled-resources/data/grammar_person.grm
+2019-07-06 12:42:31,602: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Initialize modules specified in the module configuration directory: ../compiled-resources/modules_grammar
+2019-07-06 12:42:31,602: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/classifying_tokenizer_configuration.cfg
+2019-07-06 12:42:31,631: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneTokenizer has been registered successfully.
+2019-07-06 12:42:31,631: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/basic_tokenizer_configuration.cfg
+2019-07-06 12:42:31,638: INFO main it.jrc.lt.regexpfs.module.Module - Module named: CorleoneBasicTokenizer has been registered successfully.
+2019-07-06 12:42:31,638: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching module specified in the file: /Users/maudehrmann/work/work-documents/teaching/2019-July-UntrechtTutorial/named-entity-tutorial-dh2019/rule-based/express/scripts/../compiled-resources/modules_grammar/gazetteerPersonConfig.cfg
+2019-07-06 12:42:31,645: INFO main it.jrc.lt.regexpfs.module.Module - gazetteerPersons will be used output types as specified in the file: ../compiled-resources/data/person_grammar_types.txt
+2019-07-06 12:42:31,648: INFO main it.jrc.lt.regexpfs.module.Module - Module named: gazetteerPersons has been registered successfully.
+2019-07-06 12:42:31,648: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - 3 MODULES INSTALLED
+2019-07-06 12:42:31,648: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneBasicTokenizer INSTALLED
+2019-07-06 12:42:31,648: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - CorleoneTokenizer INSTALLED
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - gazetteerPersons INSTALLED
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging mode is: ON
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging all grammars mode is: OFF
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Debugging rule statistics is: OFF
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Spliting files into an array of lines is : OFF
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Loading resources ended
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources started
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether module names appearing in the grammar are launched
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking whether global types specification is consistent with type specification for each of the launched modules (which will be used)
+2019-07-06 12:42:31,649: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Checking consistency of resources ended
+2019-07-06 12:42:31,650: INFO main it.jrc.lt.regexpfs.GrammarInterpreter - Launching the grammar interpreter completed

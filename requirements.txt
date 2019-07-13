@@ -1,0 +1,6 @@
+requests
+tqdm
+flair
+jupyter
+jupyter_contrib_nbextensions
+spacy

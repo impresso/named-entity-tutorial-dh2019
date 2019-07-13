@@ -1,6 +1,9 @@
-# Named Entity Processing for Digital Humanities 
-       
+# Named Entity Processing for Digital Humanities
+
+
 **[DH2019 Tutorial](https://www.conftool.pro/dh2019/index.php?page=browseSessions&form_session=568&presentations=show)**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/impresso/named-entity-tutorial-dh2019/notebooks-draft)
 
 ## Context
 

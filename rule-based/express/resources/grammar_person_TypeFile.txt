@@ -1,0 +1,7 @@
+basic-token := [SURFACE]
+token := [TYPE,SURFACE]
+person := [NAME,FIRST_NAME,LAST_NAME,INITIAL,TITLE,RULE]
+gaz_given_name := [SURFACE]
+gaz_title := [GNUMBER,SURFACE]
+gaz_initial := [SURFACE]
+gaz_name_infix := [SURFACE]
